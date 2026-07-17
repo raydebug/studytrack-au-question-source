@@ -1,0 +1,16 @@
+{
+  "id": "001",
+  "createdAt": "2026-07-17",
+  "grade": "year-7",
+  "gradeLabel": "Year 7",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "source": "StudyTrack AU template generator",
+  "curriculum": "Australian Curriculum aligned practice",
+  "type": "short-answer",
+  "prompt": "32 x 4 = ?",
+  "answer": "128",
+  "explanation": "Multiply 32 by 4."
+}

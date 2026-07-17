@@ -1,0 +1,16 @@
+{
+  "id": "001",
+  "createdAt": "2026-07-17",
+  "grade": "year-6",
+  "gradeLabel": "Year 6",
+  "subject": "the-arts",
+  "subjectLabel": "The Arts",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "source": "StudyTrack AU template generator",
+  "curriculum": "Australian Curriculum aligned practice",
+  "type": "short-answer",
+  "prompt": "What do actors use to show a character's feelings?",
+  "answer": "expression",
+  "explanation": "This checks arts language, making, and responding skills."
+}

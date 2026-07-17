@@ -1,0 +1,16 @@
+{
+  "id": "002",
+  "createdAt": "2026-07-18",
+  "grade": "year-9",
+  "gradeLabel": "Year 9",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "source": "StudyTrack AU template generator",
+  "curriculum": "Australian Curriculum aligned practice",
+  "type": "short-answer",
+  "prompt": "58 x 20 = ?",
+  "answer": "1160",
+  "explanation": "Multiply 58 by 20."
+}

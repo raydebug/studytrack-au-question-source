@@ -1,0 +1,16 @@
+{
+  "id": "002",
+  "createdAt": "2026-07-18",
+  "grade": "year-7",
+  "gradeLabel": "Year 7",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "source": "StudyTrack AU template generator",
+  "curriculum": "Australian Curriculum aligned practice",
+  "type": "short-answer",
+  "prompt": "23 x 12 = ?",
+  "answer": "276",
+  "explanation": "Multiply 23 by 12."
+}

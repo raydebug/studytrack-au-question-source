@@ -1,0 +1,16 @@
+{
+  "id": "002",
+  "createdAt": "2026-07-18",
+  "grade": "year-7",
+  "gradeLabel": "Year 7",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "source": "StudyTrack AU template generator",
+  "curriculum": "Australian Curriculum aligned practice",
+  "type": "short-answer",
+  "prompt": "Translate the idea of 'thank you' into another language you know.",
+  "answer": "thanks",
+  "explanation": "This checks language-learning strategies and intercultural understanding."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "001",
+  "createdAt": "2026-07-17",
+  "grade": "year-10",
+  "gradeLabel": "Year 10",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "source": "StudyTrack AU template generator",
+  "curriculum": "Australian Curriculum aligned practice",
+  "type": "short-answer",
+  "prompt": "28 x 43 = ?",
+  "answer": "1204",
+  "explanation": "Multiply 28 by 43."
+}

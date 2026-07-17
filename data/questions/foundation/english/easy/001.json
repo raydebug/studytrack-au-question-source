@@ -1,0 +1,20 @@
+{
+  "id": "001",
+  "createdAt": "2026-07-17",
+  "grade": "foundation",
+  "gradeLabel": "Foundation",
+  "subject": "english",
+  "subjectLabel": "English",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "source": "StudyTrack AU template generator",
+  "curriculum": "Australian Curriculum aligned practice",
+  "type": "short-answer",
+  "prompt": "Write a word that means almost the same as \"tiny\".",
+  "answer": "small",
+  "acceptableAnswers": [
+    "tiny",
+    "small"
+  ],
+  "explanation": "\"small\" is a close synonym of \"tiny\"."
+}

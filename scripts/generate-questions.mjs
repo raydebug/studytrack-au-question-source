@@ -1,4 +1,4 @@
-import { mkdir, readFile, writeFile } from "node:fs/promises";
+import { mkdir, readdir, readFile, writeFile } from "node:fs/promises";
 import { existsSync } from "node:fs";
 
 const DATA_DIR = new URL("../data/", import.meta.url);
@@ -28,10 +28,26 @@ const SUBJECTS = [
   { id: "languages", label: "Languages" },
 ];
 
-const today = new Date();
+const DIFFICULTIES = [
+  { id: "easy", label: "Easy" },
+  { id: "medium", label: "Medium" },
+  { id: "hard", label: "Hard" },
+];
+
 const dateArg = process.argv.find((arg) => arg.startsWith("--date="));
-const runDate = dateArg ? dateArg.slice("--date=".length) : today.toISOString().slice(0, 10);
+const runDate = dateArg ? dateArg.slice("--date=".length) : todayInBrisbane();
 const checkOnly = process.argv.includes("--check");
+
+function todayInBrisbane() {
+  const parts = new Intl.DateTimeFormat("en-AU", {
+    timeZone: "Australia/Brisbane",
+    year: "numeric",
+    month: "2-digit",
+    day: "2-digit",
+  }).formatToParts(new Date());
+  const values = Object.fromEntries(parts.map((part) => [part.type, part.value]));
+  return `${values.year}-${values.month}-${values.day}`;
+}
 
 function hashSeed(input) {
   let value = 2166136261;
@@ -61,25 +77,28 @@ function number(rng, min, max) {
   return min + Math.floor(rng() * (max - min + 1));
 }
 
-function makeQuestion(grade, subject, slot) {
-  const rng = makeRng(hashSeed(`${runDate}:${grade.id}:${subject.id}:${slot}`));
-  const id = `${runDate}-${grade.id}-${subject.id}-${slot + 1}`;
+function makeQuestion(grade, subject, difficulty, sequence) {
+  const rng = makeRng(hashSeed(`${runDate}:${grade.id}:${subject.id}:${difficulty.id}:${sequence}`));
+  const id = String(sequence).padStart(3, "0");
   const common = {
     id,
-    date: runDate,
+    createdAt: runDate,
     grade: grade.id,
     gradeLabel: grade.label,
     subject: subject.id,
     subjectLabel: subject.label,
+    difficulty: difficulty.id,
+    difficultyLabel: difficulty.label,
     source: "StudyTrack AU template generator",
     curriculum: "Australian Curriculum aligned practice",
   };
 
   if (subject.id === "mathematics") {
     const base = Math.max(grade.level, 1);
-    const a = number(rng, 2 + base, 8 + base * 4);
-    const b = number(rng, 2, 6 + base * 3);
-    const useMultiply = grade.level >= 3 && slot % 2 === 1;
+    const difficultyBoost = difficulty.id === "hard" ? 2 : difficulty.id === "medium" ? 1 : 0;
+    const a = number(rng, 2 + base, 8 + base * (4 + difficultyBoost));
+    const b = number(rng, 2, 6 + base * (3 + difficultyBoost));
+    const useMultiply = grade.level >= 3 && difficulty.id !== "easy";
     const answer = useMultiply ? a * b : a + b;
     return {
       ...common,
@@ -106,9 +125,11 @@ function makeQuestion(grade, subject, slot) {
       ...common,
       type: "short-answer",
       prompt:
-        grade.level <= 2
+        grade.level <= 2 || difficulty.id === "easy"
           ? `Write a word that means almost the same as "${pair[0]}".`
-          : `Give one synonym for "${pair[0]}" and use it in a short sentence.`,
+          : difficulty.id === "medium"
+            ? `Give one synonym for "${pair[0]}" and use it in a short sentence.`
+            : `Explain the difference in tone between "${pair[0]}" and "${pair[1]}" in one sentence.`,
       answer: pair[1],
       acceptableAnswers: pair,
       explanation: `"${pair[1]}" is a close synonym of "${pair[0]}".`,
@@ -223,29 +244,6 @@ function makeQuestion(grade, subject, slot) {
   };
 }
 
-function buildPayload() {
-  const questions = [];
-  for (const grade of GRADES) {
-    for (const subject of SUBJECTS) {
-      for (let slot = 0; slot < 3; slot += 1) {
-        questions.push(makeQuestion(grade, subject, slot));
-      }
-    }
-  }
-
-  return {
-    schemaVersion: 1,
-    generatedAt: new Date(`${runDate}T00:00:00.000Z`).toISOString(),
-    date: runDate,
-    locale: "en-AU",
-    country: "Australia",
-    grades: GRADES,
-    subjects: SUBJECTS,
-    questionCount: questions.length,
-    questions,
-  };
-}
-
 async function writeJsonIfChanged(url, value) {
   const next = `${JSON.stringify(value, null, 2)}\n`;
   if (existsSync(url)) {
@@ -256,35 +254,91 @@ async function writeJsonIfChanged(url, value) {
   return true;
 }
 
+async function nextSequenceForBucket(url) {
+  await mkdir(url, { recursive: true });
+  const files = await readdir(url);
+  const sequences = files
+    .map((file) => file.match(/^(\d{3,})\.json$/)?.[1])
+    .filter(Boolean)
+    .map(Number);
+  return sequences.length ? Math.max(...sequences) + 1 : 1;
+}
+
+async function validateExistingData() {
+  const manifestPath = new URL("manifest.json", DATA_DIR);
+  const manifest = JSON.parse(await readFile(manifestPath, "utf8"));
+
+  if (!manifest.bucketCounts || typeof manifest.bucketCounts !== "object") {
+    throw new Error("manifest.json is missing bucketCounts.");
+  }
+
+  for (const [bucket, count] of Object.entries(manifest.bucketCounts)) {
+    const maxId = Number(count);
+    if (!Number.isInteger(maxId) || maxId < 0) {
+      throw new Error(`Invalid count for ${bucket}.`);
+    }
+
+    for (let id = 1; id <= maxId; id += 1) {
+      const questionUrl = new URL(`questions/${bucket}/${String(id).padStart(3, "0")}.json`, DATA_DIR);
+      const question = JSON.parse(await readFile(questionUrl, "utf8"));
+      for (const field of ["id", "prompt", "answer", "explanation", "grade", "subject", "difficulty"]) {
+        if (!question[field]) throw new Error(`${questionUrl.pathname} is missing ${field}.`);
+      }
+    }
+  }
+}
+
+function bucketPath(grade, subject, difficulty) {
+  return `${grade.id}/${subject.id}/${difficulty.id}`;
+}
+
 await mkdir(QUESTIONS_DIR, { recursive: true });
 
-const payload = buildPayload();
-const datedPath = new URL(`questions/${runDate}.json`, DATA_DIR);
-const latestPath = new URL("questions/latest.json", DATA_DIR);
+if (checkOnly) {
+  await validateExistingData();
+  console.log("Question data is valid.");
+  process.exit(0);
+}
+
 const manifestPath = new URL("manifest.json", DATA_DIR);
+const generatedAt = new Date(`${runDate}T00:00:00.000Z`).toISOString();
+const counts = {};
+let questionCount = 0;
+let changed = false;
+
+for (const grade of GRADES) {
+  for (const subject of SUBJECTS) {
+    for (const difficulty of DIFFICULTIES) {
+      const relativeBucket = bucketPath(grade, subject, difficulty);
+      const bucketUrl = new URL(`questions/${relativeBucket}/`, DATA_DIR);
+      const sequence = await nextSequenceForBucket(bucketUrl);
+      const question = makeQuestion(grade, subject, difficulty, sequence);
+      const questionUrl = new URL(`${String(sequence).padStart(3, "0")}.json`, bucketUrl);
+      changed = (await writeJsonIfChanged(questionUrl, question)) || changed;
+      counts[relativeBucket] = sequence;
+      questionCount += 1;
+    }
+  }
+}
 
 const manifest = {
   schemaVersion: 1,
   title: "StudyTrack AU Question Source",
-  description: "Daily Australian primary and secondary practice questions for app sampling.",
-  generatedAt: payload.generatedAt,
+  description: "Australian primary and secondary practice questions stored by grade, subject, and difficulty.",
+  generatedAt,
   latestDate: runDate,
-  latestUrl: "questions/latest.json",
-  archiveUrl: `questions/${runDate}.json`,
+  baseUrl: "questions/",
   grades: GRADES,
   subjects: SUBJECTS,
-  questionsPerGradeSubject: 3,
-  questionCount: payload.questionCount,
+  difficulties: DIFFICULTIES,
+  newQuestionsPerGradeSubjectPerRun: 3,
+  bucketCounts: counts,
 };
 
-const changed = [
-  await writeJsonIfChanged(datedPath, payload),
-  await writeJsonIfChanged(latestPath, payload),
-  await writeJsonIfChanged(manifestPath, manifest),
-].some(Boolean);
+changed = (await writeJsonIfChanged(manifestPath, manifest)) || changed;
 
 if (checkOnly && changed) {
   throw new Error("Generated question data is out of date.");
 }
 
-console.log(`Generated ${payload.questionCount} questions for ${runDate}.`);
+console.log(`Generated ${questionCount} questions for ${runDate}.`);

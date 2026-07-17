@@ -1,0 +1,16 @@
+{
+  "id": "002",
+  "createdAt": "2026-07-18",
+  "grade": "year-4",
+  "gradeLabel": "Year 4",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "source": "StudyTrack AU template generator",
+  "curriculum": "Australian Curriculum aligned practice",
+  "type": "short-answer",
+  "prompt": "24 x 11 = ?",
+  "answer": "264",
+  "explanation": "Multiply 24 by 11."
+}

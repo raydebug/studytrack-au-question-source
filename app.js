@@ -25,20 +25,28 @@ const GRADES = {
   "year-12": "Year 12",
 };
 
+const DIFFICULTIES = {
+  easy: "Easy",
+  medium: "Medium",
+  hard: "Hard",
+};
+
 const STORAGE_KEY = "studytrack-au-history";
 const LOG_REFRESH_MS = 60 * 1000;
-const QUESTION_SOURCE_URL = "data/questions/latest.json";
+const QUESTION_MANIFEST_URL = "data/manifest.json";
+const QUESTION_BASE_URL = "data/questions";
 
 const state = {
   questions: [],
-  questionBank: [],
   sourceMeta: null,
+  manifest: null,
   history: loadHistory(),
   lastLogXml: "",
 };
 
 const elements = {
   gradeSelect: document.querySelector("#gradeSelect"),
+  difficultySelect: document.querySelector("#difficultySelect"),
   countInput: document.querySelector("#countInput"),
   subjectGrid: document.querySelector("#subjectGrid"),
   generateBtn: document.querySelector("#generateBtn"),
@@ -61,18 +69,18 @@ const elements = {
 
 async function loadQuestionSource() {
   try {
-    const response = await fetch(`${QUESTION_SOURCE_URL}?v=${Date.now()}`, { cache: "no-store" });
+    const response = await fetch(`${QUESTION_MANIFEST_URL}?v=${Date.now()}`, { cache: "no-store" });
     if (!response.ok) throw new Error(`HTTP ${response.status}`);
     const payload = await response.json();
-    state.questionBank = Array.isArray(payload.questions) ? payload.questions : [];
+    state.manifest = payload;
     state.sourceMeta = {
-      date: payload.date,
-      count: state.questionBank.length,
+      date: payload.latestDate,
+      count: Object.values(payload.bucketCounts || {}).reduce((sum, count) => sum + Number(count || 0), 0),
       remote: true,
     };
     renderQuestionSource();
   } catch {
-    state.questionBank = [];
+    state.manifest = null;
     state.sourceMeta = {
       date: new Date().toISOString().slice(0, 10),
       count: 0,
@@ -91,16 +99,20 @@ function selectedGrade() {
   return elements.gradeSelect.value || "year-5";
 }
 
-function generateQuiz() {
+function selectedDifficulty() {
+  return elements.difficultySelect.value || "medium";
+}
+
+async function generateQuiz() {
   const grade = selectedGrade();
+  const difficulty = selectedDifficulty();
   const count = clamp(Number(elements.countInput.value) || 10, 3, 30);
   const subjects = selectedSubjects();
 
   elements.countInput.value = count;
   elements.levelLabel.textContent = GRADES[grade] || grade;
 
-  const pool = state.questionBank.filter((question) => question.grade === grade && subjects.includes(question.subject));
-  const sourceQuestions = pool.length ? shuffle(pool).slice(0, count) : makeFallbackQuestions(grade, subjects, count);
+  const sourceQuestions = await loadSelectedQuestions(grade, subjects, difficulty, count);
 
   state.questions = sourceQuestions.map((question) => ({
     ...question,
@@ -108,9 +120,36 @@ function generateQuiz() {
     acceptableAnswers: question.acceptableAnswers || [question.answer],
   }));
 
-  elements.quizMeta.textContent = `${state.questions.length} 题 · ${subjects.map((key) => SUBJECTS[key]).join(" / ")}`;
+  elements.quizMeta.textContent = `${state.questions.length} 题 · ${DIFFICULTIES[difficulty]} · ${subjects.map((key) => SUBJECTS[key]).join(" / ")}`;
   renderQuestionSource();
   renderQuiz();
+}
+
+async function loadSelectedQuestions(grade, subjects, difficulty, count) {
+  if (!state.manifest?.bucketCounts) return makeFallbackQuestions(grade, subjects, difficulty, count);
+
+  const candidates = [];
+  for (const subject of subjects) {
+    const bucket = `${grade}/${subject}/${difficulty}`;
+    const maxId = Number(state.manifest.bucketCounts[bucket] || 0);
+    for (let id = 1; id <= maxId; id += 1) {
+      candidates.push({ bucket, id });
+    }
+  }
+
+  const picks = shuffle(candidates).slice(0, count);
+  if (!picks.length) return makeFallbackQuestions(grade, subjects, difficulty, count);
+
+  const loaded = await Promise.all(
+    picks.map(async ({ bucket, id }) => {
+      const fileName = `${String(id).padStart(3, "0")}.json`;
+      const response = await fetch(`${QUESTION_BASE_URL}/${bucket}/${fileName}?v=${Date.now()}`, { cache: "no-store" });
+      if (!response.ok) throw new Error(`HTTP ${response.status}`);
+      return response.json();
+    }),
+  ).catch(() => []);
+
+  return loaded.length ? loaded : makeFallbackQuestions(grade, subjects, difficulty, count);
 }
 
 function renderQuiz() {
@@ -132,7 +171,7 @@ function renderQuiz() {
 }
 
 function submitQuiz() {
-  if (!state.questions.length) generateQuiz();
+  if (!state.questions.length) return;
 
   let correct = 0;
   state.questions.forEach((question, index) => {
@@ -244,15 +283,15 @@ ${entries}
 </studyLog>`;
 }
 
-function makeFallbackQuestions(grade, subjects, count) {
+function makeFallbackQuestions(grade, subjects, difficulty, count) {
   return Array.from({ length: count }, (_, index) => {
     const subject = subjects[index % subjects.length];
     const level = Math.max(1, Number(grade.replace("year-", "")) || 1);
-    return makeFallbackQuestion(grade, subject, level, index);
+    return makeFallbackQuestion(grade, subject, difficulty, level, index);
   });
 }
 
-function makeFallbackQuestion(grade, subject, level, index) {
+function makeFallbackQuestion(grade, subject, difficulty, level, index) {
   const seed = Date.now() + index * 37 + subject.length * 11;
   const n = (offset, min, span) => min + ((seed + offset * 97) % span);
 
@@ -261,7 +300,7 @@ function makeFallbackQuestion(grade, subject, level, index) {
     const b = n(2, 3 * level, 10 * level);
     const op = level >= 4 && index % 2 ? "x" : "+";
     const answer = op === "x" ? a * b : a + b;
-    return { grade, subject, prompt: `${a} ${op} ${b} = ?`, answer: String(answer) };
+    return { grade, subject, difficulty, prompt: `${a} ${op} ${b} = ?`, answer: String(answer) };
   }
 
   const fallback = {
@@ -274,7 +313,7 @@ function makeFallbackQuestion(grade, subject, level, index) {
     languages: ["What does 'hello' usually mean?", "a greeting"],
   };
   const [prompt, answer] = fallback[subject] || fallback.english;
-  return { grade, subject, prompt, answer };
+  return { grade, subject, difficulty, prompt, answer };
 }
 
 function shuffle(items) {
@@ -362,7 +401,9 @@ function saveHistory() {
   localStorage.setItem(STORAGE_KEY, JSON.stringify(state.history));
 }
 
-elements.generateBtn.addEventListener("click", generateQuiz);
+elements.generateBtn.addEventListener("click", () => {
+  generateQuiz();
+});
 elements.submitBtn.addEventListener("click", submitQuiz);
 elements.resetBtn.addEventListener("click", resetAnswers);
 elements.gradeSelect.addEventListener("change", () => {
@@ -370,6 +411,6 @@ elements.gradeSelect.addEventListener("change", () => {
 });
 
 await loadQuestionSource();
-generateQuiz();
+await generateQuiz();
 renderStats();
 setInterval(renderLogStatus, LOG_REFRESH_MS);
