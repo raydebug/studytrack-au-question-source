@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 1,
+  "title": "StudyTrack AU Question Source",
+  "description": "Daily Australian primary and secondary practice questions for app sampling.",
+  "generatedAt": "2026-07-17T00:00:00.000Z",
+  "latestDate": "2026-07-17",
+  "latestUrl": "questions/latest.json",
+  "archiveUrl": "questions/2026-07-17.json",
+  "grades": [
+    {
+      "id": "foundation",
+      "label": "Foundation",
+      "band": "primary",
+      "level": 0
+    },
+    {
+      "id": "year-1",
+      "label": "Year 1",
+      "band": "primary",
+      "level": 1
+    },
+    {
+      "id": "year-2",
+      "label": "Year 2",
+      "band": "primary",
+      "level": 2
+    },
+    {
+      "id": "year-3",
+      "label": "Year 3",
+      "band": "primary",
+      "level": 3
+    },
+    {
+      "id": "year-4",
+      "label": "Year 4",
+      "band": "primary",
+      "level": 4
+    },
+    {
+      "id": "year-5",
+      "label": "Year 5",
+      "band": "primary",
+      "level": 5
+    },
+    {
+      "id": "year-6",
+      "label": "Year 6",
+      "band": "primary",
+      "level": 6
+    },
+    {
+      "id": "year-7",
+      "label": "Year 7",
+      "band": "secondary",
+      "level": 7
+    },
+    {
+      "id": "year-8",
+      "label": "Year 8",
+      "band": "secondary",
+      "level": 8
+    },
+    {
+      "id": "year-9",
+      "label": "Year 9",
+      "band": "secondary",
+      "level": 9
+    },
+    {
+      "id": "year-10",
+      "label": "Year 10",
+      "band": "secondary",
+      "level": 10
+    },
+    {
+      "id": "year-11",
+      "label": "Year 11",
+      "band": "secondary",
+      "level": 11
+    },
+    {
+      "id": "year-12",
+      "label": "Year 12",
+      "band": "secondary",
+      "level": 12
+    }
+  ],
+  "subjects": [
+    {
+      "id": "english",
+      "label": "English"
+    },
+    {
+      "id": "mathematics",
+      "label": "Mathematics"
+    },
+    {
+      "id": "science",
+      "label": "Science"
+    },
+    {
+      "id": "hass",
+      "label": "Humanities and Social Sciences"
+    },
+    {
+      "id": "health-pe",
+      "label": "Health and Physical Education"
+    },
+    {
+      "id": "technologies",
+      "label": "Technologies"
+    },
+    {
+      "id": "the-arts",
+      "label": "The Arts"
+    },
+    {
+      "id": "languages",
+      "label": "Languages"
+    }
+  ],
+  "questionsPerGradeSubject": 3,
+  "questionCount": 312
+}

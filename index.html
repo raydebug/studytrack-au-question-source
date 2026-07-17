@@ -1,0 +1,120 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta name="theme-color" content="#f7f4ef" />
+    <title>StudyTrack AU</title>
+    <link rel="manifest" href="manifest.webmanifest" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main class="app-shell">
+      <section class="topbar" aria-label="应用概览">
+        <div>
+          <p class="eyebrow">Australian primary & secondary practice</p>
+          <h1>StudyTrack AU</h1>
+        </div>
+        <div class="score-pill" id="latestScore">未开始</div>
+      </section>
+
+      <section class="workspace">
+        <aside class="panel setup-panel" aria-label="练习设置">
+          <div class="section-title">
+            <h2>练习设置</h2>
+            <span id="levelLabel">Year 5-6</span>
+          </div>
+
+          <label class="field">
+            <span>澳洲年级</span>
+            <select id="gradeSelect">
+              <option value="foundation">Foundation</option>
+              <option value="year-1">Year 1</option>
+              <option value="year-2">Year 2</option>
+              <option value="year-3">Year 3</option>
+              <option value="year-4">Year 4</option>
+              <option value="year-5" selected>Year 5</option>
+              <option value="year-6">Year 6</option>
+              <option value="year-7">Year 7</option>
+              <option value="year-8">Year 8</option>
+              <option value="year-9">Year 9</option>
+              <option value="year-10">Year 10</option>
+              <option value="year-11">Year 11</option>
+              <option value="year-12">Year 12</option>
+            </select>
+          </label>
+
+          <label class="field">
+            <span>题目数量</span>
+            <input id="countInput" type="number" min="3" max="30" value="9" inputmode="numeric" />
+          </label>
+
+          <div class="field">
+            <span>主科选择</span>
+            <div class="subject-grid" id="subjectGrid">
+              <label><input type="checkbox" value="english" checked /> 英语</label>
+              <label><input type="checkbox" value="mathematics" checked /> 数学</label>
+              <label><input type="checkbox" value="science" checked /> 科学</label>
+              <label><input type="checkbox" value="hass" /> 人文社科</label>
+              <label><input type="checkbox" value="health-pe" /> 健康体育</label>
+              <label><input type="checkbox" value="technologies" /> 科技</label>
+              <label><input type="checkbox" value="the-arts" /> 艺术</label>
+              <label><input type="checkbox" value="languages" /> 语言</label>
+            </div>
+          </div>
+
+          <button class="primary-action" id="generateBtn" type="button">生成练习</button>
+
+          <div class="mini-stats">
+            <div>
+              <strong id="sessionsCount">0</strong>
+              <span>次练习</span>
+            </div>
+            <div>
+              <strong id="averageScore">--</strong>
+              <span>平均分</span>
+            </div>
+          </div>
+        </aside>
+
+        <section class="panel quiz-panel" aria-label="练习题">
+          <div class="section-title">
+            <h2>今日练习</h2>
+            <span id="quizMeta">9 题 · 多科</span>
+          </div>
+          <div id="quizList" class="quiz-list"></div>
+          <div class="quiz-actions">
+            <button class="secondary-action" id="resetBtn" type="button">清空答案</button>
+            <button class="primary-action" id="submitBtn" type="button">提交评分</button>
+          </div>
+        </section>
+
+        <aside class="panel tracker-panel" aria-label="学习追踪">
+          <div class="section-title">
+            <h2>持续追踪</h2>
+            <span>本机保存</span>
+          </div>
+          <div class="progress-ring" id="progressRing" style="--score: 0">
+            <span id="ringScore">--</span>
+            <small>最新成绩</small>
+          </div>
+          <div class="log-status" aria-label="日志状态">
+            <div>
+              <strong id="logSize">--</strong>
+              <span>日志大小</span>
+            </div>
+            <div>
+              <strong id="lastLogAge">--</strong>
+              <span>最后日志</span>
+            </div>
+          </div>
+          <div class="log-time" id="logGeneratedAt">XML: --</div>
+          <div class="log-time" id="questionSource">题库源: 加载中</div>
+          <div id="historyList" class="history-list"></div>
+        </aside>
+      </section>
+    </main>
+
+    <script type="module" src="app.js"></script>
+  </body>
+</html>

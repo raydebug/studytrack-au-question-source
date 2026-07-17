@@ -1,0 +1,10 @@
+{
+  "name": "studytrack-au-question-source",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "generate:questions": "node scripts/generate-questions.mjs",
+    "check": "node scripts/generate-questions.mjs --check"
+  }
+}
