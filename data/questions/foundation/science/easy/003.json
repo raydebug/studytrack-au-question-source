@@ -1,0 +1,16 @@
+{
+  "id": "003",
+  "createdAt": "2026-07-18",
+  "grade": "foundation",
+  "gradeLabel": "Foundation",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "source": "StudyTrack AU template generator",
+  "curriculum": "Australian Curriculum aligned practice",
+  "type": "short-answer",
+  "prompt": "What is water called in its solid state?",
+  "answer": "ice",
+  "explanation": "ice is the key concept being tested."
+}

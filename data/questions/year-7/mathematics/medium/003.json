@@ -1,0 +1,16 @@
+{
+  "id": "003",
+  "createdAt": "2026-07-18",
+  "grade": "year-7",
+  "gradeLabel": "Year 7",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "source": "StudyTrack AU template generator",
+  "curriculum": "Australian Curriculum aligned practice",
+  "type": "short-answer",
+  "prompt": "31 x 29 = ?",
+  "answer": "899",
+  "explanation": "Multiply 31 by 29."
+}

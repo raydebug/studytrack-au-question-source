@@ -1,0 +1,16 @@
+{
+  "id": "003",
+  "createdAt": "2026-07-18",
+  "grade": "year-9",
+  "gradeLabel": "Year 9",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "source": "StudyTrack AU template generator",
+  "curriculum": "Australian Curriculum aligned practice",
+  "type": "short-answer",
+  "prompt": "34 x 26 = ?",
+  "answer": "884",
+  "explanation": "Multiply 34 by 26."
+}

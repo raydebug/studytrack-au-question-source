@@ -1,0 +1,16 @@
+{
+  "id": "003",
+  "createdAt": "2026-07-18",
+  "grade": "year-5",
+  "gradeLabel": "Year 5",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "source": "StudyTrack AU template generator",
+  "curriculum": "Australian Curriculum aligned practice",
+  "type": "short-answer",
+  "prompt": "31 x 25 = ?",
+  "answer": "775",
+  "explanation": "Multiply 31 by 25."
+}

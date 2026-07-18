@@ -1,0 +1,16 @@
+{
+  "id": "003",
+  "createdAt": "2026-07-18",
+  "grade": "year-10",
+  "gradeLabel": "Year 10",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "source": "StudyTrack AU template generator",
+  "curriculum": "Australian Curriculum aligned practice",
+  "type": "short-answer",
+  "prompt": "50 x 28 = ?",
+  "answer": "1400",
+  "explanation": "Multiply 50 by 28."
+}
