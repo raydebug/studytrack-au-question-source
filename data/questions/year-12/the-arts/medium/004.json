@@ -1,0 +1,16 @@
+{
+  "id": "004",
+  "createdAt": "2026-07-18",
+  "grade": "year-12",
+  "gradeLabel": "Year 12",
+  "subject": "the-arts",
+  "subjectLabel": "The Arts",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "source": "StudyTrack AU template generator",
+  "curriculum": "Australian Curriculum aligned practice",
+  "type": "short-answer",
+  "prompt": "What is a rehearsal for?",
+  "answer": "practice",
+  "explanation": "This checks arts language, making, and responding skills."
+}

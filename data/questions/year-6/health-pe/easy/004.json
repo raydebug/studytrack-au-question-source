@@ -1,0 +1,16 @@
+{
+  "id": "004",
+  "createdAt": "2026-07-18",
+  "grade": "year-6",
+  "gradeLabel": "Year 6",
+  "subject": "health-pe",
+  "subjectLabel": "Health and Physical Education",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "source": "StudyTrack AU template generator",
+  "curriculum": "Australian Curriculum aligned practice",
+  "type": "short-answer",
+  "prompt": "What should you do before exercise to prepare your body?",
+  "answer": "warm up",
+  "explanation": "This checks practical health, safety, and movement understanding."
+}

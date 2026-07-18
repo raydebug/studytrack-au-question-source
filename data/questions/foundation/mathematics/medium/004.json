@@ -1,0 +1,16 @@
+{
+  "id": "004",
+  "createdAt": "2026-07-18",
+  "grade": "foundation",
+  "gradeLabel": "Foundation",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "source": "StudyTrack AU template generator",
+  "curriculum": "Australian Curriculum aligned practice",
+  "type": "short-answer",
+  "prompt": "8 + 8 = ?",
+  "answer": "16",
+  "explanation": "Add 8 and 8."
+}

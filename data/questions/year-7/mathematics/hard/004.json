@@ -1,0 +1,16 @@
+{
+  "id": "004",
+  "createdAt": "2026-07-18",
+  "grade": "year-7",
+  "gradeLabel": "Year 7",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "source": "StudyTrack AU template generator",
+  "curriculum": "Australian Curriculum aligned practice",
+  "type": "short-answer",
+  "prompt": "18 x 8 = ?",
+  "answer": "144",
+  "explanation": "Multiply 18 by 8."
+}

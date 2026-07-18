@@ -1,0 +1,16 @@
+{
+  "id": "004",
+  "createdAt": "2026-07-18",
+  "grade": "year-8",
+  "gradeLabel": "Year 8",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "source": "StudyTrack AU template generator",
+  "curriculum": "Australian Curriculum aligned practice",
+  "type": "short-answer",
+  "prompt": "36 + 4 = ?",
+  "answer": "40",
+  "explanation": "Add 36 and 4."
+}
