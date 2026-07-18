@@ -4,8 +4,6 @@ on:
   push:
     branches:
       - main
-  schedule:
-    - cron: "10 14 * * *"
   workflow_dispatch:
 
 permissions:
@@ -18,7 +16,7 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  generate-and-deploy:
+  deploy:
     runs-on: ubuntu-latest
     environment:
       name: github-pages
@@ -26,20 +24,6 @@ jobs:
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
-
-      - name: Set up Node
-        uses: actions/setup-node@v4
-        with:
-          node-version: "22"
-
-      - name: Generate daily questions
-        run: npm run generate:questions
-
-      - name: Commit generated question data
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "chore: generate daily question source"
-          file_pattern: data/manifest.json data/questions/**/*.json
 
       - name: Configure Pages
         uses: actions/configure-pages@v5
