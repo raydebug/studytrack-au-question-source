@@ -1,0 +1,16 @@
+{
+  "id": "005",
+  "createdAt": "2026-07-18",
+  "grade": "year-10",
+  "gradeLabel": "Year 10",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "source": "StudyTrack AU template generator",
+  "curriculum": "Australian Curriculum aligned practice",
+  "type": "short-answer",
+  "prompt": "35 x 23 = ?",
+  "answer": "805",
+  "explanation": "Multiply 35 by 23."
+}

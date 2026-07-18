@@ -1,0 +1,16 @@
+{
+  "id": "005",
+  "createdAt": "2026-07-18",
+  "grade": "year-5",
+  "gradeLabel": "Year 5",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "source": "StudyTrack AU template generator",
+  "curriculum": "Australian Curriculum aligned practice",
+  "type": "short-answer",
+  "prompt": "8 x 8 = ?",
+  "answer": "64",
+  "explanation": "Multiply 8 by 8."
+}

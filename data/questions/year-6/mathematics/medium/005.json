@@ -1,0 +1,16 @@
+{
+  "id": "005",
+  "createdAt": "2026-07-18",
+  "grade": "year-6",
+  "gradeLabel": "Year 6",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "source": "StudyTrack AU template generator",
+  "curriculum": "Australian Curriculum aligned practice",
+  "type": "short-answer",
+  "prompt": "25 x 4 = ?",
+  "answer": "100",
+  "explanation": "Multiply 25 by 4."
+}

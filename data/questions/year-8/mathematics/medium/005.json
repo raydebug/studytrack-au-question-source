@@ -1,0 +1,16 @@
+{
+  "id": "005",
+  "createdAt": "2026-07-18",
+  "grade": "year-8",
+  "gradeLabel": "Year 8",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "source": "StudyTrack AU template generator",
+  "curriculum": "Australian Curriculum aligned practice",
+  "type": "short-answer",
+  "prompt": "43 x 19 = ?",
+  "answer": "817",
+  "explanation": "Multiply 43 by 19."
+}

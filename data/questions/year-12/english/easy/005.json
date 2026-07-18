@@ -1,0 +1,20 @@
+{
+  "id": "005",
+  "createdAt": "2026-07-18",
+  "grade": "year-12",
+  "gradeLabel": "Year 12",
+  "subject": "english",
+  "subjectLabel": "English",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "source": "StudyTrack AU template generator",
+  "curriculum": "Australian Curriculum aligned practice",
+  "type": "short-answer",
+  "prompt": "Write a word that means almost the same as \"explain\".",
+  "answer": "describe",
+  "acceptableAnswers": [
+    "explain",
+    "describe"
+  ],
+  "explanation": "\"describe\" is a close synonym of \"explain\"."
+}
