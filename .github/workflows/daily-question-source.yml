@@ -1,6 +1,11 @@
 name: Daily question source
 
 on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "10 14 * * *"
   workflow_dispatch:
 
 permissions:
@@ -34,7 +39,7 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: generate daily question source"
-          file_pattern: data/manifest.json data/questions/*.json
+          file_pattern: data/manifest.json data/questions/**/*.json
 
       - name: Configure Pages
         uses: actions/configure-pages@v5
