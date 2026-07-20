@@ -1,0 +1,16 @@
+{
+  "id": "006",
+  "createdAt": "2026-07-20",
+  "grade": "year-2",
+  "gradeLabel": "Year 2",
+  "subject": "the-arts",
+  "subjectLabel": "The Arts",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "source": "StudyTrack AU template generator",
+  "curriculum": "Australian Curriculum aligned practice",
+  "type": "short-answer",
+  "prompt": "Name one primary colour.",
+  "answer": "red",
+  "explanation": "This checks arts language, making, and responding skills."
+}

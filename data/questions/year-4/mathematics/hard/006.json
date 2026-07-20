@@ -1,0 +1,16 @@
+{
+  "id": "006",
+  "createdAt": "2026-07-20",
+  "grade": "year-4",
+  "gradeLabel": "Year 4",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "source": "StudyTrack AU template generator",
+  "curriculum": "Australian Curriculum aligned practice",
+  "type": "short-answer",
+  "prompt": "7 x 13 = ?",
+  "answer": "91",
+  "explanation": "Multiply 7 by 13."
+}

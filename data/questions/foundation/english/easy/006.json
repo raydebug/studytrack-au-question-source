@@ -1,0 +1,20 @@
+{
+  "id": "006",
+  "createdAt": "2026-07-20",
+  "grade": "foundation",
+  "gradeLabel": "Foundation",
+  "subject": "english",
+  "subjectLabel": "English",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "source": "StudyTrack AU template generator",
+  "curriculum": "Australian Curriculum aligned practice",
+  "type": "short-answer",
+  "prompt": "Write a word that means almost the same as \"compare\".",
+  "answer": "contrast",
+  "acceptableAnswers": [
+    "compare",
+    "contrast"
+  ],
+  "explanation": "\"contrast\" is a close synonym of \"compare\"."
+}

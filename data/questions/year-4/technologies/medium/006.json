@@ -1,0 +1,16 @@
+{
+  "id": "006",
+  "createdAt": "2026-07-20",
+  "grade": "year-4",
+  "gradeLabel": "Year 4",
+  "subject": "technologies",
+  "subjectLabel": "Technologies",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "source": "StudyTrack AU template generator",
+  "curriculum": "Australian Curriculum aligned practice",
+  "type": "short-answer",
+  "prompt": "Why should passwords be kept private?",
+  "answer": "security",
+  "explanation": "This checks design, digital systems, or technology process knowledge."
+}

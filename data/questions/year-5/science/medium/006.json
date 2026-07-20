@@ -1,0 +1,16 @@
+{
+  "id": "006",
+  "createdAt": "2026-07-20",
+  "grade": "year-5",
+  "gradeLabel": "Year 5",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "source": "StudyTrack AU template generator",
+  "curriculum": "Australian Curriculum aligned practice",
+  "type": "short-answer",
+  "prompt": "What is the centre of an atom called?",
+  "answer": "nucleus",
+  "explanation": "nucleus is the key concept being tested."
+}

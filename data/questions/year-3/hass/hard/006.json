@@ -1,0 +1,16 @@
+{
+  "id": "006",
+  "createdAt": "2026-07-20",
+  "grade": "year-3",
+  "gradeLabel": "Year 3",
+  "subject": "hass",
+  "subjectLabel": "Humanities and Social Sciences",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "source": "StudyTrack AU template generator",
+  "curriculum": "Australian Curriculum aligned practice",
+  "type": "short-answer",
+  "prompt": "What is the capital city of Australia?",
+  "answer": "Canberra",
+  "explanation": "This checks core Australian civics, geography, or history knowledge."
+}

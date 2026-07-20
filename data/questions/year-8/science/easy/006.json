@@ -1,0 +1,16 @@
+{
+  "id": "006",
+  "createdAt": "2026-07-20",
+  "grade": "year-8",
+  "gradeLabel": "Year 8",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "source": "StudyTrack AU template generator",
+  "curriculum": "Australian Curriculum aligned practice",
+  "type": "short-answer",
+  "prompt": "What gas do humans breathe in to survive?",
+  "answer": "oxygen",
+  "explanation": "oxygen is the key concept being tested."
+}

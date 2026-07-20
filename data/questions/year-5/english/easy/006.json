@@ -1,0 +1,20 @@
+{
+  "id": "006",
+  "createdAt": "2026-07-20",
+  "grade": "year-5",
+  "gradeLabel": "Year 5",
+  "subject": "english",
+  "subjectLabel": "English",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "source": "StudyTrack AU template generator",
+  "curriculum": "Australian Curriculum aligned practice",
+  "type": "short-answer",
+  "prompt": "Write a word that means almost the same as \"brave\".",
+  "answer": "courageous",
+  "acceptableAnswers": [
+    "brave",
+    "courageous"
+  ],
+  "explanation": "\"courageous\" is a close synonym of \"brave\"."
+}
