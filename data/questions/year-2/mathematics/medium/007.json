@@ -1,0 +1,16 @@
+{
+  "id": "007",
+  "createdAt": "2026-07-21",
+  "grade": "year-2",
+  "gradeLabel": "Year 2",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "source": "StudyTrack AU template generator",
+  "curriculum": "Australian Curriculum aligned practice",
+  "type": "short-answer",
+  "prompt": "4 + 5 = ?",
+  "answer": "9",
+  "explanation": "Add 4 and 5."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "007",
+  "createdAt": "2026-07-21",
+  "grade": "year-7",
+  "gradeLabel": "Year 7",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "source": "StudyTrack AU template generator",
+  "curriculum": "Australian Curriculum aligned practice",
+  "type": "short-answer",
+  "prompt": "41 x 16 = ?",
+  "answer": "656",
+  "explanation": "Multiply 41 by 16."
+}

@@ -1,0 +1,20 @@
+{
+  "id": "007",
+  "createdAt": "2026-07-21",
+  "grade": "year-11",
+  "gradeLabel": "Year 11",
+  "subject": "english",
+  "subjectLabel": "English",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "source": "StudyTrack AU template generator",
+  "curriculum": "Australian Curriculum aligned practice",
+  "type": "short-answer",
+  "prompt": "Give one synonym for \"calm\" and use it in a short sentence.",
+  "answer": "peaceful",
+  "acceptableAnswers": [
+    "calm",
+    "peaceful"
+  ],
+  "explanation": "\"peaceful\" is a close synonym of \"calm\"."
+}

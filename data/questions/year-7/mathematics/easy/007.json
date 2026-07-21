@@ -1,0 +1,16 @@
+{
+  "id": "007",
+  "createdAt": "2026-07-21",
+  "grade": "year-7",
+  "gradeLabel": "Year 7",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "source": "StudyTrack AU template generator",
+  "curriculum": "Australian Curriculum aligned practice",
+  "type": "short-answer",
+  "prompt": "28 + 15 = ?",
+  "answer": "43",
+  "explanation": "Add 28 and 15."
+}

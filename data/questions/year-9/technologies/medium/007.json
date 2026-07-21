@@ -1,0 +1,16 @@
+{
+  "id": "007",
+  "createdAt": "2026-07-21",
+  "grade": "year-9",
+  "gradeLabel": "Year 9",
+  "subject": "technologies",
+  "subjectLabel": "Technologies",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "source": "StudyTrack AU template generator",
+  "curriculum": "Australian Curriculum aligned practice",
+  "type": "short-answer",
+  "prompt": "Name one material that can be recycled.",
+  "answer": "paper",
+  "explanation": "This checks design, digital systems, or technology process knowledge."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "007",
+  "createdAt": "2026-07-21",
+  "grade": "year-11",
+  "gradeLabel": "Year 11",
+  "subject": "health-pe",
+  "subjectLabel": "Health and Physical Education",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "source": "StudyTrack AU template generator",
+  "curriculum": "Australian Curriculum aligned practice",
+  "type": "short-answer",
+  "prompt": "Name one healthy drink choice for school.",
+  "answer": "water",
+  "explanation": "This checks practical health, safety, and movement understanding."
+}
