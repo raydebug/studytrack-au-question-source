@@ -1,0 +1,16 @@
+{
+  "id": "007",
+  "createdAt": "2026-07-22",
+  "grade": "year-9",
+  "gradeLabel": "Year 9",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "source": "StudyTrack AU template generator",
+  "curriculum": "Australian Curriculum aligned practice",
+  "type": "short-answer",
+  "prompt": "17 x 19 = ?",
+  "answer": "323",
+  "explanation": "Multiply 17 by 19."
+}

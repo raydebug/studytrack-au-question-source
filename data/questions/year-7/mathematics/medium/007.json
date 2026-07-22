@@ -1,0 +1,16 @@
+{
+  "id": "007",
+  "createdAt": "2026-07-22",
+  "grade": "year-7",
+  "gradeLabel": "Year 7",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "source": "StudyTrack AU template generator",
+  "curriculum": "Australian Curriculum aligned practice",
+  "type": "short-answer",
+  "prompt": "16 x 7 = ?",
+  "answer": "112",
+  "explanation": "Multiply 16 by 7."
+}

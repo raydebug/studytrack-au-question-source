@@ -1,0 +1,16 @@
+{
+  "id": "007",
+  "createdAt": "2026-07-22",
+  "grade": "year-10",
+  "gradeLabel": "Year 10",
+  "subject": "health-pe",
+  "subjectLabel": "Health and Physical Education",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "source": "StudyTrack AU template generator",
+  "curriculum": "Australian Curriculum aligned practice",
+  "type": "short-answer",
+  "prompt": "What is one benefit of getting enough sleep?",
+  "answer": "more energy",
+  "explanation": "This checks practical health, safety, and movement understanding."
+}

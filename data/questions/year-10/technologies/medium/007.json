@@ -1,0 +1,16 @@
+{
+  "id": "007",
+  "createdAt": "2026-07-22",
+  "grade": "year-10",
+  "gradeLabel": "Year 10",
+  "subject": "technologies",
+  "subjectLabel": "Technologies",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "source": "StudyTrack AU template generator",
+  "curriculum": "Australian Curriculum aligned practice",
+  "type": "short-answer",
+  "prompt": "What is an algorithm?",
+  "answer": "a set of steps",
+  "explanation": "This checks design, digital systems, or technology process knowledge."
+}
