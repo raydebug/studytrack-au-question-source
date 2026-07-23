@@ -1,0 +1,20 @@
+{
+  "id": "008",
+  "createdAt": "2026-07-23",
+  "grade": "year-6",
+  "gradeLabel": "Year 6",
+  "subject": "english",
+  "subjectLabel": "English",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "source": "StudyTrack AU template generator",
+  "curriculum": "Australian Curriculum aligned practice",
+  "type": "short-answer",
+  "prompt": "Give one synonym for \"ancient\" and use it in a short sentence.",
+  "answer": "old",
+  "acceptableAnswers": [
+    "ancient",
+    "old"
+  ],
+  "explanation": "\"old\" is a close synonym of \"ancient\"."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "008",
+  "createdAt": "2026-07-23",
+  "grade": "year-4",
+  "gradeLabel": "Year 4",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "source": "StudyTrack AU template generator",
+  "curriculum": "Australian Curriculum aligned practice",
+  "type": "short-answer",
+  "prompt": "26 x 12 = ?",
+  "answer": "312",
+  "explanation": "Multiply 26 by 12."
+}

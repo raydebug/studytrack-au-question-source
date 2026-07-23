@@ -1,0 +1,16 @@
+{
+  "id": "008",
+  "createdAt": "2026-07-23",
+  "grade": "year-7",
+  "gradeLabel": "Year 7",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "source": "StudyTrack AU template generator",
+  "curriculum": "Australian Curriculum aligned practice",
+  "type": "short-answer",
+  "prompt": "What does 'hello' usually mean?",
+  "answer": "a greeting",
+  "explanation": "This checks language-learning strategies and intercultural understanding."
+}

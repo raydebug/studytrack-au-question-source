@@ -1,0 +1,16 @@
+{
+  "id": "008",
+  "createdAt": "2026-07-23",
+  "grade": "year-7",
+  "gradeLabel": "Year 7",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "source": "StudyTrack AU template generator",
+  "curriculum": "Australian Curriculum aligned practice",
+  "type": "short-answer",
+  "prompt": "15 x 38 = ?",
+  "answer": "570",
+  "explanation": "Multiply 15 by 38."
+}

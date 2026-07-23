@@ -1,0 +1,16 @@
+{
+  "id": "008",
+  "createdAt": "2026-07-23",
+  "grade": "year-9",
+  "gradeLabel": "Year 9",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "source": "StudyTrack AU template generator",
+  "curriculum": "Australian Curriculum aligned practice",
+  "type": "short-answer",
+  "prompt": "22 x 28 = ?",
+  "answer": "616",
+  "explanation": "Multiply 22 by 28."
+}

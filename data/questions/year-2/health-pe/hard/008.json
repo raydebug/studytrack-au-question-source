@@ -1,0 +1,16 @@
+{
+  "id": "008",
+  "createdAt": "2026-07-23",
+  "grade": "year-2",
+  "gradeLabel": "Year 2",
+  "subject": "health-pe",
+  "subjectLabel": "Health and Physical Education",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "source": "StudyTrack AU template generator",
+  "curriculum": "Australian Curriculum aligned practice",
+  "type": "short-answer",
+  "prompt": "Name one way to show fair play in a game.",
+  "answer": "take turns",
+  "explanation": "This checks practical health, safety, and movement understanding."
+}

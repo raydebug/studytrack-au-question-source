@@ -1,0 +1,16 @@
+{
+  "id": "008",
+  "createdAt": "2026-07-23",
+  "grade": "year-10",
+  "gradeLabel": "Year 10",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "source": "StudyTrack AU template generator",
+  "curriculum": "Australian Curriculum aligned practice",
+  "type": "short-answer",
+  "prompt": "40 + 31 = ?",
+  "answer": "71",
+  "explanation": "Add 40 and 31."
+}

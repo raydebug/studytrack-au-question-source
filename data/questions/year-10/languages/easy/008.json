@@ -1,0 +1,16 @@
+{
+  "id": "008",
+  "createdAt": "2026-07-23",
+  "grade": "year-10",
+  "gradeLabel": "Year 10",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "source": "StudyTrack AU template generator",
+  "curriculum": "Australian Curriculum aligned practice",
+  "type": "short-answer",
+  "prompt": "Name one culture where another language is spoken.",
+  "answer": "Japan",
+  "explanation": "This checks language-learning strategies and intercultural understanding."
+}

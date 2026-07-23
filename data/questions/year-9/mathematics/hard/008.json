@@ -1,0 +1,16 @@
+{
+  "id": "008",
+  "createdAt": "2026-07-23",
+  "grade": "year-9",
+  "gradeLabel": "Year 9",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "source": "StudyTrack AU template generator",
+  "curriculum": "Australian Curriculum aligned practice",
+  "type": "short-answer",
+  "prompt": "52 x 14 = ?",
+  "answer": "728",
+  "explanation": "Multiply 52 by 14."
+}

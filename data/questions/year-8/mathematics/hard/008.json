@@ -1,0 +1,16 @@
+{
+  "id": "008",
+  "createdAt": "2026-07-23",
+  "grade": "year-8",
+  "gradeLabel": "Year 8",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "source": "StudyTrack AU template generator",
+  "curriculum": "Australian Curriculum aligned practice",
+  "type": "short-answer",
+  "prompt": "16 x 14 = ?",
+  "answer": "224",
+  "explanation": "Multiply 16 by 14."
+}

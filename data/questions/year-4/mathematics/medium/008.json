@@ -1,0 +1,16 @@
+{
+  "id": "008",
+  "createdAt": "2026-07-23",
+  "grade": "year-4",
+  "gradeLabel": "Year 4",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "source": "StudyTrack AU template generator",
+  "curriculum": "Australian Curriculum aligned practice",
+  "type": "short-answer",
+  "prompt": "9 x 5 = ?",
+  "answer": "45",
+  "explanation": "Multiply 9 by 5."
+}

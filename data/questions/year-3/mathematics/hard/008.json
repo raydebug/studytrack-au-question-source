@@ -1,0 +1,16 @@
+{
+  "id": "008",
+  "createdAt": "2026-07-23",
+  "grade": "year-3",
+  "gradeLabel": "Year 3",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "source": "StudyTrack AU template generator",
+  "curriculum": "Australian Curriculum aligned practice",
+  "type": "short-answer",
+  "prompt": "11 x 8 = ?",
+  "answer": "88",
+  "explanation": "Multiply 11 by 8."
+}

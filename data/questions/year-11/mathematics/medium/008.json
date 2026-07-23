@@ -1,0 +1,16 @@
+{
+  "id": "008",
+  "createdAt": "2026-07-23",
+  "grade": "year-11",
+  "gradeLabel": "Year 11",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "source": "StudyTrack AU template generator",
+  "curriculum": "Australian Curriculum aligned practice",
+  "type": "short-answer",
+  "prompt": "61 x 30 = ?",
+  "answer": "1830",
+  "explanation": "Multiply 61 by 30."
+}
