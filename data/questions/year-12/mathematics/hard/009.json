@@ -1,0 +1,16 @@
+{
+  "id": "009",
+  "createdAt": "2026-07-24",
+  "grade": "year-12",
+  "gradeLabel": "Year 12",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "source": "StudyTrack AU template generator",
+  "curriculum": "Australian Curriculum aligned practice",
+  "type": "short-answer",
+  "prompt": "39 x 25 = ?",
+  "answer": "975",
+  "explanation": "Multiply 39 by 25."
+}

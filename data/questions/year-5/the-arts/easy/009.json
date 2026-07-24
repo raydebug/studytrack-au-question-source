@@ -1,0 +1,16 @@
+{
+  "id": "009",
+  "createdAt": "2026-07-24",
+  "grade": "year-5",
+  "gradeLabel": "Year 5",
+  "subject": "the-arts",
+  "subjectLabel": "The Arts",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "source": "StudyTrack AU template generator",
+  "curriculum": "Australian Curriculum aligned practice",
+  "type": "short-answer",
+  "prompt": "Name one material used to make a sculpture.",
+  "answer": "clay",
+  "explanation": "This checks arts language, making, and responding skills."
+}

@@ -1,0 +1,20 @@
+{
+  "id": "009",
+  "createdAt": "2026-07-24",
+  "grade": "year-7",
+  "gradeLabel": "Year 7",
+  "subject": "english",
+  "subjectLabel": "English",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "source": "StudyTrack AU template generator",
+  "curriculum": "Australian Curriculum aligned practice",
+  "type": "short-answer",
+  "prompt": "Explain the difference in tone between \"brave\" and \"courageous\" in one sentence.",
+  "answer": "courageous",
+  "acceptableAnswers": [
+    "brave",
+    "courageous"
+  ],
+  "explanation": "\"courageous\" is a close synonym of \"brave\"."
+}
