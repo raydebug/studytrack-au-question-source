@@ -1,0 +1,16 @@
+{
+  "id": "010",
+  "createdAt": "2026-07-25",
+  "grade": "year-11",
+  "gradeLabel": "Year 11",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "source": "StudyTrack AU template generator",
+  "curriculum": "Australian Curriculum aligned practice",
+  "type": "short-answer",
+  "prompt": "60 x 48 = ?",
+  "answer": "2880",
+  "explanation": "Multiply 60 by 48."
+}

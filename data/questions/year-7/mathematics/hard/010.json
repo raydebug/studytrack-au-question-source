@@ -1,0 +1,16 @@
+{
+  "id": "010",
+  "createdAt": "2026-07-25",
+  "grade": "year-7",
+  "gradeLabel": "Year 7",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "source": "StudyTrack AU template generator",
+  "curriculum": "Australian Curriculum aligned practice",
+  "type": "short-answer",
+  "prompt": "42 x 20 = ?",
+  "answer": "840",
+  "explanation": "Multiply 42 by 20."
+}
