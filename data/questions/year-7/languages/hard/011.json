@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-7",
+  "gradeLabel": "Year 7",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "What can learning another language teach you about your own language?",
+  "answer": "it can reveal grammar, vocabulary, and cultural patterns you usually overlook",
+  "explanation": "Comparing languages often deepens awareness of how language works."
+}

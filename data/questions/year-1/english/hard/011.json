@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-1",
+  "gradeLabel": "Year 1",
+  "subject": "english",
+  "subjectLabel": "English",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Which word best completes the sentence: \"The frog can ___.\"",
+  "answer": "jump",
+  "explanation": "\"Jump\" is a verb that makes the sentence complete and sensible."
+}

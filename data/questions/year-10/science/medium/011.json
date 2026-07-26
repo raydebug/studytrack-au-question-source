@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-10",
+  "gradeLabel": "Year 10",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "What is the main function of the mitochondria in a cell?",
+  "answer": "to release energy from food",
+  "explanation": "Mitochondria are the site of cellular respiration."
+}

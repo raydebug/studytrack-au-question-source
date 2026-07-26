@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-8",
+  "gradeLabel": "Year 8",
+  "subject": "hass",
+  "subjectLabel": "Humanities and Social Sciences",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What is the name for the buying and selling of goods and services between places?",
+  "answer": "trade",
+  "explanation": "Trade involves exchange of goods and services."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-3",
+  "gradeLabel": "Year 3",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why might a bird's beak be different from a duck's beak?",
+  "answer": "they are adapted for different food or habitats",
+  "explanation": "Animal body parts can be adapted to suit how they live."
+}

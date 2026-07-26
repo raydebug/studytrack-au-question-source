@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-10",
+  "gradeLabel": "Year 10",
+  "subject": "health-pe",
+  "subjectLabel": "Health and Physical Education",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What is one benefit of maintaining cardiovascular fitness?",
+  "answer": "the heart and lungs work more efficiently",
+  "explanation": "Cardiovascular fitness improves endurance and overall health."
+}

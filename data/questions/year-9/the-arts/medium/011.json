@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-9",
+  "gradeLabel": "Year 9",
+  "subject": "the-arts",
+  "subjectLabel": "The Arts",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why might a choreographer use canon in a dance phrase?",
+  "answer": "to stagger the same movement and create visual interest",
+  "explanation": "Canon means performers begin the same phrase at different times."
+}

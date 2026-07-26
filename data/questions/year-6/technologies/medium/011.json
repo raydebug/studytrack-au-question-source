@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-6",
+  "gradeLabel": "Year 6",
+  "subject": "technologies",
+  "subjectLabel": "Technologies",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why is a flowchart useful when planning a program?",
+  "answer": "it shows the steps and decisions clearly",
+  "explanation": "Flowcharts help people visualise how a process or program works."
+}

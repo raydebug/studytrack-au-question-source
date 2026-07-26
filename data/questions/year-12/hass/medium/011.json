@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-12",
+  "gradeLabel": "Year 12",
+  "subject": "hass",
+  "subjectLabel": "Humanities and Social Sciences",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why can exchange rate changes affect the price of imported goods?",
+  "answer": "a weaker local currency makes imports cost more",
+  "explanation": "Exchange rates change how much domestic buyers pay for overseas products."
+}

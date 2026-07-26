@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-11",
+  "gradeLabel": "Year 11",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why does increasing concentration often increase collision frequency in a reaction?",
+  "answer": "more particles are present in the same volume",
+  "explanation": "Higher concentration means particles are more likely to collide."
+}

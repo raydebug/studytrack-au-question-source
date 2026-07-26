@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-9",
+  "gradeLabel": "Year 9",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why does increasing resistance reduce current in a circuit when voltage stays constant?",
+  "answer": "Ohm's law shows current decreases as resistance increases",
+  "explanation": "With constant voltage, I = V/R, so larger resistance means smaller current."
+}

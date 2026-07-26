@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-4",
+  "gradeLabel": "Year 4",
+  "subject": "hass",
+  "subjectLabel": "Humanities and Social Sciences",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "What is one effect of a bushfire on a local community?",
+  "answer": "homes and habitats can be damaged",
+  "explanation": "Bushfires can affect buildings, people, wildlife, and the environment."
+}

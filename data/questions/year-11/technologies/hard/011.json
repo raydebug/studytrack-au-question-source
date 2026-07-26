@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-11",
+  "gradeLabel": "Year 11",
+  "subject": "technologies",
+  "subjectLabel": "Technologies",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "What is one trade-off when encrypting stored data?",
+  "answer": "security improves but access and processing can become more complex",
+  "explanation": "Encryption protects information but adds management and performance considerations."
+}

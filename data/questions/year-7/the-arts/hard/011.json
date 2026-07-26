@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-7",
+  "gradeLabel": "Year 7",
+  "subject": "the-arts",
+  "subjectLabel": "The Arts",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "How can motif repetition help unify an artwork or performance?",
+  "answer": "it creates a recurring idea that connects parts of the work",
+  "explanation": "Motifs give audiences a repeated pattern or symbol to recognise."
+}

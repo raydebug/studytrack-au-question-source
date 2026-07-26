@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-10",
+  "gradeLabel": "Year 10",
+  "subject": "technologies",
+  "subjectLabel": "Technologies",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why is modular design useful in software development?",
+  "answer": "separate parts are easier to build, test, and update",
+  "explanation": "Modules reduce complexity and improve maintainability."
+}

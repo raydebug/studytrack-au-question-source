@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-1",
+  "gradeLabel": "Year 1",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "What do we call words that name people, places, or things in a language?",
+  "answer": "nouns",
+  "explanation": "Nouns are words used to name people, places, animals, and things."
+}

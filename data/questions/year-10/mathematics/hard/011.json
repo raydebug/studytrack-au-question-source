@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-10",
+  "gradeLabel": "Year 10",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "A car travels 180 km in 2.5 hours. What is its average speed?",
+  "answer": "72 km/h",
+  "explanation": "Average speed equals distance divided by time: 180 / 2.5 = 72."
+}

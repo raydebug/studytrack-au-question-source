@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-9",
+  "gradeLabel": "Year 9",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "Expand (x + 3)(x + 5).",
+  "answer": "x^2 + 8x + 15",
+  "explanation": "Multiply each term in the first bracket by each term in the second bracket."
+}

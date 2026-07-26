@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-8",
+  "gradeLabel": "Year 8",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why is cultural context important when choosing a greeting in another language?",
+  "answer": "different situations and relationships call for different levels of formality",
+  "explanation": "Appropriate language depends on culture, audience, and context."
+}

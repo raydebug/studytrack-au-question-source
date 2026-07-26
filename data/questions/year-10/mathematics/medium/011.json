@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-10",
+  "gradeLabel": "Year 10",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Solve 2x^2 - 18 = 0.",
+  "answer": "x = 3 or x = -3",
+  "explanation": "Add 18, divide by 2, then take square roots of 9."
+}

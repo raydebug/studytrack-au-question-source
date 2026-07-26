@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-9",
+  "gradeLabel": "Year 9",
+  "subject": "the-arts",
+  "subjectLabel": "The Arts",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What is the term for the arrangement of shots in film after they are recorded?",
+  "answer": "editing",
+  "explanation": "Editing shapes the final sequence and pacing of a film."
+}

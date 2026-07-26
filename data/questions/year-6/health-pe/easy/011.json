@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-6",
+  "gradeLabel": "Year 6",
+  "subject": "health-pe",
+  "subjectLabel": "Health and Physical Education",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "Which kind of exercise helps your heart and lungs: aerobic activity or sitting still?",
+  "answer": "aerobic activity",
+  "explanation": "Aerobic activity strengthens the cardiovascular system."
+}

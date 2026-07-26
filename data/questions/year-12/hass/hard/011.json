@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-12",
+  "gradeLabel": "Year 12",
+  "subject": "hass",
+  "subjectLabel": "Humanities and Social Sciences",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "What is one argument for protecting judicial independence in a constitutional system?",
+  "answer": "judges must decide cases impartially rather than follow political pressure",
+  "explanation": "Judicial independence supports fair interpretation of law and rights."
+}

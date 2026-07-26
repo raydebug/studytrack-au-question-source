@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-11",
+  "gradeLabel": "Year 11",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "What happens to enzyme activity if temperature rises well above the enzyme's optimum?",
+  "answer": "activity decreases because the enzyme can denature",
+  "explanation": "Excess heat can change the enzyme's shape and reduce function."
+}

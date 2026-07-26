@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-3",
+  "gradeLabel": "Year 3",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "What fraction of a pizza is one slice if the pizza is cut into 8 equal slices?",
+  "answer": "1/8",
+  "explanation": "One out of 8 equal parts is written as 1/8."
+}

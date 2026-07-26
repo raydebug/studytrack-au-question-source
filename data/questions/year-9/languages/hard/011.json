@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-9",
+  "gradeLabel": "Year 9",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "What is one reason code-switching may happen in bilingual conversations?",
+  "answer": "speakers shift languages to suit audience, meaning, or context",
+  "explanation": "Bilingual speakers often move between languages for practical or social reasons."
+}

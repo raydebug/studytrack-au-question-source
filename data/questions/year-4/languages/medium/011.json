@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-4",
+  "gradeLabel": "Year 4",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why is it useful to know whether a language reads left to right or right to left?",
+  "answer": "so you can follow the text correctly",
+  "explanation": "Writing direction affects how readers track and understand text."
+}

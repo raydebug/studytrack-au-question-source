@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-4",
+  "gradeLabel": "Year 4",
+  "subject": "the-arts",
+  "subjectLabel": "The Arts",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why might a visual artist use warm colours in a sunset painting?",
+  "answer": "to show heat and energy",
+  "explanation": "Warm colours like red and orange can suggest heat and strong feeling."
+}

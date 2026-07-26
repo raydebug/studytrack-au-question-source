@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-11",
+  "gradeLabel": "Year 11",
+  "subject": "english",
+  "subjectLabel": "English",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why is context important when analysing a text's representation of values or identities?",
+  "answer": "context shapes what the text assumes, challenges, or normalises",
+  "explanation": "Historical, social, and cultural context influences meaning and interpretation."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-1",
+  "gradeLabel": "Year 1",
+  "subject": "the-arts",
+  "subjectLabel": "The Arts",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "How can an actor show a character is sad without speaking?",
+  "answer": "by using facial expression and body language",
+  "explanation": "Drama uses movement and expression to communicate feelings."
+}

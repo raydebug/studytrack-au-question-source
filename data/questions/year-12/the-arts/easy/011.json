@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-12",
+  "gradeLabel": "Year 12",
+  "subject": "the-arts",
+  "subjectLabel": "The Arts",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What is mise-en-scene?",
+  "answer": "the visual arrangement of everything seen in a scene",
+  "explanation": "Mise-en-scene includes setting, costume, lighting, and actor placement."
+}

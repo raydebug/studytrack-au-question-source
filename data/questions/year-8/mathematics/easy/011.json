@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-8",
+  "gradeLabel": "Year 8",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "Solve 2x + 3 = 11.",
+  "answer": "x = 4",
+  "explanation": "Subtract 3 to get 2x = 8, then divide by 2."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-2",
+  "gradeLabel": "Year 2",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "What is the life stage before a butterfly becomes an adult?",
+  "answer": "caterpillar",
+  "explanation": "A butterfly grows from caterpillar to chrysalis to adult."
+}

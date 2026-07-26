@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-7",
+  "gradeLabel": "Year 7",
+  "subject": "health-pe",
+  "subjectLabel": "Health and Physical Education",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why is consent important in respectful relationships?",
+  "answer": "it ensures everyone agrees freely and feels safe",
+  "explanation": "Consent is a key part of safe and respectful interactions."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-5",
+  "gradeLabel": "Year 5",
+  "subject": "technologies",
+  "subjectLabel": "Technologies",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "What is the benefit of storing data in a table with rows and columns?",
+  "answer": "it keeps information organised and easier to compare",
+  "explanation": "Tables structure data so users can sort, find, and analyse it more easily."
+}

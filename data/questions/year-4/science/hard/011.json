@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-4",
+  "gradeLabel": "Year 4",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why might desert animals be active at night?",
+  "answer": "to avoid the daytime heat",
+  "explanation": "Being active at night helps some animals stay cooler and conserve water."
+}

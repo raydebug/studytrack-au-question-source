@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-8",
+  "gradeLabel": "Year 8",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why does increasing temperature usually increase the rate of a chemical reaction?",
+  "answer": "particles move faster and collide more often",
+  "explanation": "More frequent and energetic collisions can speed up reactions."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-10",
+  "gradeLabel": "Year 10",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What does formal register mean in language use?",
+  "answer": "a more careful and respectful style of speaking or writing",
+  "explanation": "Formal register is often used in official or respectful contexts."
+}

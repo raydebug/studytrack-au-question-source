@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-6",
+  "gradeLabel": "Year 6",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why is pronunciation practice important even when spelling is correct?",
+  "answer": "people still need to understand the spoken word",
+  "explanation": "Clear pronunciation supports communication, not just correct writing."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-5",
+  "gradeLabel": "Year 5",
+  "subject": "health-pe",
+  "subjectLabel": "Health and Physical Education",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "Which nutrient helps build and repair muscles: protein or sugar?",
+  "answer": "protein",
+  "explanation": "Protein helps the body grow and repair muscle tissue."
+}

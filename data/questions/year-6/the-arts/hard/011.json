@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-6",
+  "gradeLabel": "Year 6",
+  "subject": "the-arts",
+  "subjectLabel": "The Arts",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "How can contrast improve a visual artwork?",
+  "answer": "it makes differences stand out and creates focus",
+  "explanation": "Contrast between colours, tones, or shapes can guide the viewer's eye."
+}

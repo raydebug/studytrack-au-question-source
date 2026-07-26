@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-12",
+  "gradeLabel": "Year 12",
+  "subject": "english",
+  "subjectLabel": "English",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why can a text's silences or omissions be as significant as what it states directly?",
+  "answer": "omissions can reveal bias, power, or assumptions",
+  "explanation": "Critical analysis often examines what a text leaves out as well as what it includes."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-5",
+  "gradeLabel": "Year 5",
+  "subject": "health-pe",
+  "subjectLabel": "Health and Physical Education",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why is pacing yourself important in a long-distance run?",
+  "answer": "it helps you manage energy and avoid tiring too quickly",
+  "explanation": "Good pacing lets runners keep effort steady across the whole event."
+}

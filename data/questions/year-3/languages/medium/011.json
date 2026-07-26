@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-3",
+  "gradeLabel": "Year 3",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why is it helpful to notice patterns in word endings when learning a language?",
+  "answer": "they can show meaning or grammar",
+  "explanation": "Word endings often give clues about tense, number, or gender."
+}

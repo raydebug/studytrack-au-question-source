@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-9",
+  "gradeLabel": "Year 9",
+  "subject": "hass",
+  "subjectLabel": "Humanities and Social Sciences",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why can urbanisation increase pressure on housing and transport?",
+  "answer": "more people need homes and infrastructure in the same area",
+  "explanation": "As cities grow, demand for services and space rises."
+}

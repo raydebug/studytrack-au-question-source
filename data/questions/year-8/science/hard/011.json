@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-8",
+  "gradeLabel": "Year 8",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why does current stay the same in a simple series circuit?",
+  "answer": "there is only one path for charge to flow",
+  "explanation": "In a series circuit, the same current passes through each component."
+}

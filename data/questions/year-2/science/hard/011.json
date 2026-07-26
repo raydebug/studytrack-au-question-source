@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-2",
+  "gradeLabel": "Year 2",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why does a metal spoon feel colder than a wooden spoon in the same room?",
+  "answer": "metal transfers heat faster",
+  "explanation": "Metal conducts heat away from your hand more quickly than wood."
+}

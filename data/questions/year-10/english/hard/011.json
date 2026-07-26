@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-10",
+  "gradeLabel": "Year 10",
+  "subject": "english",
+  "subjectLabel": "English",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why might an unreliable narrator make a text more complex to interpret?",
+  "answer": "the reader must question whether the narrator's version is accurate",
+  "explanation": "Unreliable narration creates ambiguity and invites deeper analysis."
+}

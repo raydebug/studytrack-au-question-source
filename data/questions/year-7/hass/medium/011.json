@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-7",
+  "gradeLabel": "Year 7",
+  "subject": "hass",
+  "subjectLabel": "Humanities and Social Sciences",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why did ancient civilisations often develop near rivers?",
+  "answer": "rivers provided water, fertile soil, and transport",
+  "explanation": "Reliable water and easier farming supported settlement growth."
+}

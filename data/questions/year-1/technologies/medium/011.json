@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-1",
+  "gradeLabel": "Year 1",
+  "subject": "technologies",
+  "subjectLabel": "Technologies",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "What is the first step before building a paper bridge: plan or throw it away?",
+  "answer": "plan",
+  "explanation": "Design tasks begin by planning how to make the item."
+}

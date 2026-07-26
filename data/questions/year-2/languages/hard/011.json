@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-2",
+  "gradeLabel": "Year 2",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "What do we call a word that sounds the same but has a different meaning in another context?",
+  "answer": "homonym",
+  "explanation": "A homonym is a word with the same sound or spelling as another word but a different meaning."
+}

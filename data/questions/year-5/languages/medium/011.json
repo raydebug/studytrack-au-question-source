@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-5",
+  "gradeLabel": "Year 5",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why can body language change the meaning of spoken words in another language?",
+  "answer": "gestures and tone add extra meaning",
+  "explanation": "Communication includes more than words, so body language matters."
+}

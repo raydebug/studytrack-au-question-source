@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-11",
+  "gradeLabel": "Year 11",
+  "subject": "health-pe",
+  "subjectLabel": "Health and Physical Education",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What is one benefit of a cooldown after vigorous exercise?",
+  "answer": "it helps the body return gradually to resting levels",
+  "explanation": "Cooldowns support recovery after intense effort."
+}

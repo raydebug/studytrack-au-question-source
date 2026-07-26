@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-10",
+  "gradeLabel": "Year 10",
+  "subject": "health-pe",
+  "subjectLabel": "Health and Physical Education",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why is overload necessary for improving fitness?",
+  "answer": "the body must be challenged beyond its usual level to adapt",
+  "explanation": "Training adaptations occur when the workload is increased appropriately."
+}

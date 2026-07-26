@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-5",
+  "gradeLabel": "Year 5",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why does the Moon appear to change shape during the month?",
+  "answer": "we see different parts of its sunlit side",
+  "explanation": "Moon phases happen because the Moon orbits Earth and sunlight hits it from different angles."
+}

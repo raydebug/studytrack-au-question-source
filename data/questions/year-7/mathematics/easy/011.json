@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-7",
+  "gradeLabel": "Year 7",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "Simplify 3x + 4x.",
+  "answer": "7x",
+  "explanation": "Like terms can be combined by adding the coefficients: 3 + 4 = 7."
+}

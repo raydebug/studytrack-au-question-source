@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-6",
+  "gradeLabel": "Year 6",
+  "subject": "the-arts",
+  "subjectLabel": "The Arts",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why might a director use freeze frames in a drama performance?",
+  "answer": "to highlight an important moment",
+  "explanation": "Freeze frames focus the audience's attention on a key idea or scene."
+}

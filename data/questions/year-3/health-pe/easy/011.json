@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-3",
+  "gradeLabel": "Year 3",
+  "subject": "health-pe",
+  "subjectLabel": "Health and Physical Education",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "Which habit helps your teeth stay healthy: brushing or skipping toothpaste?",
+  "answer": "brushing",
+  "explanation": "Brushing teeth regularly helps keep them clean and healthy."
+}

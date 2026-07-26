@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-6",
+  "gradeLabel": "Year 6",
+  "subject": "technologies",
+  "subjectLabel": "Technologies",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why is it important to consider users' needs when designing an app?",
+  "answer": "the app must solve the user's problem and be easy to use",
+  "explanation": "User-centred design focuses on the people who will use the solution."
+}

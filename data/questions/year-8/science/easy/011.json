@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-8",
+  "gradeLabel": "Year 8",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What is the process called when plants make food using sunlight?",
+  "answer": "photosynthesis",
+  "explanation": "Photosynthesis is how plants use sunlight, water, and carbon dioxide to make food."
+}

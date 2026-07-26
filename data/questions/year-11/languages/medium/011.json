@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-11",
+  "gradeLabel": "Year 11",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why does interpreting often require understanding tone as well as vocabulary?",
+  "answer": "tone can change meaning, attitude, and intent",
+  "explanation": "Good interpreting captures more than the literal words."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-9",
+  "gradeLabel": "Year 9",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What is a cognate in language learning?",
+  "answer": "a word that is similar in form and meaning across languages",
+  "explanation": "Cognates can help learners recognise new vocabulary."
+}

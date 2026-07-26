@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "foundation",
+  "gradeLabel": "Foundation",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "How many dots are in two groups of 3 dots?",
+  "answer": "6",
+  "explanation": "Two groups of 3 means 3 + 3, which equals 6."
+}

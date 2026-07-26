@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-5",
+  "gradeLabel": "Year 5",
+  "subject": "the-arts",
+  "subjectLabel": "The Arts",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why might a musician change the dynamics from soft to loud?",
+  "answer": "to build contrast and expression",
+  "explanation": "Changing dynamics shapes the emotional effect of music."
+}

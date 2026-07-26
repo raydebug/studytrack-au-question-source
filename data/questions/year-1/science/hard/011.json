@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-1",
+  "gradeLabel": "Year 1",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "What happens to a shadow when an object blocks light?",
+  "answer": "a dark shape appears",
+  "explanation": "When light is blocked, a shadow forms behind the object."
+}

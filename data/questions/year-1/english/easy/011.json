@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-1",
+  "gradeLabel": "Year 1",
+  "subject": "english",
+  "subjectLabel": "English",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "Which word names an animal: \"kangaroo\" or \"quickly\"?",
+  "answer": "kangaroo",
+  "explanation": "\"Kangaroo\" is the name of an animal, while \"quickly\" describes an action."
+}

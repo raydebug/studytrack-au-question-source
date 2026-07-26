@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-9",
+  "gradeLabel": "Year 9",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Use Pythagoras' theorem to find the hypotenuse of a right triangle with legs 9 cm and 12 cm.",
+  "answer": "15 cm",
+  "explanation": "9^2 + 12^2 = 81 + 144 = 225, and the square root of 225 is 15."
+}

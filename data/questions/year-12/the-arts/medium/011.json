@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-12",
+  "gradeLabel": "Year 12",
+  "subject": "the-arts",
+  "subjectLabel": "The Arts",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why might a performance maker use minimal staging?",
+  "answer": "to focus the audience on performers, ideas, or symbolism",
+  "explanation": "Minimal staging can make meaning more concentrated and intentional."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-8",
+  "gradeLabel": "Year 8",
+  "subject": "health-pe",
+  "subjectLabel": "Health and Physical Education",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why might an athlete use a give-and-go pass in a team game?",
+  "answer": "to move past defenders and create space quickly",
+  "explanation": "A give-and-go is an attacking tactic that uses quick passing and movement."
+}

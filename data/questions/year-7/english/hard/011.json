@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-7",
+  "gradeLabel": "Year 7",
+  "subject": "english",
+  "subjectLabel": "English",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "How does first-person narration affect a reader's understanding of a story?",
+  "answer": "it gives the reader a personal, limited viewpoint",
+  "explanation": "First-person narration reveals events through one character's perspective."
+}

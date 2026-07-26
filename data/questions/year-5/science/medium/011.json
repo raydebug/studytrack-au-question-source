@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-5",
+  "gradeLabel": "Year 5",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "What force pulls objects toward the ground when they fall?",
+  "answer": "gravity",
+  "explanation": "Gravity is the force that pulls objects toward Earth."
+}

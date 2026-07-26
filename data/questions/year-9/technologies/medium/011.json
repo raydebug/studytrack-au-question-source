@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-9",
+  "gradeLabel": "Year 9",
+  "subject": "technologies",
+  "subjectLabel": "Technologies",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why is data validation important in a digital form?",
+  "answer": "it helps prevent incorrect or badly formatted entries",
+  "explanation": "Validation improves data quality before it is stored or processed."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-4",
+  "gradeLabel": "Year 4",
+  "subject": "health-pe",
+  "subjectLabel": "Health and Physical Education",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "What should you check before joining an online game chat with strangers?",
+  "answer": "that it is safe and follows family or school rules",
+  "explanation": "Online safety includes checking rules, privacy, and who you are talking to."
+}

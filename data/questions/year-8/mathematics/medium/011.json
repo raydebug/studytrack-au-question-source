@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-8",
+  "gradeLabel": "Year 8",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "What is the gradient of a line that rises 6 units for every 3 units across?",
+  "answer": "2",
+  "explanation": "Gradient is rise over run, so 6 divided by 3 equals 2."
+}

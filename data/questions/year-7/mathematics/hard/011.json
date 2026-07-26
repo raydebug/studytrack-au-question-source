@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-7",
+  "gradeLabel": "Year 7",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "What is the area of a parallelogram with base 9 cm and perpendicular height 6 cm?",
+  "answer": "54 cm^2",
+  "explanation": "Area of a parallelogram is base x height, so 9 x 6 = 54."
+}

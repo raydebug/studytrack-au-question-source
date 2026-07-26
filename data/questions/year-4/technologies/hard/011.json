@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-4",
+  "gradeLabel": "Year 4",
+  "subject": "technologies",
+  "subjectLabel": "Technologies",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "What is a branching decision in an algorithm?",
+  "answer": "a point where the next step depends on a choice or condition",
+  "explanation": "Branching means the instructions can follow different paths."
+}

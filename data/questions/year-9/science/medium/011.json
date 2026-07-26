@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-9",
+  "gradeLabel": "Year 9",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "What is the function of red blood cells?",
+  "answer": "to transport oxygen",
+  "explanation": "Red blood cells carry oxygen around the body using haemoglobin."
+}

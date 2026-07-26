@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-10",
+  "gradeLabel": "Year 10",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "Factorise x^2 + 9x + 20.",
+  "answer": "(x + 4)(x + 5)",
+  "explanation": "Find two numbers that multiply to 20 and add to 9."
+}

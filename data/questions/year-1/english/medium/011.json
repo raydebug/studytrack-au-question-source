@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-1",
+  "gradeLabel": "Year 1",
+  "subject": "english",
+  "subjectLabel": "English",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Add the missing capital letter to start this sentence: \"___y dog can run.\"",
+  "answer": "M",
+  "explanation": "The sentence should start with a capital M to make \"My dog can run.\""
+}

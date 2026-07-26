@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-7",
+  "gradeLabel": "Year 7",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why might literal word-for-word translation give the wrong meaning?",
+  "answer": "different languages use grammar and idioms differently",
+  "explanation": "Meaning often depends on context, structure, and culture."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-8",
+  "gradeLabel": "Year 8",
+  "subject": "the-arts",
+  "subjectLabel": "The Arts",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "How can editing pace influence the audience in a film scene?",
+  "answer": "fast cuts can raise tension while slower cuts can feel calmer",
+  "explanation": "Editing pace changes how energy and emotion are experienced."
+}

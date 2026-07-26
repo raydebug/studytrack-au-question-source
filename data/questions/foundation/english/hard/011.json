@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "foundation",
+  "gradeLabel": "Foundation",
+  "subject": "english",
+  "subjectLabel": "English",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Which word rhymes with \"cat\": \"hat\" or \"dog\"?",
+  "answer": "hat",
+  "explanation": "\"Hat\" and \"cat\" end with the same sound."
+}

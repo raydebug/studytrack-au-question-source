@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-2",
+  "gradeLabel": "Year 2",
+  "subject": "the-arts",
+  "subjectLabel": "The Arts",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "In music, what do we call a pattern of long and short sounds?",
+  "answer": "rhythm",
+  "explanation": "Rhythm is the pattern of sounds and silences over time."
+}

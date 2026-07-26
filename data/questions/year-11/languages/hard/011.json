@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-11",
+  "gradeLabel": "Year 11",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "What is one reason translations of poetry are especially difficult?",
+  "answer": "they must balance meaning, rhythm, sound, and imagery",
+  "explanation": "Poetry often depends on form as much as on literal meaning."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-1",
+  "gradeLabel": "Year 1",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "What number is missing: 2, 4, 6, __?",
+  "answer": "8",
+  "explanation": "The pattern counts by 2s: 2, 4, 6, 8."
+}

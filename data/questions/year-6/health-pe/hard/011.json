@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-6",
+  "gradeLabel": "Year 6",
+  "subject": "health-pe",
+  "subjectLabel": "Health and Physical Education",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why do invasion games often rely on quick transitions from attack to defence?",
+  "answer": "because possession can change quickly and teams must reorganise",
+  "explanation": "Fast transition is a key tactical idea in many team sports."
+}

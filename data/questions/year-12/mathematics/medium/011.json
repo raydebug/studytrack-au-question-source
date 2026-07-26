@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-12",
+  "gradeLabel": "Year 12",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Evaluate the integral of 2x with respect to x.",
+  "answer": "x^2 + C",
+  "explanation": "The antiderivative of 2x is x^2, plus the constant of integration."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-9",
+  "gradeLabel": "Year 9",
+  "subject": "hass",
+  "subjectLabel": "Humanities and Social Sciences",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "What is one democratic reason for having an independent judiciary?",
+  "answer": "courts can apply the law without political interference",
+  "explanation": "An independent judiciary supports fairness and the rule of law."
+}

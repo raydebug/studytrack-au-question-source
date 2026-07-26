@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-8",
+  "gradeLabel": "Year 8",
+  "subject": "english",
+  "subjectLabel": "English",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "How can a counterargument strengthen a persuasive text?",
+  "answer": "it shows the writer has considered other views and can respond to them",
+  "explanation": "Addressing counterarguments can make persuasion more credible."
+}

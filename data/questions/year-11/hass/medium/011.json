@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-11",
+  "gradeLabel": "Year 11",
+  "subject": "hass",
+  "subjectLabel": "Humanities and Social Sciences",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why can opportunity cost help explain economic decision-making?",
+  "answer": "choosing one option means giving up the next best alternative",
+  "explanation": "Opportunity cost highlights the trade-off in every choice."
+}

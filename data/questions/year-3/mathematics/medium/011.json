@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-3",
+  "gradeLabel": "Year 3",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "A ribbon is 48 cm long. If you cut off 15 cm, how much is left?",
+  "answer": "33 cm",
+  "explanation": "Subtract 15 from 48 to get 33."
+}

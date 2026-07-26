@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-8",
+  "gradeLabel": "Year 8",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "A cylinder has radius 3 cm and height 10 cm. What is its volume in terms of pi?",
+  "answer": "90pi cm^3",
+  "explanation": "Volume of a cylinder is pi r^2 h = pi x 9 x 10 = 90pi."
+}

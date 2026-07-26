@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-4",
+  "gradeLabel": "Year 4",
+  "subject": "the-arts",
+  "subjectLabel": "The Arts",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "How can levels make a dance performance more interesting?",
+  "answer": "they vary movements high, medium, and low",
+  "explanation": "Using different levels adds contrast and variety to dance."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-1",
+  "gradeLabel": "Year 1",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Tom has 9 blocks and loses 4. How many blocks are left?",
+  "answer": "5",
+  "explanation": "Taking 4 away from 9 leaves 5."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-6",
+  "gradeLabel": "Year 6",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why do eclipses not happen every month?",
+  "answer": "the Moon's orbit is tilted so the Sun, Earth, and Moon do not always line up",
+  "explanation": "The orbital tilt means perfect alignment only happens sometimes."
+}

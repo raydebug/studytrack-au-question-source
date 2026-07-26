@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-10",
+  "gradeLabel": "Year 10",
+  "subject": "hass",
+  "subjectLabel": "Humanities and Social Sciences",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "What is one reason separation of powers matters in a democracy?",
+  "answer": "it helps prevent too much power being held by one branch",
+  "explanation": "Separating legislative, executive, and judicial powers supports accountability."
+}

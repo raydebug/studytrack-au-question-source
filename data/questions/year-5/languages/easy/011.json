@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-5",
+  "gradeLabel": "Year 5",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What is the name for a list of words and their meanings in a topic?",
+  "answer": "vocabulary",
+  "explanation": "Vocabulary is the set of words used in a language or topic."
+}

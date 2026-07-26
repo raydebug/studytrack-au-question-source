@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-4",
+  "gradeLabel": "Year 4",
+  "subject": "health-pe",
+  "subjectLabel": "Health and Physical Education",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why is communication important in a team relay race?",
+  "answer": "it helps teammates time and coordinate the changeover",
+  "explanation": "Clear communication improves teamwork and safety during relay events."
+}

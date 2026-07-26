@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-3",
+  "gradeLabel": "Year 3",
+  "subject": "technologies",
+  "subjectLabel": "Technologies",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why do designers choose materials before making a toy?",
+  "answer": "to match the toy's purpose",
+  "explanation": "Different materials suit different jobs, strengths, and uses."
+}

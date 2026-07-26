@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-8",
+  "gradeLabel": "Year 8",
+  "subject": "the-arts",
+  "subjectLabel": "The Arts",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why might a stage designer use cool blue lighting in a scene?",
+  "answer": "to create a calm, sad, or nighttime mood",
+  "explanation": "Lighting colour can strongly affect mood and atmosphere."
+}

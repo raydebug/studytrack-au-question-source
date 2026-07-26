@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-5",
+  "gradeLabel": "Year 5",
+  "subject": "technologies",
+  "subjectLabel": "Technologies",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why might a designer add criteria for success before making a product?",
+  "answer": "to judge whether the product meets the goal",
+  "explanation": "Criteria help designers evaluate how well a solution works."
+}

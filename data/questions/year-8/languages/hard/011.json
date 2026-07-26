@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-8",
+  "gradeLabel": "Year 8",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "What is one challenge of translating jokes between languages?",
+  "answer": "humour often depends on wordplay or culture-specific meaning",
+  "explanation": "Jokes may lose meaning when the sound, wording, or cultural reference changes."
+}

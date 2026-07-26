@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-2",
+  "gradeLabel": "Year 2",
+  "subject": "technologies",
+  "subjectLabel": "Technologies",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "What should a sequence of steps do if the first try does not work?",
+  "answer": "be changed and tested again",
+  "explanation": "Designing and coding often involve improving a solution after testing."
+}

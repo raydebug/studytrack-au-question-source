@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-2",
+  "gradeLabel": "Year 2",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why do learners use actions or gestures when speaking a new language?",
+  "answer": "to help communicate meaning",
+  "explanation": "Gestures support understanding when vocabulary is still developing."
+}

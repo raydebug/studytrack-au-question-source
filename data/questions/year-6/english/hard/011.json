@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-6",
+  "gradeLabel": "Year 6",
+  "subject": "english",
+  "subjectLabel": "English",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "In a narrative, what is the climax?",
+  "answer": "the most intense or important turning point",
+  "explanation": "The climax is where the main conflict reaches its highest tension."
+}

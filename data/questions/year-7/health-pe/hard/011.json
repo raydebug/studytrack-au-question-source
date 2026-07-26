@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-7",
+  "gradeLabel": "Year 7",
+  "subject": "health-pe",
+  "subjectLabel": "Health and Physical Education",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why might a zone defence be used in basketball or netball?",
+  "answer": "to protect space and force opponents into harder passes",
+  "explanation": "Zone defence focuses on covering areas rather than just one player."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-5",
+  "gradeLabel": "Year 5",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "A water tank holds 2,350 L and already has 1,875 L in it. How many more litres can it hold?",
+  "answer": "475 L",
+  "explanation": "Subtract 1,875 from 2,350 to find the remaining capacity."
+}

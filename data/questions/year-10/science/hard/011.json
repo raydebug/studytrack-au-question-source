@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-10",
+  "gradeLabel": "Year 10",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why does increasing carbon dioxide in the atmosphere contribute to global warming?",
+  "answer": "carbon dioxide traps more outgoing heat energy",
+  "explanation": "Greenhouse gases absorb and re-radiate infrared energy in the atmosphere."
+}

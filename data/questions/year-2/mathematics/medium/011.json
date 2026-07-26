@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-2",
+  "gradeLabel": "Year 2",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "There are 4 rows of 3 chairs. How many chairs are there?",
+  "answer": "12",
+  "explanation": "Four rows of 3 means 3 + 3 + 3 + 3 = 12."
+}

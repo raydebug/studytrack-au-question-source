@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-10",
+  "gradeLabel": "Year 10",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "What is one reason idiomatic expressions are hard to translate accurately?",
+  "answer": "their meaning often cannot be worked out from the individual words",
+  "explanation": "Idioms usually depend on shared cultural meaning rather than literal wording."
+}

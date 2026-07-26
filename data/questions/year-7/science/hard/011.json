@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-7",
+  "gradeLabel": "Year 7",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why does increasing the surface area of a solid usually make it dissolve faster?",
+  "answer": "more particles are exposed to the solvent",
+  "explanation": "Greater surface area allows more collisions between the solid and solvent particles."
+}

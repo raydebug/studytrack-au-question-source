@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-4",
+  "gradeLabel": "Year 4",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Round 4,672 to the nearest hundred.",
+  "answer": "4,700",
+  "explanation": "The tens digit is 7, so 4,672 rounds up to 4,700."
+}

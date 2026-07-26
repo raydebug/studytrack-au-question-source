@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-10",
+  "gradeLabel": "Year 10",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why can the same idea require different wording depending on who you are speaking to in another language?",
+  "answer": "levels of politeness and formality vary by relationship and context",
+  "explanation": "Audience and social context affect language choice."
+}

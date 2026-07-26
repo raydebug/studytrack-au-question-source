@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-4",
+  "gradeLabel": "Year 4",
+  "subject": "technologies",
+  "subjectLabel": "Technologies",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why might you make a cardboard prototype before building a full-sized model?",
+  "answer": "to test the idea cheaply and safely",
+  "explanation": "Prototypes allow designers to trial ideas before full production."
+}

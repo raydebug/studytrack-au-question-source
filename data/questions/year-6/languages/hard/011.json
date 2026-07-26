@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-6",
+  "gradeLabel": "Year 6",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "What is one advantage of learning how another language forms polite requests?",
+  "answer": "it helps you communicate respectfully in that culture",
+  "explanation": "Politeness forms vary across languages and are important for respectful interaction."
+}

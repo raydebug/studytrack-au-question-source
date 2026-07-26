@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-8",
+  "gradeLabel": "Year 8",
+  "subject": "health-pe",
+  "subjectLabel": "Health and Physical Education",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why is it helpful to use assertive communication in peer-pressure situations?",
+  "answer": "it helps you state boundaries clearly and respectfully",
+  "explanation": "Assertive communication supports safe and confident decision-making."
+}

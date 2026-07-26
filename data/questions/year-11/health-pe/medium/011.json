@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-11",
+  "gradeLabel": "Year 11",
+  "subject": "health-pe",
+  "subjectLabel": "Health and Physical Education",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why is specificity important when designing a training program?",
+  "answer": "training should match the demands of the sport or goal",
+  "explanation": "The body adapts most to the type of work it repeatedly performs."
+}

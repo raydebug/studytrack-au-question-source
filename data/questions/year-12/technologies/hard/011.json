@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-12",
+  "gradeLabel": "Year 12",
+  "subject": "technologies",
+  "subjectLabel": "Technologies",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "What is one reason system designers use redundancy in critical digital systems?",
+  "answer": "backup components improve reliability if one part fails",
+  "explanation": "Redundancy helps critical systems keep operating during faults."
+}

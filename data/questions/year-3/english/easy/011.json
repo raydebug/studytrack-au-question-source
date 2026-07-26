@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-3",
+  "gradeLabel": "Year 3",
+  "subject": "english",
+  "subjectLabel": "English",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "Choose the correct past tense of \"walk\": walked or walking?",
+  "answer": "walked",
+  "explanation": "\"Walked\" tells us the action already happened."
+}

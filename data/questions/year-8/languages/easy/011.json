@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-8",
+  "gradeLabel": "Year 8",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What is an idiom?",
+  "answer": "a phrase whose meaning is different from the literal words",
+  "explanation": "Idioms cannot always be understood by translating each word separately."
+}

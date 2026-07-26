@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-5",
+  "gradeLabel": "Year 5",
+  "subject": "health-pe",
+  "subjectLabel": "Health and Physical Education",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "What should you do if a friend online asks for your home address?",
+  "answer": "do not share it and tell a trusted adult",
+  "explanation": "Personal information should stay private and concerns should be reported to a trusted adult."
+}

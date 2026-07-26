@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "foundation",
+  "gradeLabel": "Foundation",
+  "subject": "technologies",
+  "subjectLabel": "Technologies",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "Which tool can you use to type on a computer: a keyboard or a spoon?",
+  "answer": "keyboard",
+  "explanation": "A keyboard is used to enter letters and numbers on a computer."
+}

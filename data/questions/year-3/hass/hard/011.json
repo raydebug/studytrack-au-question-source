@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-3",
+  "gradeLabel": "Year 3",
+  "subject": "hass",
+  "subjectLabel": "Humanities and Social Sciences",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why is it important to respect places that are significant to Aboriginal and Torres Strait Islander peoples?",
+  "answer": "because they hold cultural and historical meaning",
+  "explanation": "Significant places connect people to Country, culture, and history."
+}

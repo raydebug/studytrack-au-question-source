@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-10",
+  "gradeLabel": "Year 10",
+  "subject": "the-arts",
+  "subjectLabel": "The Arts",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "How can negative space influence the composition of a visual artwork?",
+  "answer": "it shapes balance and draws attention to the main subject",
+  "explanation": "Empty areas can be just as important as filled areas in composition."
+}

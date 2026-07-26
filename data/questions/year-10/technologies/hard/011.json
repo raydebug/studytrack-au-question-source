@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-10",
+  "gradeLabel": "Year 10",
+  "subject": "technologies",
+  "subjectLabel": "Technologies",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "What is one cybersecurity risk of reusing the same password across many services?",
+  "answer": "one breach can expose multiple accounts",
+  "explanation": "Password reuse increases the impact of a single compromised service."
+}

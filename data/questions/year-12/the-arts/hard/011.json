@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-12",
+  "gradeLabel": "Year 12",
+  "subject": "the-arts",
+  "subjectLabel": "The Arts",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "How can postmodern techniques challenge audience expectations in the arts?",
+  "answer": "they can fragment form, mix styles, and question fixed meaning",
+  "explanation": "Postmodern works often resist single interpretations and traditional structure."
+}

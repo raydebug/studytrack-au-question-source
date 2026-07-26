@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "foundation",
+  "gradeLabel": "Foundation",
+  "subject": "technologies",
+  "subjectLabel": "Technologies",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "What do we call the steps we follow to finish a task on a computer?",
+  "answer": "instructions",
+  "explanation": "A set of instructions tells the computer user what steps to follow."
+}

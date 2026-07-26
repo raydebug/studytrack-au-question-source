@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-10",
+  "gradeLabel": "Year 10",
+  "subject": "health-pe",
+  "subjectLabel": "Health and Physical Education",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why can goal setting improve a training program?",
+  "answer": "clear goals help track progress and maintain motivation",
+  "explanation": "Specific goals guide planning and evaluation in physical training."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-3",
+  "gradeLabel": "Year 3",
+  "subject": "the-arts",
+  "subjectLabel": "The Arts",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why might a composer include a pause in a piece of music?",
+  "answer": "to create contrast or emphasis",
+  "explanation": "Silence can shape the mood and highlight other sounds."
+}

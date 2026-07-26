@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "createdAt": "2026-07-26",
+  "grade": "year-5",
+  "gradeLabel": "Year 5",
+  "subject": "hass",
+  "subjectLabel": "Humanities and Social Sciences",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What is the name of the imaginary line that divides Earth into eastern and western hemispheres?",
+  "answer": "Prime Meridian",
+  "explanation": "The Prime Meridian helps divide the Earth into east and west."
+}
