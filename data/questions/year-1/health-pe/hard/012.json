@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-1",
+  "gradeLabel": "Year 1",
+  "subject": "health-pe",
+  "subjectLabel": "Health and Physical Education",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why is a warm-up helpful before running fast?",
+  "answer": "it gets your body ready to move",
+  "explanation": "Warming up helps muscles and joints prepare for exercise."
+}

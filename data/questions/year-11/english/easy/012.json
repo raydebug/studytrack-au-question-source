@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-11",
+  "gradeLabel": "Year 11",
+  "subject": "english",
+  "subjectLabel": "English",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "In literary study, what is a motif?",
+  "answer": "a recurring idea, image, or symbol in a text",
+  "explanation": "Motifs repeat to build meaning across a work."
+}

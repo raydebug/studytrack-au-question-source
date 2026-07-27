@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-10",
+  "gradeLabel": "Year 10",
+  "subject": "health-pe",
+  "subjectLabel": "Health and Physical Education",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "How can setting measurable goals make a training plan more effective?",
+  "answer": "because it gives clear targets and helps track progress",
+  "explanation": "Specific goals make planning and reviewing training more effective."
+}

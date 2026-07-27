@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-6",
+  "gradeLabel": "Year 6",
+  "subject": "technologies",
+  "subjectLabel": "Technologies",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What device is used to store files and information for later use?",
+  "answer": "a storage device",
+  "explanation": "Storage devices keep digital data so it can be used again."
+}

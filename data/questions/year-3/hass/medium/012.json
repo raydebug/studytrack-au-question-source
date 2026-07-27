@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-3",
+  "gradeLabel": "Year 3",
+  "subject": "hass",
+  "subjectLabel": "Humanities and Social Sciences",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "What is one reason people choose to live near a river?",
+  "answer": "to have access to water",
+  "explanation": "Rivers can provide water for homes, farming, and travel."
+}

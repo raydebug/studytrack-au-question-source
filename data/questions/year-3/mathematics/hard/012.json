@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-3",
+  "gradeLabel": "Year 3",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "What fraction of a cake is one piece if the cake is cut into 6 equal pieces?",
+  "answer": "1/6",
+  "explanation": "One out of 6 equal parts is written as 1/6."
+}

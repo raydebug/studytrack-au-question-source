@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-7",
+  "gradeLabel": "Year 7",
+  "subject": "technologies",
+  "subjectLabel": "Technologies",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why do programmers break a large problem into smaller parts?",
+  "answer": "because smaller parts are easier to solve and test",
+  "explanation": "Decomposition makes complex systems more manageable."
+}

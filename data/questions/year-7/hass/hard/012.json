@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-7",
+  "gradeLabel": "Year 7",
+  "subject": "hass",
+  "subjectLabel": "Humanities and Social Sciences",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why do governments collect taxes?",
+  "answer": "to pay for public services and infrastructure",
+  "explanation": "Taxes help fund things like roads, schools, and hospitals."
+}

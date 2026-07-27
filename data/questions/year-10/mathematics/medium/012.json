@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-10",
+  "gradeLabel": "Year 10",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Solve 3x^2 - 27 = 0.",
+  "answer": "x = 3 or x = -3",
+  "explanation": "Divide by 3 to get x^2 = 9, then take both square roots."
+}

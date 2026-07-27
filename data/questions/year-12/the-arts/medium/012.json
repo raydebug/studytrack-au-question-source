@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-12",
+  "gradeLabel": "Year 12",
+  "subject": "the-arts",
+  "subjectLabel": "The Arts",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "What artistic effect can come from using very little staging in a performance?",
+  "answer": "to focus attention on performers, ideas, or symbolism",
+  "explanation": "Minimal staging can make the audience notice movement, language, and design choices more closely."
+}

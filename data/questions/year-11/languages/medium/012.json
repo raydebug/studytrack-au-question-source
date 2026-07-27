@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-11",
+  "gradeLabel": "Year 11",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why must interpreters pay attention to tone as well as the actual words used?",
+  "answer": "because tone changes how the message should be understood",
+  "explanation": "The same words can mean different things depending on tone."
+}

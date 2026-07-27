@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-12",
+  "gradeLabel": "Year 12",
+  "subject": "hass",
+  "subjectLabel": "Humanities and Social Sciences",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "How can a weaker local currency change the price of imported goods?",
+  "answer": "because imports cost more when the local currency weakens",
+  "explanation": "Exchange rates change how much domestic buyers must pay for foreign products."
+}

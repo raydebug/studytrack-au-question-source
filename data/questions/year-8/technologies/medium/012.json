@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-8",
+  "gradeLabel": "Year 8",
+  "subject": "technologies",
+  "subjectLabel": "Technologies",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why is a flowchart useful before writing code?",
+  "answer": "it helps plan the steps and decisions clearly",
+  "explanation": "Flowcharts show process logic before implementation begins."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-9",
+  "gradeLabel": "Year 9",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why are cultural references often harder to translate than simple everyday objects?",
+  "answer": "because the audience may not share the same background knowledge",
+  "explanation": "Cultural meaning often depends on context rather than simple word replacement."
+}

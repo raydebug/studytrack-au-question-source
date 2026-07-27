@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-4",
+  "gradeLabel": "Year 4",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "A rectangle is 11 cm long and 3 cm wide. What is its perimeter?",
+  "answer": "28 cm",
+  "explanation": "Perimeter is 11 + 3 + 11 + 3, which equals 28 cm."
+}

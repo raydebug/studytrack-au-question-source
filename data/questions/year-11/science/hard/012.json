@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-11",
+  "gradeLabel": "Year 11",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "How does raising concentration change collision frequency during a reaction?",
+  "answer": "because more particles are packed into the same space",
+  "explanation": "With more particles present, there are more opportunities for collisions."
+}

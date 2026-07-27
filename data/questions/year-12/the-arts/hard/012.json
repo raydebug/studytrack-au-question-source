@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-12",
+  "gradeLabel": "Year 12",
+  "subject": "the-arts",
+  "subjectLabel": "The Arts",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "In what way can postmodern techniques unsettle or challenge audience expectations?",
+  "answer": "they can disrupt familiar structure, style, or meaning",
+  "explanation": "Postmodern works often question rules and invite multiple interpretations."
+}

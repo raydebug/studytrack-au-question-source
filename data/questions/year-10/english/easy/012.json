@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-10",
+  "gradeLabel": "Year 10",
+  "subject": "english",
+  "subjectLabel": "English",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "In literary analysis, what is an allusion?",
+  "answer": "a brief reference to another text, event, or idea",
+  "explanation": "Allusions rely on the reader recognising what is being referred to."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-11",
+  "gradeLabel": "Year 11",
+  "subject": "health-pe",
+  "subjectLabel": "Health and Physical Education",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "How can lactate threshold help explain an endurance athlete's performance?",
+  "answer": "it shows how hard an athlete can work before fatigue rises quickly",
+  "explanation": "A higher lactate threshold lets athletes sustain faster pace for longer."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-9",
+  "gradeLabel": "Year 9",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why does increasing resistance reduce current in a circuit when voltage stays the same?",
+  "answer": "because higher resistance makes it harder for charge to flow",
+  "explanation": "By Ohm's law, if voltage is constant and resistance rises, current falls."
+}

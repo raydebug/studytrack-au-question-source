@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-8",
+  "gradeLabel": "Year 8",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why can humour be difficult to translate from one language to another?",
+  "answer": "the humour may rely on wordplay or cultural references",
+  "explanation": "Jokes often depend on meanings that do not transfer directly."
+}

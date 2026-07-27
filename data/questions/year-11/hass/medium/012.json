@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-11",
+  "gradeLabel": "Year 11",
+  "subject": "hass",
+  "subjectLabel": "Humanities and Social Sciences",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "How does the idea of opportunity cost help explain economic choices?",
+  "answer": "because choosing one option means giving up another",
+  "explanation": "Opportunity cost highlights the value of the next best alternative."
+}

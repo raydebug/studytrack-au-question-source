@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-11",
+  "gradeLabel": "Year 11",
+  "subject": "health-pe",
+  "subjectLabel": "Health and Physical Education",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "After hard exercise, what is one benefit of doing a cooldown?",
+  "answer": "it helps the body return gradually toward resting state",
+  "explanation": "A cooldown supports recovery after hard effort."
+}

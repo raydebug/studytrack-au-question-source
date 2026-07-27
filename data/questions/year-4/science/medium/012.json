@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-4",
+  "gradeLabel": "Year 4",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "What is the name of the process when puddle water warms up and becomes water vapour?",
+  "answer": "evaporation",
+  "explanation": "Evaporation happens when liquid water gains heat and turns into gas."
+}

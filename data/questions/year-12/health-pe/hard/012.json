@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-12",
+  "gradeLabel": "Year 12",
+  "subject": "health-pe",
+  "subjectLabel": "Health and Physical Education",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why do endurance coaches often use VO2 max as one performance indicator?",
+  "answer": "it estimates the body's maximum ability to use oxygen during intense exercise",
+  "explanation": "Higher VO2 max is often linked with greater aerobic endurance capacity."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-8",
+  "gradeLabel": "Year 8",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What process is called photosynthesis?",
+  "answer": "the way plants make food using sunlight",
+  "explanation": "Plants use light energy, water, and carbon dioxide to make glucose."
+}

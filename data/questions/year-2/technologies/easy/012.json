@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-2",
+  "gradeLabel": "Year 2",
+  "subject": "technologies",
+  "subjectLabel": "Technologies",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What do we call a picture made from tiny coloured squares on a screen?",
+  "answer": "a digital image",
+  "explanation": "Screen pictures are made from many tiny picture points called pixels."
+}

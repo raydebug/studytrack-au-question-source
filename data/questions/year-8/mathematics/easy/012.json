@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-8",
+  "gradeLabel": "Year 8",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "Solve 3x + 2 = 14.",
+  "answer": "x = 4",
+  "explanation": "Subtract 2 to get 12, then divide by 3 to get 4."
+}

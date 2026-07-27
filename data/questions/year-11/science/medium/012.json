@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-11",
+  "gradeLabel": "Year 11",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "What usually happens to enzyme activity if temperature rises well above the enzyme's optimum?",
+  "answer": "it decreases",
+  "explanation": "High temperatures can change the enzyme's shape and reduce how well it works."
+}

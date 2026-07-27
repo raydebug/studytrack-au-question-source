@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-7",
+  "gradeLabel": "Year 7",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Solve 4x + 7 = 23.",
+  "answer": "x = 4",
+  "explanation": "Subtract 7 to get 16, then divide by 4 to get x = 4."
+}

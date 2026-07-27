@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-6",
+  "gradeLabel": "Year 6",
+  "subject": "hass",
+  "subjectLabel": "Humanities and Social Sciences",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why can access to natural resources influence where people settle?",
+  "answer": "because resources can provide water, food, materials, or jobs",
+  "explanation": "Settlements often grow where resources support daily life and work."
+}

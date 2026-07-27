@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-1",
+  "gradeLabel": "Year 1",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Ava has 12 shells and gives 5 away. How many shells does she have left?",
+  "answer": "7",
+  "explanation": "Taking 5 away from 12 leaves 7."
+}

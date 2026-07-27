@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-6",
+  "gradeLabel": "Year 6",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "What happens in a circuit if the switch is open?",
+  "answer": "the electricity stops flowing",
+  "explanation": "An open switch breaks the circuit, so current cannot move around it."
+}

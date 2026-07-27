@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-6",
+  "gradeLabel": "Year 6",
+  "subject": "health-pe",
+  "subjectLabel": "Health and Physical Education",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why is it important for teammates to spread out in an invasion game?",
+  "answer": "to create space and better passing options",
+  "explanation": "Good spacing helps a team keep possession and attack more effectively."
+}

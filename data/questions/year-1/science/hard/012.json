@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-1",
+  "gradeLabel": "Year 1",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why does a shadow appear on the ground?",
+  "answer": "because something blocks the light",
+  "explanation": "A shadow forms when an object stops some light from reaching a surface."
+}

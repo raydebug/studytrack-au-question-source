@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-4",
+  "gradeLabel": "Year 4",
+  "subject": "technologies",
+  "subjectLabel": "Technologies",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What word do we use for information gathered to help answer a question?",
+  "answer": "data",
+  "explanation": "Data is information gathered so it can be used or studied."
+}

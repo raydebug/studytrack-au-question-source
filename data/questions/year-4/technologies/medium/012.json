@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-4",
+  "gradeLabel": "Year 4",
+  "subject": "technologies",
+  "subjectLabel": "Technologies",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why would a designer test a cardboard version before building the real model?",
+  "answer": "to test the idea cheaply and safely",
+  "explanation": "A simple prototype lets you check a design before using more time and materials."
+}

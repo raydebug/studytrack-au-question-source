@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-1",
+  "gradeLabel": "Year 1",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why do learners say a new word several times?",
+  "answer": "to remember it and pronounce it better",
+  "explanation": "Repeating a word helps move it into memory and improves fluency."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-2",
+  "gradeLabel": "Year 2",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "How can hand actions help when you are trying to speak a new language?",
+  "answer": "to help show meaning",
+  "explanation": "Gestures can support communication when vocabulary is still developing."
+}

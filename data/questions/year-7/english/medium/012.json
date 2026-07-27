@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-7",
+  "gradeLabel": "Year 7",
+  "subject": "english",
+  "subjectLabel": "English",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "In the sentence \"Sana dropped the glass, and it shattered,\" what does \"it\" refer to?",
+  "answer": "the glass",
+  "explanation": "The pronoun \"it\" replaces the noun \"glass\"."
+}

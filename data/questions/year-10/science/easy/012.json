@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-10",
+  "gradeLabel": "Year 10",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "At room temperature, what pH value shows that a solution is neutral?",
+  "answer": "7",
+  "explanation": "A neutral solution has equal acidic and basic properties, which is pH 7."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-3",
+  "gradeLabel": "Year 3",
+  "subject": "health-pe",
+  "subjectLabel": "Health and Physical Education",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "Which habit helps your teeth stay healthy: brushing twice a day or never brushing?",
+  "answer": "brushing twice a day",
+  "explanation": "Regular brushing helps remove plaque and protect teeth."
+}

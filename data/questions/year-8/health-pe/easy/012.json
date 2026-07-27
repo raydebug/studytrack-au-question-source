@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-8",
+  "gradeLabel": "Year 8",
+  "subject": "health-pe",
+  "subjectLabel": "Health and Physical Education",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What is one mental-health benefit of regular physical activity?",
+  "answer": "it can improve mood",
+  "explanation": "Movement can help reduce stress and support emotional wellbeing."
+}

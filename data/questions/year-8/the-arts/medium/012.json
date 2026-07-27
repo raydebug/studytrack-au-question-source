@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-8",
+  "gradeLabel": "Year 8",
+  "subject": "the-arts",
+  "subjectLabel": "The Arts",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "How can cool blue lighting change the mood of a stage scene?",
+  "answer": "to create a calm, sad, or night-time mood",
+  "explanation": "Lighting colour strongly affects how a scene feels to the audience."
+}

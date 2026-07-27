@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-2",
+  "gradeLabel": "Year 2",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why is pronunciation important when learning a new word?",
+  "answer": "so other people can understand you",
+  "explanation": "Clear pronunciation helps listeners recognise the word you are saying."
+}

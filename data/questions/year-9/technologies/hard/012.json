@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-9",
+  "gradeLabel": "Year 9",
+  "subject": "technologies",
+  "subjectLabel": "Technologies",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "What ethical issue can arise when an app collects personal information from users?",
+  "answer": "users may not know how their data will be used",
+  "explanation": "Ethical data collection requires transparency, consent, and careful protection."
+}

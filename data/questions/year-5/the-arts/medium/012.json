@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-5",
+  "gradeLabel": "Year 5",
+  "subject": "the-arts",
+  "subjectLabel": "The Arts",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "In music, what is a repeated line or section in a song called?",
+  "answer": "a refrain",
+  "explanation": "A refrain returns during a song and helps listeners recognise it."
+}

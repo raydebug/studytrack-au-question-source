@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-5",
+  "gradeLabel": "Year 5",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "How can flowing water change a rocky landscape over time?",
+  "answer": "it can wear the rock away through erosion",
+  "explanation": "Water movement can slowly erode rock and reshape landforms."
+}

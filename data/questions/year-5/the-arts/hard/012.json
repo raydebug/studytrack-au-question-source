@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-5",
+  "gradeLabel": "Year 5",
+  "subject": "the-arts",
+  "subjectLabel": "The Arts",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "How can stage lighting help create mood in a performance?",
+  "answer": "it can change colour and brightness to affect how the scene feels",
+  "explanation": "Lighting choices strongly influence atmosphere and audience response."
+}

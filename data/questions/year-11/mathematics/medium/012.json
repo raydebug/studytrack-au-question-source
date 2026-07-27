@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-11",
+  "gradeLabel": "Year 11",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "If f(x) = 2x^2 + 1, what is f(3)?",
+  "answer": "19",
+  "explanation": "Substitute 3 for x: 2 x 3^2 + 1 = 2 x 9 + 1 = 19."
+}

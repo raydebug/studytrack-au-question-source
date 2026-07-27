@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-5",
+  "gradeLabel": "Year 5",
+  "subject": "health-pe",
+  "subjectLabel": "Health and Physical Education",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why is it helpful for players in a team game to know their different roles?",
+  "answer": "so they can work together more effectively",
+  "explanation": "Clear roles can improve teamwork, positioning, and decision-making."
+}

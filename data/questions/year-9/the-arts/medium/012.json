@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-9",
+  "gradeLabel": "Year 9",
+  "subject": "the-arts",
+  "subjectLabel": "The Arts",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "What visual effect can a choreographer create by using canon in a dance phrase?",
+  "answer": "to create a ripple effect across the performers",
+  "explanation": "Canon staggers the same movement so it starts at different times."
+}

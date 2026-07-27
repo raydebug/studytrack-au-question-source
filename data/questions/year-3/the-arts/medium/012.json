@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-3",
+  "gradeLabel": "Year 3",
+  "subject": "the-arts",
+  "subjectLabel": "The Arts",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Which visual art element helps show how rough or smooth something looks?",
+  "answer": "texture",
+  "explanation": "Texture describes how a surface looks or feels."
+}

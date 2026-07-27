@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-12",
+  "gradeLabel": "Year 12",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Find an antiderivative of 2x with respect to x.",
+  "answer": "x^2 + C",
+  "explanation": "The antiderivative of 2x is x squared, plus a constant of integration."
+}

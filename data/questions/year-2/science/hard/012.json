@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-2",
+  "gradeLabel": "Year 2",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why can a metal slide feel hotter than a plastic slide in the sun?",
+  "answer": "metal heats up and transfers heat quickly",
+  "explanation": "Metal is a good conductor, so it can feel hotter when sunlight warms it."
+}

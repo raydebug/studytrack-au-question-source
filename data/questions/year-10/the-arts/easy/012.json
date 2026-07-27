@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-10",
+  "gradeLabel": "Year 10",
+  "subject": "the-arts",
+  "subjectLabel": "The Arts",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What is blocking in a theatre scene?",
+  "answer": "the planned movement and position of actors on stage",
+  "explanation": "Blocking helps organise how performers move through a scene."
+}

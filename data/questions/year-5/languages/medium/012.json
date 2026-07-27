@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-5",
+  "gradeLabel": "Year 5",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why can gestures and facial expressions help you understand another language?",
+  "answer": "they give extra clues about meaning",
+  "explanation": "Communication includes more than words, so body language can support understanding."
+}

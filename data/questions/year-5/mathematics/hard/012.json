@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-5",
+  "gradeLabel": "Year 5",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "A water tank holds 2.5 L. How many millilitres is that?",
+  "answer": "2500 mL",
+  "explanation": "One litre is 1000 mL, so 2.5 L is 2500 mL."
+}

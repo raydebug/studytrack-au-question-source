@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-7",
+  "gradeLabel": "Year 7",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "Why can a hand gesture mean different things in different cultures?",
+  "answer": "because meaning is shaped by cultural context",
+  "explanation": "Gestures are not universal, so the same sign may be interpreted differently."
+}

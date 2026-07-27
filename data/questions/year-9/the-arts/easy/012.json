@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-9",
+  "gradeLabel": "Year 9",
+  "subject": "the-arts",
+  "subjectLabel": "The Arts",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What is a close-up shot often used for in film?",
+  "answer": "to show detail or emotion clearly",
+  "explanation": "Close-ups focus the audience on a face or important object."
+}

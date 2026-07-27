@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-7",
+  "gradeLabel": "Year 7",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why do particles spread out faster when a substance is heated?",
+  "answer": "because the particles gain energy and move more quickly",
+  "explanation": "Heating increases particle motion, which speeds up diffusion."
+}

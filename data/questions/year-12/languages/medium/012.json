@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-12",
+  "gradeLabel": "Year 12",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "How does audience awareness improve translation for signs, notices, or other public communication?",
+  "answer": "because wording must suit what the audience knows and expects",
+  "explanation": "Effective translation considers clarity, tone, and cultural understanding."
+}

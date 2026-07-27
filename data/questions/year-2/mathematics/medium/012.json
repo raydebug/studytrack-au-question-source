@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-2",
+  "gradeLabel": "Year 2",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "There are 5 bags with 4 apples in each bag. How many apples are there altogether?",
+  "answer": "20",
+  "explanation": "Five groups of 4 is 20."
+}

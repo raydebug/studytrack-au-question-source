@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-3",
+  "gradeLabel": "Year 3",
+  "subject": "technologies",
+  "subjectLabel": "Technologies",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "When someone debugs code, what are they trying to do?",
+  "answer": "to find and fix mistakes in it",
+  "explanation": "Debugging is the process of locating problems and correcting them."
+}

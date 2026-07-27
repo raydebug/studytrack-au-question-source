@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-12",
+  "gradeLabel": "Year 12",
+  "subject": "hass",
+  "subjectLabel": "Humanities and Social Sciences",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "In economics, what does fiscal policy refer to?",
+  "answer": "government decisions about spending and taxation",
+  "explanation": "Fiscal policy is used to influence the economy through the government budget."
+}

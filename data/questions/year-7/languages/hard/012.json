@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-7",
+  "gradeLabel": "Year 7",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why can translating every word literally sometimes cause misunderstanding?",
+  "answer": "because the intended meaning may not match the exact words",
+  "explanation": "Languages often use idioms, tone, and context that literal translation misses."
+}

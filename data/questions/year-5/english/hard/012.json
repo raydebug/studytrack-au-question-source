@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-5",
+  "gradeLabel": "Year 5",
+  "subject": "english",
+  "subjectLabel": "English",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Which persuasive technique is used in the question \"Do we really want more rubbish in our parks?\"",
+  "answer": "a rhetorical question",
+  "explanation": "The question is asked to persuade rather than to get an actual answer."
+}

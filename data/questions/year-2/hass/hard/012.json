@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-2",
+  "gradeLabel": "Year 2",
+  "subject": "hass",
+  "subjectLabel": "Humanities and Social Sciences",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why do neighbourhoods need shared rules for places like playgrounds and streets?",
+  "answer": "to keep people safe and help places work well",
+  "explanation": "Shared rules support safety, fairness, and care for community spaces."
+}

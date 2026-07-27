@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-11",
+  "gradeLabel": "Year 11",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why is translating poetry often harder than translating straightforward prose?",
+  "answer": "the translator must balance meaning, rhythm, and imagery",
+  "explanation": "Poetry depends on sound and structure as well as literal meaning."
+}

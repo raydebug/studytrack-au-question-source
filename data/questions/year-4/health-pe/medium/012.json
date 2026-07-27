@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-4",
+  "gradeLabel": "Year 4",
+  "subject": "health-pe",
+  "subjectLabel": "Health and Physical Education",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Before chatting in an online game with people you do not know, what safety check should you make?",
+  "answer": "that it is safe and you are not sharing private information",
+  "explanation": "Online safety includes protecting personal details and using trusted spaces."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-11",
+  "gradeLabel": "Year 11",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "In language analysis, what does register refer to?",
+  "answer": "the degree of formality used in communication",
+  "explanation": "Register changes according to audience, purpose, and setting."
+}

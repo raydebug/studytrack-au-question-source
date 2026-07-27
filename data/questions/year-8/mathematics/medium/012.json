@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-8",
+  "gradeLabel": "Year 8",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "What is the gradient of a line that rises 8 units for every 4 units across?",
+  "answer": "2",
+  "explanation": "Gradient is rise divided by run, so 8 divided by 4 equals 2."
+}

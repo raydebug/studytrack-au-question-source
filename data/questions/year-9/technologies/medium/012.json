@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-9",
+  "gradeLabel": "Year 9",
+  "subject": "technologies",
+  "subjectLabel": "Technologies",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "How does data validation improve the quality of information entered into an online form?",
+  "answer": "it helps stop incorrect or incomplete data being entered",
+  "explanation": "Validation improves data quality before the form is submitted."
+}

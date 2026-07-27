@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "foundation",
+  "gradeLabel": "Foundation",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What do we call a word you say when you meet someone kindly?",
+  "answer": "a greeting",
+  "explanation": "A greeting is a polite word or phrase used when meeting someone."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-4",
+  "gradeLabel": "Year 4",
+  "subject": "hass",
+  "subjectLabel": "Humanities and Social Sciences",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What do we call the line around the middle of the Earth that divides north and south?",
+  "answer": "the Equator",
+  "explanation": "The Equator is the imaginary line around Earth's middle."
+}

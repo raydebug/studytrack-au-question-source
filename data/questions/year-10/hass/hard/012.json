@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-10",
+  "gradeLabel": "Year 10",
+  "subject": "hass",
+  "subjectLabel": "Humanities and Social Sciences",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why does separation of powers matter in a democracy?",
+  "answer": "it helps stop one branch of government from controlling everything",
+  "explanation": "Separating powers supports accountability and checks on authority."
+}

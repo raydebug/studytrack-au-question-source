@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-2",
+  "gradeLabel": "Year 2",
+  "subject": "english",
+  "subjectLabel": "English",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "In the sentence \"The dog barked loudly,\" which word is the verb?",
+  "answer": "barked",
+  "explanation": "The verb tells what the dog did, and here it is \"barked\"."
+}

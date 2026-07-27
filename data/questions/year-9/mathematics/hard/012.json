@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-9",
+  "gradeLabel": "Year 9",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Use Pythagoras' theorem to find the hypotenuse of a right triangle with legs 8 cm and 15 cm.",
+  "answer": "17 cm",
+  "explanation": "8 squared plus 15 squared equals 64 + 225 = 289, and the square root of 289 is 17."
+}

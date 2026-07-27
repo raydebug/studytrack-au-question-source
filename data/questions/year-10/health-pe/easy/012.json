@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-10",
+  "gradeLabel": "Year 10",
+  "subject": "health-pe",
+  "subjectLabel": "Health and Physical Education",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "Name one health or performance benefit of good cardiovascular fitness.",
+  "answer": "it helps the heart and lungs work more efficiently",
+  "explanation": "Cardiovascular fitness supports endurance and overall health."
+}

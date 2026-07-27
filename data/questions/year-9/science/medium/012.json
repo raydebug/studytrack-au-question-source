@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-9",
+  "gradeLabel": "Year 9",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "What is the main function of red blood cells?",
+  "answer": "to carry oxygen around the body",
+  "explanation": "Red blood cells transport oxygen from the lungs to body tissues."
+}

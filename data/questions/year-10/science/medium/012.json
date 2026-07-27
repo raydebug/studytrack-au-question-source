@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-10",
+  "gradeLabel": "Year 10",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "What job do mitochondria do inside most cells?",
+  "answer": "to release energy from food",
+  "explanation": "Mitochondria are often called the powerhouse of the cell because they make usable energy."
+}

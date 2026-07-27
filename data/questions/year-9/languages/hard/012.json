@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-9",
+  "gradeLabel": "Year 9",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why might bilingual speakers switch languages partway through a conversation?",
+  "answer": "speakers may shift language to suit topic, audience, or identity",
+  "explanation": "Bilingual speakers often move between languages for practical and social reasons."
+}

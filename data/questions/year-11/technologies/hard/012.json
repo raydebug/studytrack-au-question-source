@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-11",
+  "gradeLabel": "Year 11",
+  "subject": "technologies",
+  "subjectLabel": "Technologies",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "What trade-off can appear when a system encrypts data that it stores?",
+  "answer": "security improves but access and processing may become more complex",
+  "explanation": "Encryption protects data, but it can add overhead and management requirements."
+}

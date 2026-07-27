@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-6",
+  "gradeLabel": "Year 6",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "What is register in language?",
+  "answer": "the level of formality used for a situation",
+  "explanation": "Register changes depending on audience, purpose, and context."
+}

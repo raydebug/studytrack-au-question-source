@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-2",
+  "gradeLabel": "Year 2",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "What stage comes before an adult butterfly?",
+  "answer": "a chrysalis or pupa",
+  "explanation": "Butterflies change from caterpillar to chrysalis or pupa before becoming adults."
+}

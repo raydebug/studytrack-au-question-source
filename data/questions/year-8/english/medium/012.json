@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-8",
+  "gradeLabel": "Year 8",
+  "subject": "english",
+  "subjectLabel": "English",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "What effect can a rhetorical question have in a persuasive article?",
+  "answer": "it can make the reader think and push them toward the writer's view",
+  "explanation": "Rhetorical questions guide the audience without expecting a direct answer."
+}

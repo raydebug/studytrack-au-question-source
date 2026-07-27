@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-10",
+  "gradeLabel": "Year 10",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "How does extra carbon dioxide in the atmosphere add to global warming?",
+  "answer": "because carbon dioxide traps more heat in the atmosphere",
+  "explanation": "Extra greenhouse gases reduce how much heat escapes back into space."
+}

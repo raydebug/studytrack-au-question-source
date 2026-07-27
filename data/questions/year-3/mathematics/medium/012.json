@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-3",
+  "gradeLabel": "Year 3",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "A rope is 63 cm long. If you cut off 18 cm, how much is left?",
+  "answer": "45 cm",
+  "explanation": "Subtracting 18 from 63 leaves 45."
+}

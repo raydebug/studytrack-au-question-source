@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-8",
+  "gradeLabel": "Year 8",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What is an accent?",
+  "answer": "a way of pronouncing a language that is linked to a place or group",
+  "explanation": "Accents are natural variations in pronunciation."
+}

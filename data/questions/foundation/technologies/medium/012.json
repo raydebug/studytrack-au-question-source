@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "foundation",
+  "gradeLabel": "Foundation",
+  "subject": "technologies",
+  "subjectLabel": "Technologies",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "What do we call the ordered steps for making a sandwich?",
+  "answer": "an algorithm",
+  "explanation": "An algorithm is a set of steps followed in order to finish a task."
+}

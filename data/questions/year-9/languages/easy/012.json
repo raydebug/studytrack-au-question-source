@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-9",
+  "gradeLabel": "Year 9",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "In language study, what do we call words such as \"animal\" and \"animal\" that are similar across languages?",
+  "answer": "a word that looks or sounds similar across languages and has a related meaning",
+  "explanation": "Cognates can help learners connect new vocabulary to familiar words."
+}

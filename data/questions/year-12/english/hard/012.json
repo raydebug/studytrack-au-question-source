@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-12",
+  "gradeLabel": "Year 12",
+  "subject": "english",
+  "subjectLabel": "English",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "How can what a text leaves unsaid matter as much as what it says openly?",
+  "answer": "because what is left out can reveal bias, power, or hidden assumptions",
+  "explanation": "Absences can shape interpretation just as strongly as explicit statements."
+}

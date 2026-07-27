@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-10",
+  "gradeLabel": "Year 10",
+  "subject": "technologies",
+  "subjectLabel": "Technologies",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "In digital systems, what is an input device?",
+  "answer": "a device used to send data into a computer",
+  "explanation": "Keyboards, mice, and microphones are all input devices."
+}

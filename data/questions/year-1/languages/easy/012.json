@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-1",
+  "gradeLabel": "Year 1",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What is one word you might learn to greet a friend in another language?",
+  "answer": "hello",
+  "explanation": "\"Hello\" is a common greeting idea that many languages express in their own way."
+}

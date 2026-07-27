@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-8",
+  "gradeLabel": "Year 8",
+  "subject": "hass",
+  "subjectLabel": "Humanities and Social Sciences",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "How can reliable water supply influence where settlements develop?",
+  "answer": "because water is needed for homes, farming, and jobs",
+  "explanation": "Reliable water supplies affect where settlements can survive and grow."
+}

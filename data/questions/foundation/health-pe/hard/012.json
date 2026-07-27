@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "foundation",
+  "gradeLabel": "Foundation",
+  "subject": "health-pe",
+  "subjectLabel": "Health and Physical Education",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "If you need to cross the road with an adult, what should you do first?",
+  "answer": "stop and look carefully",
+  "explanation": "Stopping and checking for cars is an important road-safety habit."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-3",
+  "gradeLabel": "Year 3",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why might a pelican's beak be shaped differently from a parrot's beak?",
+  "answer": "because each bird's beak is adapted to its food",
+  "explanation": "Different beak shapes help birds gather and eat different kinds of food."
+}

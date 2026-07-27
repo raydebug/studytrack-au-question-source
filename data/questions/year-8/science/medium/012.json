@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-8",
+  "gradeLabel": "Year 8",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why does heating a reaction often make it happen faster?",
+  "answer": "because particles collide more often and with more energy",
+  "explanation": "Higher temperature increases particle motion, which raises the reaction rate."
+}

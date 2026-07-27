@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-1",
+  "gradeLabel": "Year 1",
+  "subject": "health-pe",
+  "subjectLabel": "Health and Physical Education",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "Which food is a healthy lunch choice: a sandwich or a candle?",
+  "answer": "a sandwich",
+  "explanation": "A sandwich can provide food energy, while a candle is not food."
+}

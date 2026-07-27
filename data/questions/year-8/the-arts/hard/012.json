@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-8",
+  "gradeLabel": "Year 8",
+  "subject": "the-arts",
+  "subjectLabel": "The Arts",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "What effect can faster or slower editing have on how an audience feels during a film scene?",
+  "answer": "fast cuts can build tension while slower cuts can feel calmer",
+  "explanation": "The speed of editing shapes rhythm and emotional response."
+}

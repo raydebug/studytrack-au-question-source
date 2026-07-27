@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-12",
+  "gradeLabel": "Year 12",
+  "subject": "technologies",
+  "subjectLabel": "Technologies",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why do critical digital systems often include redundant components or pathways?",
+  "answer": "so the system can keep working if one part fails",
+  "explanation": "Redundancy improves reliability by adding backup components or pathways."
+}

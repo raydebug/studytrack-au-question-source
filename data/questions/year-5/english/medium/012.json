@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-5",
+  "gradeLabel": "Year 5",
+  "subject": "english",
+  "subjectLabel": "English",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "What is the adverb in the sentence \"Mia carefully packed the glass jar\"?",
+  "answer": "carefully",
+  "explanation": "The adverb \"carefully\" explains how Mia packed the jar."
+}

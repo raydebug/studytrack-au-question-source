@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-7",
+  "gradeLabel": "Year 7",
+  "subject": "hass",
+  "subjectLabel": "Humanities and Social Sciences",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why can reliable access to water shape where people build towns?",
+  "answer": "because people need water for living, farming, and industry",
+  "explanation": "Water availability strongly influences human settlement patterns."
+}

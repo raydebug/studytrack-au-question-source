@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-10",
+  "gradeLabel": "Year 10",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why might one idea need different wording for a friend and a teacher in another language?",
+  "answer": "because audience and relationship affect register",
+  "explanation": "Many languages adjust wording for politeness, age, or status."
+}

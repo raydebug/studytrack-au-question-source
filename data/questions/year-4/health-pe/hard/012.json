@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-4",
+  "gradeLabel": "Year 4",
+  "subject": "health-pe",
+  "subjectLabel": "Health and Physical Education",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "How does good communication help in a relay race handover?",
+  "answer": "it helps teammates time the handover well",
+  "explanation": "Clear communication improves teamwork and reduces mistakes."
+}

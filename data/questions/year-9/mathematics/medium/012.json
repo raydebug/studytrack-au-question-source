@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-9",
+  "gradeLabel": "Year 9",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Solve x/5 + 3 = 11.",
+  "answer": "x = 40",
+  "explanation": "Subtract 3 to get 8, then multiply by 5 to get 40."
+}

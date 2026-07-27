@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-5",
+  "gradeLabel": "Year 5",
+  "subject": "health-pe",
+  "subjectLabel": "Health and Physical Education",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What usually happens to your heart rate when you run fast?",
+  "answer": "it increases",
+  "explanation": "Your heart beats faster to move more oxygen around the body during exercise."
+}

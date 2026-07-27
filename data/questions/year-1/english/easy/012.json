@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-1",
+  "gradeLabel": "Year 1",
+  "subject": "english",
+  "subjectLabel": "English",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "Which word names a place: \"park\" or \"green\"?",
+  "answer": "park",
+  "explanation": "\"Park\" is the name of a place, while \"green\" is a describing word."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "foundation",
+  "gradeLabel": "Foundation",
+  "subject": "hass",
+  "subjectLabel": "Humanities and Social Sciences",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "Who helps put out fires: a firefighter or a baker?",
+  "answer": "a firefighter",
+  "explanation": "Firefighters are trained to respond to fires and keep people safe."
+}

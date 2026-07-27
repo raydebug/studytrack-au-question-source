@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-12",
+  "gradeLabel": "Year 12",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why is cultural nuance especially hard to preserve when translating literature?",
+  "answer": "some meanings depend on references and values that do not transfer directly",
+  "explanation": "Literary translation must balance readability with cultural depth and voice."
+}

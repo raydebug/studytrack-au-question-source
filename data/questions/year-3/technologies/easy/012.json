@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-3",
+  "gradeLabel": "Year 3",
+  "subject": "technologies",
+  "subjectLabel": "Technologies",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What do we call an ordered list of instructions that tells a robot how to move?",
+  "answer": "an algorithm",
+  "explanation": "An algorithm gives instructions in an order that can be followed."
+}

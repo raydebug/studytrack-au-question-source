@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-7",
+  "gradeLabel": "Year 7",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why might a language learner need a more polite form of a greeting for some situations?",
+  "answer": "because the audience or setting is more formal",
+  "explanation": "Language choices change depending on who you are speaking to."
+}

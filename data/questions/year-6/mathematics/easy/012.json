@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-6",
+  "gradeLabel": "Year 6",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What is the lowest common multiple of 4 and 6?",
+  "answer": "12",
+  "explanation": "12 is the smallest number that both 4 and 6 divide into evenly."
+}

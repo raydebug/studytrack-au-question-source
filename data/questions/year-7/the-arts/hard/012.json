@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-7",
+  "gradeLabel": "Year 7",
+  "subject": "the-arts",
+  "subjectLabel": "The Arts",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "How can dramatic irony make a scene more engaging for an audience?",
+  "answer": "the audience knows something the characters do not",
+  "explanation": "That difference in knowledge can create tension, humour, or suspense."
+}

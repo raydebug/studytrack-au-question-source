@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "foundation",
+  "gradeLabel": "Foundation",
+  "subject": "english",
+  "subjectLabel": "English",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Which word rhymes with \"pig\": \"wig\" or \"pan\"?",
+  "answer": "wig",
+  "explanation": "\"Pig\" and \"wig\" end with the same sound, so they rhyme."
+}

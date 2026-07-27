@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-4",
+  "gradeLabel": "Year 4",
+  "subject": "technologies",
+  "subjectLabel": "Technologies",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "In an algorithm, what do we call a step where different choices lead to different next actions?",
+  "answer": "a point where the next step depends on a choice or condition",
+  "explanation": "Branching lets an algorithm follow different paths depending on what happens."
+}

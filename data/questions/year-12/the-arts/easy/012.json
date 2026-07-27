@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-12",
+  "gradeLabel": "Year 12",
+  "subject": "the-arts",
+  "subjectLabel": "The Arts",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "In theatre or film analysis, what does the term mise-en-scene mean?",
+  "answer": "everything arranged within the frame or stage picture",
+  "explanation": "Mise-en-scene includes setting, costume, lighting, and performer placement."
+}

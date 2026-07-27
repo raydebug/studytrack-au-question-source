@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-8",
+  "gradeLabel": "Year 8",
+  "subject": "health-pe",
+  "subjectLabel": "Health and Physical Education",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why might a team use a defensive zone instead of marking one player each?",
+  "answer": "to protect important space and respond as a unit",
+  "explanation": "Zone defence can help cover dangerous areas and limit gaps."
+}

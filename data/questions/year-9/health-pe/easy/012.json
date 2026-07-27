@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-9",
+  "gradeLabel": "Year 9",
+  "subject": "health-pe",
+  "subjectLabel": "Health and Physical Education",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "Name one body-related benefit of doing resistance training regularly.",
+  "answer": "it can increase muscle strength",
+  "explanation": "Resistance training challenges muscles so they adapt and become stronger."
+}

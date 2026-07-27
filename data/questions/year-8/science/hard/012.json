@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-8",
+  "gradeLabel": "Year 8",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why does current stay the same at all points in a simple series circuit?",
+  "answer": "because there is only one path for charge to flow",
+  "explanation": "In a series circuit, all charge passes through each component in the same loop."
+}

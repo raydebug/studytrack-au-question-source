@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-10",
+  "gradeLabel": "Year 10",
+  "subject": "the-arts",
+  "subjectLabel": "The Arts",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why does the empty space around a subject matter in visual composition?",
+  "answer": "it shapes attention by surrounding and defining the main forms",
+  "explanation": "Empty areas are part of composition and can balance or emphasise the subject."
+}

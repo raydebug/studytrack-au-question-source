@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-7",
+  "gradeLabel": "Year 7",
+  "subject": "health-pe",
+  "subjectLabel": "Health and Physical Education",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why can a recovery session be important after a hard training day?",
+  "answer": "it helps the body repair and prepare for the next effort",
+  "explanation": "Recovery supports adaptation and lowers the risk of overtraining."
+}

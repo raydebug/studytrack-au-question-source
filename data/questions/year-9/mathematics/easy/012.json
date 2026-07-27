@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-9",
+  "gradeLabel": "Year 9",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "Expand (x + 4)(x + 2).",
+  "answer": "x^2 + 6x + 8",
+  "explanation": "Multiply each term: x times x, x times 2, 4 times x, and 4 times 2."
+}

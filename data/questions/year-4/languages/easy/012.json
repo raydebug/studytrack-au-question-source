@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-4",
+  "gradeLabel": "Year 4",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "Which everyday greeting would you usually say early in the day?",
+  "answer": "\"good morning\"",
+  "explanation": "\"Good morning\" is a common greeting used earlier in the day."
+}

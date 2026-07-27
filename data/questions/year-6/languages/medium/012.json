@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-6",
+  "gradeLabel": "Year 6",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why can noticing verb endings help when you read another language?",
+  "answer": "because the endings can show tense or who is doing the action",
+  "explanation": "Verb forms often carry grammar information that supports understanding."
+}

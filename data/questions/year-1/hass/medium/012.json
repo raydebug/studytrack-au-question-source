@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-1",
+  "gradeLabel": "Year 1",
+  "subject": "hass",
+  "subjectLabel": "Humanities and Social Sciences",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Who often helps the class make fair classroom rules?",
+  "answer": "the teacher and students together",
+  "explanation": "Classroom rules work best when everyone understands and helps agree on them."
+}

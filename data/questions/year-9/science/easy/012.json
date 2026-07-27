@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-9",
+  "gradeLabel": "Year 9",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What is the name of the process when dry ice changes straight from solid to gas?",
+  "answer": "sublimation",
+  "explanation": "Sublimation happens when a substance skips the liquid state."
+}

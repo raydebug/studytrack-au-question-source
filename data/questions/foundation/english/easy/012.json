@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "foundation",
+  "gradeLabel": "Foundation",
+  "subject": "english",
+  "subjectLabel": "English",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What letter does the word \"map\" start with?",
+  "answer": "m",
+  "explanation": "The first sound in \"map\" is /m/, so the word starts with the letter m."
+}

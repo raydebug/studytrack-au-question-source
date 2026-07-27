@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-9",
+  "gradeLabel": "Year 9",
+  "subject": "health-pe",
+  "subjectLabel": "Health and Physical Education",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "How can interval training suit the demands of sports that involve repeated sprinting?",
+  "answer": "to improve repeated bursts of speed and recovery",
+  "explanation": "Field sports often involve short intense efforts followed by brief recovery."
+}

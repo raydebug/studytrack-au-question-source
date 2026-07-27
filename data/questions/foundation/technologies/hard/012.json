@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "foundation",
+  "gradeLabel": "Foundation",
+  "subject": "technologies",
+  "subjectLabel": "Technologies",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why do designers draw a picture before making a toy?",
+  "answer": "to plan their idea",
+  "explanation": "A plan helps the designer think about how the toy should look and work."
+}

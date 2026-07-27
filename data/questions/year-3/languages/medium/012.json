@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-3",
+  "gradeLabel": "Year 3",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "How can spotting patterns at the ends of words help you learn another language?",
+  "answer": "because patterns can show meaning or grammar",
+  "explanation": "Endings often signal tense, number, or part of speech."
+}

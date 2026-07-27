@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-7",
+  "gradeLabel": "Year 7",
+  "subject": "the-arts",
+  "subjectLabel": "The Arts",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why do performers in an ensemble need to listen carefully to one another?",
+  "answer": "to stay together in timing and balance",
+  "explanation": "Ensemble work depends on coordination across the group."
+}

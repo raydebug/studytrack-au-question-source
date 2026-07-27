@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-8",
+  "gradeLabel": "Year 8",
+  "subject": "hass",
+  "subjectLabel": "Humanities and Social Sciences",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "What is one reason governments build public transport systems?",
+  "answer": "to help people move efficiently around cities",
+  "explanation": "Public transport can reduce congestion and improve access to work and services."
+}

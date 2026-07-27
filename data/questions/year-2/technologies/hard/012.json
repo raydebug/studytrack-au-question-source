@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-2",
+  "gradeLabel": "Year 2",
+  "subject": "technologies",
+  "subjectLabel": "Technologies",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "If your sequence of steps does not work the first time, what should you do?",
+  "answer": "change and test the steps again",
+  "explanation": "Improving the steps after testing is part of problem-solving."
+}

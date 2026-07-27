@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-8",
+  "gradeLabel": "Year 8",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "A cylinder has radius 4 cm and height 9 cm. What is its volume in terms of pi?",
+  "answer": "144pi cubic centimetres",
+  "explanation": "Volume of a cylinder is pi x r^2 x h, so pi x 4^2 x 9 = 144pi."
+}

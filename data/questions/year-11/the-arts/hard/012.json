@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-11",
+  "gradeLabel": "Year 11",
+  "subject": "the-arts",
+  "subjectLabel": "The Arts",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why can references to other texts make a media artwork richer for audiences?",
+  "answer": "they add extra meaning by connecting to other texts the audience may know",
+  "explanation": "Intertextuality rewards viewers who recognise the reference and its implications."
+}

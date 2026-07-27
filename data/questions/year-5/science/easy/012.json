@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-5",
+  "gradeLabel": "Year 5",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "Which state of matter keeps its own shape: solid, liquid, or gas?",
+  "answer": "solid",
+  "explanation": "A solid keeps a fixed shape unless a force changes it."
+}

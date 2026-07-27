@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-2",
+  "gradeLabel": "Year 2",
+  "subject": "the-arts",
+  "subjectLabel": "The Arts",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "What is the music word for a pattern made from short and long sounds?",
+  "answer": "rhythm",
+  "explanation": "Rhythm is the pattern of sound lengths and beats in music."
+}

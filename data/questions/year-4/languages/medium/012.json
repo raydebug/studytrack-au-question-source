@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-4",
+  "gradeLabel": "Year 4",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why do readers need to know the direction a language is written across the page?",
+  "answer": "so you can follow the text correctly",
+  "explanation": "Reading direction changes how you track words and meaning on a page."
+}

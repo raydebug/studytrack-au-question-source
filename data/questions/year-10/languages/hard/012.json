@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-10",
+  "gradeLabel": "Year 10",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why do idiomatic expressions often resist word-for-word translation?",
+  "answer": "their meaning is not fully literal",
+  "explanation": "Idioms often need an equivalent expression rather than word-for-word translation."
+}

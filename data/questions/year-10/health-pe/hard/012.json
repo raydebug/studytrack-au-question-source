@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-10",
+  "gradeLabel": "Year 10",
+  "subject": "health-pe",
+  "subjectLabel": "Health and Physical Education",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why must training place increasing demands on the body for fitness to improve?",
+  "answer": "because the body needs a greater challenge to adapt",
+  "explanation": "Without increased demand, the body has little reason to improve."
+}

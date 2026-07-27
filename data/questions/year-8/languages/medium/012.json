@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-8",
+  "gradeLabel": "Year 8",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "How does cultural context affect which greeting is appropriate in another language?",
+  "answer": "because the right greeting depends on the situation and relationship",
+  "explanation": "Language choices reflect social expectations as well as vocabulary."
+}

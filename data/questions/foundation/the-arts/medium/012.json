@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "foundation",
+  "gradeLabel": "Foundation",
+  "subject": "the-arts",
+  "subjectLabel": "The Arts",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "What do we call music that goes fast: loud or quick tempo?",
+  "answer": "quick tempo",
+  "explanation": "Tempo tells how fast or slow music moves."
+}

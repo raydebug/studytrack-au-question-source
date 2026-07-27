@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-8",
+  "gradeLabel": "Year 8",
+  "subject": "technologies",
+  "subjectLabel": "Technologies",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "What is abstraction in digital technologies?",
+  "answer": "focusing on the important details while leaving out unnecessary ones",
+  "explanation": "Abstraction helps people manage complex systems and problems."
+}

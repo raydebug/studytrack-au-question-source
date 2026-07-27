@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-3",
+  "gradeLabel": "Year 3",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "In language learning, what do we call a word that looks similar across two languages and has a related meaning?",
+  "answer": "a word that is similar across two languages",
+  "explanation": "Cognates often share meaning and a related form between languages."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-10",
+  "gradeLabel": "Year 10",
+  "subject": "the-arts",
+  "subjectLabel": "The Arts",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "How can dissonance change the emotional effect of a musical score?",
+  "answer": "to create tension or unease",
+  "explanation": "Dissonant sounds can make the audience feel unsettled or alert."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-5",
+  "gradeLabel": "Year 5",
+  "subject": "health-pe",
+  "subjectLabel": "Health and Physical Education",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "What is one respectful way to respond if friends pressure you to do something unsafe?",
+  "answer": "say no clearly and leave the situation",
+  "explanation": "Assertive responses help protect safety and boundaries."
+}

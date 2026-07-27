@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-9",
+  "gradeLabel": "Year 9",
+  "subject": "english",
+  "subjectLabel": "English",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "How can juxtaposing a peaceful image with a violent one affect a poem or narrative?",
+  "answer": "to highlight contrast between two ideas or images",
+  "explanation": "Juxtaposition places unlike things together so their differences stand out."
+}

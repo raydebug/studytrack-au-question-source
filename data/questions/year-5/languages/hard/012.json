@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-5",
+  "gradeLabel": "Year 5",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "What is a false friend in language learning?",
+  "answer": "a word that looks familiar but has a different meaning",
+  "explanation": "False friends can mislead learners because they seem similar across languages."
+}

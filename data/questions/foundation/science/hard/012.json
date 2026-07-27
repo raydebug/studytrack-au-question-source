@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "foundation",
+  "gradeLabel": "Foundation",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "What do plants need from the ground to help them grow?",
+  "answer": "water",
+  "explanation": "Plant roots take in water from the soil to help the plant stay alive and grow."
+}

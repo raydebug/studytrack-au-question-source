@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-9",
+  "gradeLabel": "Year 9",
+  "subject": "hass",
+  "subjectLabel": "Humanities and Social Sciences",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "How can rapid urban growth place stress on housing and transport systems?",
+  "answer": "because more people are competing for limited space and services",
+  "explanation": "Fast city growth can strain roads, public transport, and available homes."
+}

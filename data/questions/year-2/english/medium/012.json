@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-2",
+  "gradeLabel": "Year 2",
+  "subject": "english",
+  "subjectLabel": "English",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Write the contraction for \"cannot\".",
+  "answer": "can't",
+  "explanation": "The apostrophe in \"can't\" shows that letters have been left out."
+}

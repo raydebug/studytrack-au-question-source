@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-4",
+  "gradeLabel": "Year 4",
+  "subject": "hass",
+  "subjectLabel": "Humanities and Social Sciences",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Name one way a bushfire can affect people and places in a local community.",
+  "answer": "homes and services may be damaged",
+  "explanation": "Bushfires can affect buildings, transport, and community safety."
+}

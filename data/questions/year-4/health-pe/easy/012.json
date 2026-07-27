@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-4",
+  "gradeLabel": "Year 4",
+  "subject": "health-pe",
+  "subjectLabel": "Health and Physical Education",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "After running at lunch, which drink is usually the healthier choice: water or soft drink?",
+  "answer": "water",
+  "explanation": "Water helps rehydrate the body after exercise."
+}

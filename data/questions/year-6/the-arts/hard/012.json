@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-6",
+  "gradeLabel": "Year 6",
+  "subject": "the-arts",
+  "subjectLabel": "The Arts",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "How can costume choices help show a character's role in a performance?",
+  "answer": "they can suggest the character's status, time, or personality",
+  "explanation": "Costume design gives the audience visual clues about a character."
+}

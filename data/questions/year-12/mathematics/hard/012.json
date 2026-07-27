@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-12",
+  "gradeLabel": "Year 12",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Two events are independent with P(A) = 0.6 and P(B) = 0.5. What is P(A intersection B)?",
+  "answer": "0.3",
+  "explanation": "For independent events, multiply the probabilities: 0.6 x 0.5 = 0.3."
+}

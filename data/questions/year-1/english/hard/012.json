@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-1",
+  "gradeLabel": "Year 1",
+  "subject": "english",
+  "subjectLabel": "English",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Which word best completes the sentence: \"The kite is very ___.\"",
+  "answer": "high",
+  "explanation": "\"High\" makes sense because a kite can fly high in the sky."
+}

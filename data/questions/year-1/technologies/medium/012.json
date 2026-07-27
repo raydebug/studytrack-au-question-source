@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-1",
+  "gradeLabel": "Year 1",
+  "subject": "technologies",
+  "subjectLabel": "Technologies",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Before building a paper tower, what is better to do first: plan or rip the paper?",
+  "answer": "plan",
+  "explanation": "Planning first helps you choose materials and steps more carefully."
+}

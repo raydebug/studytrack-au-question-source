@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-2",
+  "gradeLabel": "Year 2",
+  "subject": "the-arts",
+  "subjectLabel": "The Arts",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why might an artist repeat a shape many times in one picture?",
+  "answer": "to create a pattern",
+  "explanation": "Repeating shapes can build pattern and visual interest in artwork."
+}

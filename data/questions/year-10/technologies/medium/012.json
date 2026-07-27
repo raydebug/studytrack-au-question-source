@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-10",
+  "gradeLabel": "Year 10",
+  "subject": "technologies",
+  "subjectLabel": "Technologies",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "How does modular design help when building or maintaining software?",
+  "answer": "it lets teams build, test, and update parts separately",
+  "explanation": "Modules reduce complexity and make systems easier to maintain."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-9",
+  "gradeLabel": "Year 9",
+  "subject": "the-arts",
+  "subjectLabel": "The Arts",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why can recurring symbols make an artwork feel more layered or meaningful?",
+  "answer": "it lets objects or images represent bigger ideas",
+  "explanation": "Symbolism adds layers of interpretation beyond the literal image."
+}

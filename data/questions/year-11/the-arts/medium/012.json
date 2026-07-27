@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-11",
+  "gradeLabel": "Year 11",
+  "subject": "the-arts",
+  "subjectLabel": "The Arts",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "What can a director achieve by breaking the fourth wall in a performance?",
+  "answer": "to address the audience directly or challenge realism",
+  "explanation": "Breaking the fourth wall changes the relationship between performers and audience."
+}

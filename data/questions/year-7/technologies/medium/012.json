@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-7",
+  "gradeLabel": "Year 7",
+  "subject": "technologies",
+  "subjectLabel": "Technologies",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why is feedback from users helpful when improving a digital product?",
+  "answer": "it shows what works and what needs to change",
+  "explanation": "User feedback helps designers refine a product for real needs."
+}

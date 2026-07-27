@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-11",
+  "gradeLabel": "Year 11",
+  "subject": "technologies",
+  "subjectLabel": "Technologies",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "How does version control help teams working on the same software project?",
+  "answer": "it tracks changes and helps coordinate collaboration",
+  "explanation": "Version control records history and reduces conflicts when teams edit code."
+}

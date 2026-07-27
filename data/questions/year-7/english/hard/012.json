@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-7",
+  "gradeLabel": "Year 7",
+  "subject": "english",
+  "subjectLabel": "English",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "How does an appeal to the reader's emotions help a persuasive text?",
+  "answer": "it makes the audience feel more connected and more likely to agree",
+  "explanation": "Emotional appeals can influence decisions by shaping how readers feel."
+}

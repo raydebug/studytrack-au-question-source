@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-3",
+  "gradeLabel": "Year 3",
+  "subject": "the-arts",
+  "subjectLabel": "The Arts",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why would a composer place a short silence between musical sounds?",
+  "answer": "to create contrast or build attention",
+  "explanation": "Silence can make the next sound feel more noticeable and expressive."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-6",
+  "gradeLabel": "Year 6",
+  "subject": "hass",
+  "subjectLabel": "Humanities and Social Sciences",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "What is one reason people migrate from one country to another?",
+  "answer": "to find safety or better opportunities",
+  "explanation": "People may migrate because of conflict, jobs, education, or family reasons."
+}

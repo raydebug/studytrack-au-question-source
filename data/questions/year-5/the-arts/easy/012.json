@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-5",
+  "gradeLabel": "Year 5",
+  "subject": "the-arts",
+  "subjectLabel": "The Arts",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What do we call the part of a picture that appears closest to the viewer?",
+  "answer": "the foreground",
+  "explanation": "The foreground is the area that seems nearest in an artwork."
+}

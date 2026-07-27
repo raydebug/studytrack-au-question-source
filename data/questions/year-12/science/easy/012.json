@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-12",
+  "gradeLabel": "Year 12",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "Write out the full name represented by the abbreviation DNA.",
+  "answer": "deoxyribonucleic acid",
+  "explanation": "DNA is the molecule that carries genetic information."
+}

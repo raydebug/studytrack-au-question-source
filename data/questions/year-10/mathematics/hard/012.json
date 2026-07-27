@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-10",
+  "gradeLabel": "Year 10",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "A car travels 225 km in 3 hours. What is its average speed?",
+  "answer": "75 km/h",
+  "explanation": "Average speed equals distance divided by time, so 225 divided by 3 is 75."
+}

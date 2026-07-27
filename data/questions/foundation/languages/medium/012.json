@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "foundation",
+  "gradeLabel": "Foundation",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why is it helpful to learn how to say \"goodbye\" in another language?",
+  "answer": "so you can end a conversation politely",
+  "explanation": "Knowing common polite words helps you communicate respectfully."
+}

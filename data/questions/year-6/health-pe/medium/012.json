@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-6",
+  "gradeLabel": "Year 6",
+  "subject": "health-pe",
+  "subjectLabel": "Health and Physical Education",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why can setting a simple goal help you improve in physical activity?",
+  "answer": "it gives you something clear to work toward",
+  "explanation": "Clear goals help focus effort and make progress easier to measure."
+}

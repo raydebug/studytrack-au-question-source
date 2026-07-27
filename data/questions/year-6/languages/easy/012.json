@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-6",
+  "gradeLabel": "Year 6",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What do we call words that show actions, such as \"run\" or \"sing\"?",
+  "answer": "verbs",
+  "explanation": "Verbs are doing or action words."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-5",
+  "gradeLabel": "Year 5",
+  "subject": "technologies",
+  "subjectLabel": "Technologies",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why is it useful to ask users questions before designing a new app?",
+  "answer": "to learn what they need",
+  "explanation": "User feedback helps designers build something more suitable and useful."
+}

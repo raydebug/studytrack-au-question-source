@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-3",
+  "gradeLabel": "Year 3",
+  "subject": "technologies",
+  "subjectLabel": "Technologies",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why is it helpful to pick materials before building a model or toy?",
+  "answer": "to pick materials that suit the job",
+  "explanation": "Different materials have different strengths, costs, and uses."
+}

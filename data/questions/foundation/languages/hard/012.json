@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "foundation",
+  "gradeLabel": "Foundation",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why do language learners listen carefully to the sounds in a new word?",
+  "answer": "to say it more accurately",
+  "explanation": "Listening to sounds helps learners copy pronunciation more closely."
+}

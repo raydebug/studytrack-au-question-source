@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-6",
+  "gradeLabel": "Year 6",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "The angles in a triangle add to 180 degrees. If two angles are 35 degrees and 65 degrees, what is the third angle?",
+  "answer": "80 degrees",
+  "explanation": "35 + 65 = 100, and 180 - 100 = 80."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-3",
+  "gradeLabel": "Year 3",
+  "subject": "english",
+  "subjectLabel": "English",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "What is the setting in this sentence: \"In the library, Noah read quietly.\"?",
+  "answer": "the library",
+  "explanation": "The setting tells where the action happens, and here it is the library."
+}

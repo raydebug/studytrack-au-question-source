@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-2",
+  "gradeLabel": "Year 2",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Which unit is better for measuring the length of a classroom: metres or millimetres?",
+  "answer": "metres",
+  "explanation": "A classroom is fairly long, so metres are a more suitable unit."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "createdAt": "2026-07-27",
+  "grade": "year-1",
+  "gradeLabel": "Year 1",
+  "subject": "the-arts",
+  "subjectLabel": "The Arts",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "How can an actor show a character is excited without speaking?",
+  "answer": "by using lively facial expressions and body movement",
+  "explanation": "Actors can communicate feelings through expression, posture, and movement."
+}
