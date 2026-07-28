@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-6",
+  "gradeLabel": "Year 6",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why is context useful when reading a new word in another language?",
+  "answer": "it gives clues about the meaning",
+  "explanation": "Surrounding words and ideas help learners infer meaning."
+}

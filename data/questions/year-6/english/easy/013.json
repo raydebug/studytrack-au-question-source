@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-6",
+  "gradeLabel": "Year 6",
+  "subject": "english",
+  "subjectLabel": "English",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What does the prefix \"re-\" mean in the word \"rewrite\"?",
+  "answer": "again",
+  "explanation": "The prefix \"re-\" means to do something again."
+}

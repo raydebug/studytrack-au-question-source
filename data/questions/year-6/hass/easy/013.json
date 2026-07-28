@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-6",
+  "gradeLabel": "Year 6",
+  "subject": "hass",
+  "subjectLabel": "Humanities and Social Sciences",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What is a referendum?",
+  "answer": "a vote by the public on a specific question",
+  "explanation": "A referendum asks voters to decide directly on an issue."
+}

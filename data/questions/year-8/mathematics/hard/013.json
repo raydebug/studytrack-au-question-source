@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-8",
+  "gradeLabel": "Year 8",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Solve 3x - 5 = 16.",
+  "answer": "x = 7",
+  "explanation": "Add 5 to get 21, then divide by 3 to get 7."
+}

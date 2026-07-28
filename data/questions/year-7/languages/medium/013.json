@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-7",
+  "gradeLabel": "Year 7",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why can verb endings matter in another language?",
+  "answer": "they can show tense or who is doing the action",
+  "explanation": "Word endings often carry grammar information."
+}

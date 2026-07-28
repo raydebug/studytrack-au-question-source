@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-4",
+  "gradeLabel": "Year 4",
+  "subject": "technologies",
+  "subjectLabel": "Technologies",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why is a flowchart useful?",
+  "answer": "it shows the steps in order",
+  "explanation": "A flowchart helps plan a process visually."
+}

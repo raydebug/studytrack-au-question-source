@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-7",
+  "gradeLabel": "Year 7",
+  "subject": "health-pe",
+  "subjectLabel": "Health and Physical Education",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "What is one component of fitness needed for long-distance running?",
+  "answer": "cardiorespiratory endurance",
+  "explanation": "Endurance helps the body work for long periods."
+}

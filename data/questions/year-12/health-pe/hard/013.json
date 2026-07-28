@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-12",
+  "gradeLabel": "Year 12",
+  "subject": "health-pe",
+  "subjectLabel": "Health and Physical Education",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why is equity a key issue in elite sport funding?",
+  "answer": "unequal funding can limit access and opportunity for some groups",
+  "explanation": "Funding decisions affect fairness, participation and development pathways."
+}

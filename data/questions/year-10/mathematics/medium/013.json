@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-10",
+  "gradeLabel": "Year 10",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "In a right triangle, if the opposite side is 6 cm and the hypotenuse is 10 cm, what is sin(theta)?",
+  "answer": "0.6",
+  "explanation": "Sine is opposite divided by hypotenuse, so 6/10 = 0.6."
+}

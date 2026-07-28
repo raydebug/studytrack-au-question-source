@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-11",
+  "gradeLabel": "Year 11",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why can increasing pressure shift equilibrium toward the side with fewer gas particles?",
+  "answer": "the system responds by reducing pressure",
+  "explanation": "Le Chatelier’s principle predicts a shift that counteracts the change."
+}

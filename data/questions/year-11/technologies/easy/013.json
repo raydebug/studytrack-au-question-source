@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-11",
+  "gradeLabel": "Year 11",
+  "subject": "technologies",
+  "subjectLabel": "Technologies",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What is an API?",
+  "answer": "a set of rules that lets software systems communicate",
+  "explanation": "APIs allow applications to request and exchange data or functions."
+}

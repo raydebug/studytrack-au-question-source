@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-10",
+  "gradeLabel": "Year 10",
+  "subject": "hass",
+  "subjectLabel": "Humanities and Social Sciences",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "What is opportunity cost?",
+  "answer": "the next best alternative you give up",
+  "explanation": "Every choice involves giving up another option."
+}

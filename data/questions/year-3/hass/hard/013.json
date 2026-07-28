@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-3",
+  "gradeLabel": "Year 3",
+  "subject": "hass",
+  "subjectLabel": "Humanities and Social Sciences",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why should communities use natural resources carefully?",
+  "answer": "resources can run out or be damaged",
+  "explanation": "Careful use helps protect resources for the future."
+}

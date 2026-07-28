@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-1",
+  "gradeLabel": "Year 1",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "What number is 10 more than 14?",
+  "answer": "24",
+  "explanation": "Adding 10 to 14 gives 24."
+}

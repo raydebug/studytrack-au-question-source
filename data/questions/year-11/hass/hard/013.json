@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-11",
+  "gradeLabel": "Year 11",
+  "subject": "hass",
+  "subjectLabel": "Humanities and Social Sciences",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why can proportional representation change the makeup of a parliament?",
+  "answer": "smaller parties may win seats more easily",
+  "explanation": "The electoral system affects how votes translate into representation."
+}

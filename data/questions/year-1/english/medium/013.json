@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-1",
+  "gradeLabel": "Year 1",
+  "subject": "english",
+  "subjectLabel": "English",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Add the missing punctuation: \"We saw a koala__\"",
+  "answer": "a full stop",
+  "explanation": "This sentence tells something, so it ends with a full stop."
+}

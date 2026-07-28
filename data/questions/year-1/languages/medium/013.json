@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-1",
+  "gradeLabel": "Year 1",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why might labels in two languages help in a classroom?",
+  "answer": "they help people connect words across languages",
+  "explanation": "Bilingual labels support vocabulary learning."
+}

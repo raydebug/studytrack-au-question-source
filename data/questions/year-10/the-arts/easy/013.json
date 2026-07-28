@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-10",
+  "gradeLabel": "Year 10",
+  "subject": "the-arts",
+  "subjectLabel": "The Arts",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What is a montage in film?",
+  "answer": "a sequence of edited shots that compresses time or ideas",
+  "explanation": "Montage can show development quickly."
+}

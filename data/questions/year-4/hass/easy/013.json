@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-4",
+  "gradeLabel": "Year 4",
+  "subject": "hass",
+  "subjectLabel": "Humanities and Social Sciences",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What is democracy?",
+  "answer": "a system where people vote for leaders",
+  "explanation": "In a democracy, citizens help choose representatives."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-8",
+  "gradeLabel": "Year 8",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "What is the gradient of a line that rises 12 units for every 4 units across?",
+  "answer": "3",
+  "explanation": "Gradient is rise divided by run, so 12/4 = 3."
+}

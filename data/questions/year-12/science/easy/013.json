@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-12",
+  "gradeLabel": "Year 12",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What is the role of a catalyst in a reaction?",
+  "answer": "to increase the reaction rate without being used up",
+  "explanation": "Catalysts lower activation energy and speed reactions."
+}

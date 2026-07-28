@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-8",
+  "gradeLabel": "Year 8",
+  "subject": "the-arts",
+  "subjectLabel": "The Arts",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What does improvisation mean in a drama lesson?",
+  "answer": "making up action or dialogue on the spot",
+  "explanation": "Improvisation happens without a fixed script."
+}

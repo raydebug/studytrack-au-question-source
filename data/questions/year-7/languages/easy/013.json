@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-7",
+  "gradeLabel": "Year 7",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What is a language family?",
+  "answer": "a group of related languages",
+  "explanation": "Languages in the same family share historical links."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "foundation",
+  "gradeLabel": "Foundation",
+  "subject": "english",
+  "subjectLabel": "English",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Which word rhymes with \"bed\": \"red\" or \"sun\"?",
+  "answer": "red",
+  "explanation": "\"Bed\" and \"red\" share the same ending sound."
+}

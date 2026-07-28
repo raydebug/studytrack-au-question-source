@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-5",
+  "gradeLabel": "Year 5",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why is it helpful to learn the function of a word in a sentence?",
+  "answer": "it helps you understand grammar",
+  "explanation": "Knowing whether a word is a noun, verb or adjective supports comprehension."
+}

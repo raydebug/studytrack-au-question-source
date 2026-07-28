@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-8",
+  "gradeLabel": "Year 8",
+  "subject": "hass",
+  "subjectLabel": "Humanities and Social Sciences",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why are countries economically interdependent?",
+  "answer": "they rely on each other for goods, services and trade",
+  "explanation": "Modern economies are connected through global exchange."
+}

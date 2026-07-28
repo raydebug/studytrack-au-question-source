@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-6",
+  "gradeLabel": "Year 6",
+  "subject": "the-arts",
+  "subjectLabel": "The Arts",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "Which pair of colours are complementary: blue and orange or blue and green?",
+  "answer": "blue and orange",
+  "explanation": "Complementary colours sit opposite each other and create strong contrast."
+}

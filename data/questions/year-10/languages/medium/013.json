@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-10",
+  "gradeLabel": "Year 10",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why does tone matter when translating dialogue?",
+  "answer": "tone affects how the speaker’s attitude is understood",
+  "explanation": "Translation should carry meaning and voice, not just literal words."
+}

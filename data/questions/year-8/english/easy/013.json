@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-8",
+  "gradeLabel": "Year 8",
+  "subject": "english",
+  "subjectLabel": "English",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What is connotation?",
+  "answer": "the feeling or idea a word suggests beyond its dictionary meaning",
+  "explanation": "Connotation shapes tone and reader response."
+}

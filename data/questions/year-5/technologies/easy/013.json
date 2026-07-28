@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-5",
+  "gradeLabel": "Year 5",
+  "subject": "technologies",
+  "subjectLabel": "Technologies",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What is a cell in a spreadsheet?",
+  "answer": "one box where data is entered",
+  "explanation": "A spreadsheet is made of rows and columns of cells."
+}

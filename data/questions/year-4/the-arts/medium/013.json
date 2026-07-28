@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-4",
+  "gradeLabel": "Year 4",
+  "subject": "the-arts",
+  "subjectLabel": "The Arts",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "What does tempo mean in music?",
+  "answer": "the speed of the music",
+  "explanation": "Tempo tells how fast or slow music is played."
+}

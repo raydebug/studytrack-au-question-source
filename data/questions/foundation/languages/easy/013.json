@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "foundation",
+  "gradeLabel": "Foundation",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What do you call a polite word you say when you leave someone?",
+  "answer": "goodbye",
+  "explanation": "\"Goodbye\" is a common farewell."
+}

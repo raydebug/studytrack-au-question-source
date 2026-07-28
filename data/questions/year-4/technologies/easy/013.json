@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-4",
+  "gradeLabel": "Year 4",
+  "subject": "technologies",
+  "subjectLabel": "Technologies",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What is data?",
+  "answer": "information",
+  "explanation": "Data is information collected or stored."
+}

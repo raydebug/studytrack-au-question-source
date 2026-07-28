@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-10",
+  "gradeLabel": "Year 10",
+  "subject": "health-pe",
+  "subjectLabel": "Health and Physical Education",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Which energy system is used most in a 100-metre sprint?",
+  "answer": "the ATP-PC system",
+  "explanation": "Very short explosive efforts rely mainly on the ATP-PC system."
+}

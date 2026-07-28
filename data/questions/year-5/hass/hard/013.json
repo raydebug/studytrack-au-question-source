@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-5",
+  "gradeLabel": "Year 5",
+  "subject": "hass",
+  "subjectLabel": "Humanities and Social Sciences",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why can trade links affect the economy of a region?",
+  "answer": "they change jobs, income and access to goods",
+  "explanation": "Economic connections influence how regions produce and exchange goods."
+}

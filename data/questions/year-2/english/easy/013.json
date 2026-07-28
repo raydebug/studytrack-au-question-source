@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-2",
+  "gradeLabel": "Year 2",
+  "subject": "english",
+  "subjectLabel": "English",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "Which word is an adjective in this sentence: \"The small crab hid.\"?",
+  "answer": "small",
+  "explanation": "\"Small\" describes the crab, so it is an adjective."
+}

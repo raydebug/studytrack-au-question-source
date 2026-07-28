@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-3",
+  "gradeLabel": "Year 3",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "What is the name of the process when water falls from clouds?",
+  "answer": "precipitation",
+  "explanation": "Rain, hail and snow are forms of precipitation."
+}

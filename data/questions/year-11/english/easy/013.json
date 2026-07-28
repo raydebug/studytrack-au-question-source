@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-11",
+  "gradeLabel": "Year 11",
+  "subject": "english",
+  "subjectLabel": "English",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What is the purpose of a thesis statement in an analytical essay?",
+  "answer": "to state the main argument clearly",
+  "explanation": "The thesis guides the direction of the essay."
+}

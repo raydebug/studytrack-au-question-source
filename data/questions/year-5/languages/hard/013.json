@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-5",
+  "gradeLabel": "Year 5",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why can idioms be hard to translate exactly?",
+  "answer": "their meaning is not always literal",
+  "explanation": "Idioms often depend on culture and context."
+}

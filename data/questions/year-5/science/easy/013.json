@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-5",
+  "gradeLabel": "Year 5",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What is one adaptation that helps a camel live in dry places?",
+  "answer": "it can store fat in its hump",
+  "explanation": "That adaptation helps the camel survive harsh desert conditions."
+}

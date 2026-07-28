@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-6",
+  "gradeLabel": "Year 6",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "What is the mean of 6, 8, 10 and 12?",
+  "answer": "9",
+  "explanation": "The total is 36 and 36 divided by 4 is 9."
+}

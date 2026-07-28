@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-3",
+  "gradeLabel": "Year 3",
+  "subject": "english",
+  "subjectLabel": "English",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "Which conjunction could join these ideas: \"I wore a coat ___ it was cold.\"?",
+  "answer": "because",
+  "explanation": "\"Because\" explains the reason for wearing the coat."
+}

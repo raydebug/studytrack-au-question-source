@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-5",
+  "gradeLabel": "Year 5",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "Name one factor of 36.",
+  "answer": "6",
+  "explanation": "A factor divides 36 exactly, and 6 does because 6 x 6 = 36."
+}

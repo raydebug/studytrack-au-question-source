@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-1",
+  "gradeLabel": "Year 1",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What is double 6?",
+  "answer": "12",
+  "explanation": "Double 6 means 6 + 6, which equals 12."
+}

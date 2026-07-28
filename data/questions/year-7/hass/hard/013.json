@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-7",
+  "gradeLabel": "Year 7",
+  "subject": "hass",
+  "subjectLabel": "Humanities and Social Sciences",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why does competition matter in a market economy?",
+  "answer": "it can improve prices, choice and quality",
+  "explanation": "Competition encourages businesses to respond to consumers."
+}

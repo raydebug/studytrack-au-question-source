@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "foundation",
+  "gradeLabel": "Foundation",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why is it useful to learn how to say \"please\" in another language?",
+  "answer": "it helps you speak politely",
+  "explanation": "Learning polite words helps respectful communication."
+}

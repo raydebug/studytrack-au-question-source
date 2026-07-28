@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-2",
+  "gradeLabel": "Year 2",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "You have a 20-cent coin and a 5-cent coin. How much money is that?",
+  "answer": "25 cents",
+  "explanation": "20 cents plus 5 cents equals 25 cents."
+}

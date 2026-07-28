@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-4",
+  "gradeLabel": "Year 4",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "91 divided by 4 equals 22 remainder what?",
+  "answer": "3",
+  "explanation": "4 x 22 = 88 and 91 - 88 = 3."
+}

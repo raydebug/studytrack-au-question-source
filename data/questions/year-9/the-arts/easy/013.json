@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-9",
+  "gradeLabel": "Year 9",
+  "subject": "the-arts",
+  "subjectLabel": "The Arts",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "Why might a filmmaker use a close-up shot?",
+  "answer": "to show detail or emotion",
+  "explanation": "Close-ups focus the audience on an important subject."
+}

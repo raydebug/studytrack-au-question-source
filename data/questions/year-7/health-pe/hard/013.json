@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-7",
+  "gradeLabel": "Year 7",
+  "subject": "health-pe",
+  "subjectLabel": "Health and Physical Education",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "What is one assertive way to respond if friends pressure you into an unsafe activity?",
+  "answer": "say no clearly and give a reason",
+  "explanation": "Assertive communication helps set safe boundaries."
+}

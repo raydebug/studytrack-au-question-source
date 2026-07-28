@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-10",
+  "gradeLabel": "Year 10",
+  "subject": "technologies",
+  "subjectLabel": "Technologies",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why is algorithmic bias a problem?",
+  "answer": "it can produce unfair outcomes for some people",
+  "explanation": "Biased data or design can lead to discriminatory results."
+}

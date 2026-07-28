@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "foundation",
+  "gradeLabel": "Foundation",
+  "subject": "the-arts",
+  "subjectLabel": "The Arts",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "What do we call sounds that go in a steady beat?",
+  "answer": "rhythm",
+  "explanation": "Rhythm is the pattern of beats in music."
+}

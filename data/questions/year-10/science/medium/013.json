@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-10",
+  "gradeLabel": "Year 10",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "What happens during mitosis?",
+  "answer": "one cell divides into two genetically identical cells",
+  "explanation": "Mitosis is used for growth and repair."
+}

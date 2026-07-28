@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-7",
+  "gradeLabel": "Year 7",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What is the job of a cell membrane?",
+  "answer": "to control what enters and leaves the cell",
+  "explanation": "The membrane acts as a boundary for the cell."
+}

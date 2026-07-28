@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-2",
+  "gradeLabel": "Year 2",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why does a puddle disappear after a sunny day?",
+  "answer": "the water evaporates into the air",
+  "explanation": "Sunlight warms the water and turns it into water vapour."
+}

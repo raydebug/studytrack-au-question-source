@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-11",
+  "gradeLabel": "Year 11",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What is an isotope?",
+  "answer": "an atom of the same element with a different number of neutrons",
+  "explanation": "Isotopes have the same number of protons but different neutron counts."
+}

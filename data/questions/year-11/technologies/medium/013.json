@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-11",
+  "gradeLabel": "Year 11",
+  "subject": "technologies",
+  "subjectLabel": "Technologies",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why is iterative prototyping useful?",
+  "answer": "you can improve the design in repeated cycles",
+  "explanation": "Iteration helps refine solutions based on testing and feedback."
+}

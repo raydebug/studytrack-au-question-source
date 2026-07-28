@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-9",
+  "gradeLabel": "Year 9",
+  "subject": "english",
+  "subjectLabel": "English",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why might a writer place peaceful and violent images side by side?",
+  "answer": "to create contrast and highlight the difference",
+  "explanation": "Juxtaposition sharpens ideas by setting them against each other."
+}

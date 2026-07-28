@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-12",
+  "gradeLabel": "Year 12",
+  "subject": "the-arts",
+  "subjectLabel": "The Arts",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What is a leitmotif?",
+  "answer": "a recurring musical idea linked to a character, place or idea",
+  "explanation": "Leitmotifs help audiences recognise repeated meaning."
+}

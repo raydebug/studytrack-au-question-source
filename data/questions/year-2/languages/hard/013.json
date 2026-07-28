@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-2",
+  "gradeLabel": "Year 2",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why can pictures help when learning a new word?",
+  "answer": "they give a clue about the meaning",
+  "explanation": "Visual clues support understanding without full translation."
+}

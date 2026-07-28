@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "foundation",
+  "gradeLabel": "Foundation",
+  "subject": "the-arts",
+  "subjectLabel": "The Arts",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "Name one colour you can mix with blue to make green.",
+  "answer": "yellow",
+  "explanation": "Blue and yellow mix to make green."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-2",
+  "gradeLabel": "Year 2",
+  "subject": "hass",
+  "subjectLabel": "Humanities and Social Sciences",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why might people choose a bus instead of many separate cars?",
+  "answer": "it can move more people with less traffic",
+  "explanation": "Public transport can reduce congestion and save fuel."
+}

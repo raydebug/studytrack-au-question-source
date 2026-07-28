@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-2",
+  "gradeLabel": "Year 2",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "Count by 5s from 5 to 25.",
+  "answer": "5, 10, 15, 20, 25",
+  "explanation": "Skip counting by 5 adds 5 each time."
+}

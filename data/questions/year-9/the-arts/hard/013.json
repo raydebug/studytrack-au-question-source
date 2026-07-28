@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-9",
+  "gradeLabel": "Year 9",
+  "subject": "the-arts",
+  "subjectLabel": "The Arts",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why can recurring symbols deepen the meaning of an artwork?",
+  "answer": "they connect ideas and add layers of interpretation",
+  "explanation": "Symbols help audiences read beyond the surface."
+}

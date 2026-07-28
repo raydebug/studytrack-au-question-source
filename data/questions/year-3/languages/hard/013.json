@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-3",
+  "gradeLabel": "Year 3",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why should you learn about gestures as well as words in another culture?",
+  "answer": "gestures can also communicate meaning",
+  "explanation": "Language learning includes cultural communication, not only vocabulary."
+}

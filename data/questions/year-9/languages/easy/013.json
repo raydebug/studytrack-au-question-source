@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-9",
+  "gradeLabel": "Year 9",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What do we call words that look similar across two languages and share meaning?",
+  "answer": "a word similar in form and meaning across languages",
+  "explanation": "Cognates can help learners recognise meaning."
+}

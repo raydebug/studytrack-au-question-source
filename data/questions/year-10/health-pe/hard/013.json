@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-10",
+  "gradeLabel": "Year 10",
+  "subject": "health-pe",
+  "subjectLabel": "Health and Physical Education",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why is fairness a concern when athlete performance data is tracked?",
+  "answer": "data can affect privacy, selection and treatment",
+  "explanation": "Performance data should be used ethically and transparently."
+}

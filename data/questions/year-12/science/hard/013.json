@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-12",
+  "gradeLabel": "Year 12",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why can scientific models be useful even when they are not perfect copies of reality?",
+  "answer": "they simplify complex systems so scientists can explain and predict behaviour",
+  "explanation": "Models are tools for understanding, not exact duplicates of nature."
+}

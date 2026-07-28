@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-11",
+  "gradeLabel": "Year 11",
+  "subject": "health-pe",
+  "subjectLabel": "Health and Physical Education",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "What is one ethical issue with athlete supplement use?",
+  "answer": "some supplements may be unsafe or give unfair advantage",
+  "explanation": "Supplement choices raise health and integrity concerns."
+}

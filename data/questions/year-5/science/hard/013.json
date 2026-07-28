@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-5",
+  "gradeLabel": "Year 5",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why is it important to keep one variable the same in a fair test?",
+  "answer": "so you know what caused the change",
+  "explanation": "Controlling variables makes results more reliable."
+}

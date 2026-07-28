@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-8",
+  "gradeLabel": "Year 8",
+  "subject": "technologies",
+  "subjectLabel": "Technologies",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why do programmers decompose a complex problem?",
+  "answer": "to break it into smaller manageable parts",
+  "explanation": "Decomposition makes planning and coding easier."
+}

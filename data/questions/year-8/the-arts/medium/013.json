@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-8",
+  "gradeLabel": "Year 8",
+  "subject": "the-arts",
+  "subjectLabel": "The Arts",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why might a stage designer choose cool blue lighting for a scene?",
+  "answer": "it can make the scene feel calm, sad or cold",
+  "explanation": "Lighting colour helps shape atmosphere."
+}

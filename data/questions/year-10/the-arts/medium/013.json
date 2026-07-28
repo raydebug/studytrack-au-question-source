@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-10",
+  "gradeLabel": "Year 10",
+  "subject": "the-arts",
+  "subjectLabel": "The Arts",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "What is stage blocking?",
+  "answer": "the planned movement and positions of actors on stage",
+  "explanation": "Blocking helps shape meaning and audience focus."
+}

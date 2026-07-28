@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-6",
+  "gradeLabel": "Year 6",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "A recipe uses rice and beans in a 3:2 ratio. If there are 6 cups of rice, how many cups of beans are needed?",
+  "answer": "4 cups",
+  "explanation": "If 3 parts is 6, then 1 part is 2 and 2 parts is 4."
+}

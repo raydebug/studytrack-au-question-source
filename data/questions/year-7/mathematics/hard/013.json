@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-7",
+  "gradeLabel": "Year 7",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "If x = 4, what is the value of 2x + 7?",
+  "answer": "15",
+  "explanation": "Substituting 4 gives 2(4) + 7 = 15."
+}

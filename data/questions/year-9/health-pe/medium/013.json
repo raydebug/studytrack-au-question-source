@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-9",
+  "gradeLabel": "Year 9",
+  "subject": "health-pe",
+  "subjectLabel": "Health and Physical Education",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why is media literacy important when judging health claims online?",
+  "answer": "not all sources are accurate or trustworthy",
+  "explanation": "Media literacy helps people evaluate evidence and reliability."
+}

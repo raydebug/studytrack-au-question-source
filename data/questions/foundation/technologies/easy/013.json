@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "foundation",
+  "gradeLabel": "Foundation",
+  "subject": "technologies",
+  "subjectLabel": "Technologies",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "Which device can take a photo: a tablet or a sandwich?",
+  "answer": "a tablet",
+  "explanation": "A tablet is a digital device that can use a camera."
+}

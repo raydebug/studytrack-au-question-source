@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-2",
+  "gradeLabel": "Year 2",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "How can a bilingual dictionary help a language learner?",
+  "answer": "to find meanings between two languages",
+  "explanation": "It helps learners compare words across languages."
+}

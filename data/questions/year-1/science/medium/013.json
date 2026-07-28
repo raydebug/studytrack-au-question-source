@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-1",
+  "gradeLabel": "Year 1",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why do we see shadows on a sunny day?",
+  "answer": "because light is blocked",
+  "explanation": "A shadow forms when an object blocks light."
+}

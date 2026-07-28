@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-12",
+  "gradeLabel": "Year 12",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What does the derivative of a function represent?",
+  "answer": "its instantaneous rate of change",
+  "explanation": "The derivative describes how fast the function is changing at a point."
+}

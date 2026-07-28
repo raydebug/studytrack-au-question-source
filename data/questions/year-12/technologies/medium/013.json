@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-12",
+  "gradeLabel": "Year 12",
+  "subject": "technologies",
+  "subjectLabel": "Technologies",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why is normalisation used in database design?",
+  "answer": "to reduce unnecessary duplication and improve consistency",
+  "explanation": "Normalisation organises data efficiently across tables."
+}

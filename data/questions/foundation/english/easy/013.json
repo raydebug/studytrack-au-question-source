@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "foundation",
+  "gradeLabel": "Foundation",
+  "subject": "english",
+  "subjectLabel": "English",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What letter does the word \"fish\" start with?",
+  "answer": "f",
+  "explanation": "The word \"fish\" begins with the /f/ sound, so it starts with f."
+}

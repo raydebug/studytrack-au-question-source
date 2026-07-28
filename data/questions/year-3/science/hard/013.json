@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-3",
+  "gradeLabel": "Year 3",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why does a bike stop faster when you squeeze the brakes?",
+  "answer": "friction slows the wheels down",
+  "explanation": "Brake pads create friction that reduces motion."
+}

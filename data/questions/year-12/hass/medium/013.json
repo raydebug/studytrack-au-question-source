@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-12",
+  "gradeLabel": "Year 12",
+  "subject": "hass",
+  "subjectLabel": "Humanities and Social Sciences",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why can economic policy involve trade-offs?",
+  "answer": "a policy may improve one outcome while making another worse",
+  "explanation": "Governments often balance goals such as growth, inflation and employment."
+}

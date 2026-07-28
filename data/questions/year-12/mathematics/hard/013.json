@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-12",
+  "gradeLabel": "Year 12",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "What is the area under the graph y = 4 from x = 0 to x = 3?",
+  "answer": "12",
+  "explanation": "The region is a rectangle with height 4 and width 3, so area = 12."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-10",
+  "gradeLabel": "Year 10",
+  "subject": "hass",
+  "subjectLabel": "Humanities and Social Sciences",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why is civil disobedience sometimes used in democracies?",
+  "answer": "to protest laws or policies seen as unjust",
+  "explanation": "Non-violent lawbreaking can draw attention to social issues."
+}

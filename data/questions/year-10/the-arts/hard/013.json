@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-10",
+  "gradeLabel": "Year 10",
+  "subject": "the-arts",
+  "subjectLabel": "The Arts",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why might an artwork include intertextual references?",
+  "answer": "to connect its meaning with other texts or artworks",
+  "explanation": "Intertextuality invites comparison and deeper interpretation."
+}

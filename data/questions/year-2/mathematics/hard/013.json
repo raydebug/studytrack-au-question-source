@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-2",
+  "gradeLabel": "Year 2",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "There are 4 bags with 3 apples in each bag. How many apples are there?",
+  "answer": "12",
+  "explanation": "Four equal groups of 3 makes 12."
+}

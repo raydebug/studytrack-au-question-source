@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-9",
+  "gradeLabel": "Year 9",
+  "subject": "english",
+  "subjectLabel": "English",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What is the denotation of the word \"hostile\"?",
+  "answer": "unfriendly or aggressive",
+  "explanation": "Denotation is the direct dictionary meaning of a word."
+}

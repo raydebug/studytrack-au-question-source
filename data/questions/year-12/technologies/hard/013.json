@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-12",
+  "gradeLabel": "Year 12",
+  "subject": "technologies",
+  "subjectLabel": "Technologies",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why do AI systems raise ethical concerns even when they are technically effective?",
+  "answer": "they can affect privacy, fairness, accountability and human decisions",
+  "explanation": "Effective technology can still create serious social risks."
+}

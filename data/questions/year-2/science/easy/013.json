@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-2",
+  "gradeLabel": "Year 2",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "Is pushing a swing an example of a push or a pull?",
+  "answer": "a push",
+  "explanation": "The force moves the swing away from you, so it is a push."
+}

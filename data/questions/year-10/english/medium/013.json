@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-10",
+  "gradeLabel": "Year 10",
+  "subject": "english",
+  "subjectLabel": "English",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "What is nominalisation?",
+  "answer": "turning a verb or adjective into a noun",
+  "explanation": "Nominalisation can make writing sound more formal and abstract."
+}

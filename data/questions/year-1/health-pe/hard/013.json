@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-1",
+  "gradeLabel": "Year 1",
+  "subject": "health-pe",
+  "subjectLabel": "Health and Physical Education",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why does your body need a warm-up before a race?",
+  "answer": "it prepares your muscles for movement",
+  "explanation": "A warm-up helps the body get ready to exercise safely."
+}

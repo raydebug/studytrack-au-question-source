@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-11",
+  "gradeLabel": "Year 11",
+  "subject": "the-arts",
+  "subjectLabel": "The Arts",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "What is a director’s concept in theatre?",
+  "answer": "the overall vision for how the production will be staged",
+  "explanation": "It shapes design, performance and interpretation choices."
+}

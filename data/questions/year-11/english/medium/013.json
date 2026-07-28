@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-11",
+  "gradeLabel": "Year 11",
+  "subject": "english",
+  "subjectLabel": "English",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "How can short syntax change the mood of a passage?",
+  "answer": "it can make the writing feel tense, sharp or urgent",
+  "explanation": "Sentence length influences pace and tone."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-8",
+  "gradeLabel": "Year 8",
+  "subject": "health-pe",
+  "subjectLabel": "Health and Physical Education",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What type of exercise mainly improves heart and lung fitness?",
+  "answer": "aerobic exercise",
+  "explanation": "Aerobic exercise challenges the cardiorespiratory system."
+}

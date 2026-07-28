@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-12",
+  "gradeLabel": "Year 12",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why is pragmatic context important when choosing words in another language?",
+  "answer": "the same idea may need different wording depending on the relationship and situation",
+  "explanation": "Pragmatics focuses on how language use changes with context."
+}

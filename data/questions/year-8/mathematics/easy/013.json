@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-8",
+  "gradeLabel": "Year 8",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What is 18 - (4 x 3)?",
+  "answer": "6",
+  "explanation": "Do the multiplication first: 4 x 3 = 12, then 18 - 12 = 6."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-3",
+  "gradeLabel": "Year 3",
+  "subject": "health-pe",
+  "subjectLabel": "Health and Physical Education",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "Name one food that could be part of a balanced lunchbox.",
+  "answer": "a sandwich",
+  "explanation": "A sandwich can be part of a balanced meal."
+}

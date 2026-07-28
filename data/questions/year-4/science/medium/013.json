@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-4",
+  "gradeLabel": "Year 4",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why does metal feel warmer after sitting in the sun?",
+  "answer": "it absorbs heat energy",
+  "explanation": "Sunlight transfers heat to the metal."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-11",
+  "gradeLabel": "Year 11",
+  "subject": "technologies",
+  "subjectLabel": "Technologies",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why might a programmer choose one data structure over another?",
+  "answer": "different structures have different trade-offs in speed and memory",
+  "explanation": "The best choice depends on how the data will be used."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-4",
+  "gradeLabel": "Year 4",
+  "subject": "english",
+  "subjectLabel": "English",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "Which pronoun could replace \"Sofia and Mia\" in a sentence?",
+  "answer": "they",
+  "explanation": "\"They\" is the pronoun used for more than one person."
+}

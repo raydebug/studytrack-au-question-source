@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-1",
+  "gradeLabel": "Year 1",
+  "subject": "health-pe",
+  "subjectLabel": "Health and Physical Education",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "Which snack is healthier: carrot sticks or a crayon?",
+  "answer": "carrot sticks",
+  "explanation": "Carrot sticks are food that helps your body grow."
+}

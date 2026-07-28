@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-3",
+  "gradeLabel": "Year 3",
+  "subject": "the-arts",
+  "subjectLabel": "The Arts",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "How can changing from soft to loud music affect a listener?",
+  "answer": "it can build excitement or contrast",
+  "explanation": "Dynamic contrast changes the mood and impact of music."
+}

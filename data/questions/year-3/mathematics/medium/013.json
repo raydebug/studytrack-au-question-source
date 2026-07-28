@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-3",
+  "gradeLabel": "Year 3",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "What fraction of these shapes is shaded if 2 out of 5 are shaded?",
+  "answer": "2/5",
+  "explanation": "The fraction names 2 shaded parts out of 5 equal parts."
+}

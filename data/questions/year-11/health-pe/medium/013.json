@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-11",
+  "gradeLabel": "Year 11",
+  "subject": "health-pe",
+  "subjectLabel": "Health and Physical Education",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why is specificity important in training?",
+  "answer": "training should match the demands of the sport or goal",
+  "explanation": "Adaptations are strongest when practice reflects performance needs."
+}

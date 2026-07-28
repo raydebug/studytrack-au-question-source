@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-2",
+  "gradeLabel": "Year 2",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What word might you say when leaving politely in another language: a greeting or a farewell?",
+  "answer": "a farewell",
+  "explanation": "A farewell is used when you leave."
+}

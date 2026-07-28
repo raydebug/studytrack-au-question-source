@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-11",
+  "gradeLabel": "Year 11",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "If f(x) = x^2 + 3x, what is f'(x)?",
+  "answer": "2x + 3",
+  "explanation": "Differentiate each term: the derivative of x^2 is 2x and the derivative of 3x is 3."
+}

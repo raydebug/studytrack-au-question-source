@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-1",
+  "gradeLabel": "Year 1",
+  "subject": "the-arts",
+  "subjectLabel": "The Arts",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why might an artist choose bright colours in a picture?",
+  "answer": "to make it feel cheerful or lively",
+  "explanation": "Bright colours can create an energetic mood."
+}

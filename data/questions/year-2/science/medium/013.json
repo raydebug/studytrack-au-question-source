@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-2",
+  "gradeLabel": "Year 2",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "What stage comes after a caterpillar in a butterfly life cycle?",
+  "answer": "a chrysalis",
+  "explanation": "The caterpillar changes into a chrysalis before becoming a butterfly."
+}

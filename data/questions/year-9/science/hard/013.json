@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-9",
+  "gradeLabel": "Year 9",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why does increasing resistance reduce current when voltage stays the same?",
+  "answer": "because current is inversely related to resistance",
+  "explanation": "According to Ohm’s law, higher resistance means lower current at constant voltage."
+}

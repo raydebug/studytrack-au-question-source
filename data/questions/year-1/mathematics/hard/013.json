@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-1",
+  "gradeLabel": "Year 1",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Sam has 15 stickers and gives away 7. How many are left?",
+  "answer": "8",
+  "explanation": "Subtracting 7 from 15 leaves 8."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-10",
+  "gradeLabel": "Year 10",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "Factorise x^2 + 13x + 36.",
+  "answer": "(x + 4)(x + 9)",
+  "explanation": "You need two numbers that add to 13 and multiply to 36."
+}

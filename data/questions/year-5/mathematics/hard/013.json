@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-5",
+  "gradeLabel": "Year 5",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Which fraction is equivalent to 3/4: 6/8 or 5/8?",
+  "answer": "6/8",
+  "explanation": "Multiplying numerator and denominator of 3/4 by 2 gives 6/8."
+}

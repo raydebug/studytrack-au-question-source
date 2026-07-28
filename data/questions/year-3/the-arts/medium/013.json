@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-3",
+  "gradeLabel": "Year 3",
+  "subject": "the-arts",
+  "subjectLabel": "The Arts",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why might a musician repeat a rhythm pattern?",
+  "answer": "to create structure and make it memorable",
+  "explanation": "Repeated patterns help shape the piece of music."
+}

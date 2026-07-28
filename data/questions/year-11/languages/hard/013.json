@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-11",
+  "gradeLabel": "Year 11",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why can some culturally loaded words remain partly untranslatable?",
+  "answer": "they carry social meanings without exact equivalents",
+  "explanation": "Language reflects cultural experience as well as dictionary meaning."
+}

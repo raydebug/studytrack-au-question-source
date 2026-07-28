@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-8",
+  "gradeLabel": "Year 8",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What is grammatical gender?",
+  "answer": "a system where nouns are grouped into categories such as masculine or feminine",
+  "explanation": "Some languages classify nouns into grammatical groups."
+}

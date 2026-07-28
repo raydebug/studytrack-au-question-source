@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "foundation",
+  "gradeLabel": "Foundation",
+  "subject": "technologies",
+  "subjectLabel": "Technologies",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "What do we call the steps for brushing your teeth in the right order?",
+  "answer": "an algorithm",
+  "explanation": "An algorithm is a set of ordered steps to follow."
+}

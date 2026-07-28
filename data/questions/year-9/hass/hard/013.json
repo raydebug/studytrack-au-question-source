@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-9",
+  "gradeLabel": "Year 9",
+  "subject": "hass",
+  "subjectLabel": "Humanities and Social Sciences",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why does a democracy benefit from an independent judiciary?",
+  "answer": "courts can apply the law without political pressure",
+  "explanation": "Judicial independence helps protect fairness and the rule of law."
+}

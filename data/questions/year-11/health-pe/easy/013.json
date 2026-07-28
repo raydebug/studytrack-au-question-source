@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-11",
+  "gradeLabel": "Year 11",
+  "subject": "health-pe",
+  "subjectLabel": "Health and Physical Education",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What is the glycaemic index?",
+  "answer": "a measure of how quickly a food raises blood glucose",
+  "explanation": "GI compares how carbohydrate foods affect blood sugar levels."
+}

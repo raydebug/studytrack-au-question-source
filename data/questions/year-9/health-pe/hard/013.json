@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-9",
+  "gradeLabel": "Year 9",
+  "subject": "health-pe",
+  "subjectLabel": "Health and Physical Education",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why is interval training useful for sports with repeated sprinting?",
+  "answer": "it trains the body for bursts of effort and recovery",
+  "explanation": "Many field sports involve short intense efforts with brief rests."
+}

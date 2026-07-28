@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-1",
+  "gradeLabel": "Year 1",
+  "subject": "english",
+  "subjectLabel": "English",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "Which word names a place: \"beach\" or \"softly\"?",
+  "answer": "beach",
+  "explanation": "\"Beach\" is the name of a place."
+}

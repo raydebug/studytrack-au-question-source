@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "foundation",
+  "gradeLabel": "Foundation",
+  "subject": "health-pe",
+  "subjectLabel": "Health and Physical Education",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "If you fall over in the playground, what should you do first?",
+  "answer": "tell an adult or teacher",
+  "explanation": "An adult can help keep you safe and check for injuries."
+}

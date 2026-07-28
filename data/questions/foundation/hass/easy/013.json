@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "foundation",
+  "gradeLabel": "Foundation",
+  "subject": "hass",
+  "subjectLabel": "Humanities and Social Sciences",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "Who helps deliver letters and parcels: a postal worker or a dentist?",
+  "answer": "a postal worker",
+  "explanation": "Postal workers deliver mail to homes and schools."
+}

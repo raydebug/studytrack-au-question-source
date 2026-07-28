@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-8",
+  "gradeLabel": "Year 8",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why might bilingual speakers switch languages in one conversation?",
+  "answer": "to suit the topic, audience or expression they want",
+  "explanation": "Code-switching can happen for social or practical reasons."
+}

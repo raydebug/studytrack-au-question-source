@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-7",
+  "gradeLabel": "Year 7",
+  "subject": "the-arts",
+  "subjectLabel": "The Arts",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "How can costume help define a character in drama?",
+  "answer": "it gives visual clues about role and personality",
+  "explanation": "Costume supports storytelling and characterisation."
+}

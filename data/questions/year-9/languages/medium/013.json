@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-9",
+  "gradeLabel": "Year 9",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why are cultural references often harder to translate than everyday nouns?",
+  "answer": "they depend on shared background knowledge",
+  "explanation": "Cultural meaning does not always transfer directly."
+}

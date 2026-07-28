@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-10",
+  "gradeLabel": "Year 10",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "What is the surface area of a cube with side length 5 cm?",
+  "answer": "150 square centimetres",
+  "explanation": "A cube has 6 faces and each face has area 25 square centimetres, so 6 x 25 = 150."
+}

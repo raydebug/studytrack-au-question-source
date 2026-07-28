@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-9",
+  "gradeLabel": "Year 9",
+  "subject": "hass",
+  "subjectLabel": "Humanities and Social Sciences",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "How can rapid urban growth place stress on transport systems?",
+  "answer": "more people need roads and public transport at the same time",
+  "explanation": "Infrastructure can struggle to keep up with population growth."
+}

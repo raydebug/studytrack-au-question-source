@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-10",
+  "gradeLabel": "Year 10",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why can humour or sarcasm be difficult to translate accurately?",
+  "answer": "it depends on tone, culture and context",
+  "explanation": "Literal translation may miss the intended effect."
+}

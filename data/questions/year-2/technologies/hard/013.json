@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-2",
+  "gradeLabel": "Year 2",
+  "subject": "technologies",
+  "subjectLabel": "Technologies",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "What does debugging mean in coding?",
+  "answer": "finding and fixing mistakes",
+  "explanation": "Debugging is the process of correcting problems in a program."
+}

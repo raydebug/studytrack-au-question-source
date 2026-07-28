@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-3",
+  "gradeLabel": "Year 3",
+  "subject": "technologies",
+  "subjectLabel": "Technologies",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why should a design have clear success criteria?",
+  "answer": "so you can judge if it works well",
+  "explanation": "Criteria help evaluate how well a design meets its purpose."
+}

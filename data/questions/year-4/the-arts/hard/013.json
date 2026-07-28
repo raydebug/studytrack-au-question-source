@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-4",
+  "gradeLabel": "Year 4",
+  "subject": "the-arts",
+  "subjectLabel": "The Arts",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why might a choreographer repeat a movement motif?",
+  "answer": "to develop an idea and make it recognisable",
+  "explanation": "Repeating a motif gives unity to the dance."
+}

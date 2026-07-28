@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-1",
+  "gradeLabel": "Year 1",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why is learning greetings from another language respectful?",
+  "answer": "it shows interest in other people and cultures",
+  "explanation": "Using greetings can help make communication friendly and respectful."
+}

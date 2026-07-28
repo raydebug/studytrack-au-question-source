@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-7",
+  "gradeLabel": "Year 7",
+  "subject": "english",
+  "subjectLabel": "English",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "How can a writer create cohesion between paragraphs?",
+  "answer": "by linking ideas with repeated keywords or connectives",
+  "explanation": "Cohesion helps the text flow logically."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-3",
+  "gradeLabel": "Year 3",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "A rope is 84 cm long and 29 cm is cut off. How much is left?",
+  "answer": "55 cm",
+  "explanation": "Subtracting 29 from 84 leaves 55 cm."
+}

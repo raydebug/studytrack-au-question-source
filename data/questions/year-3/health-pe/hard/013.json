@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-3",
+  "gradeLabel": "Year 3",
+  "subject": "health-pe",
+  "subjectLabel": "Health and Physical Education",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why does your heart beat faster during exercise?",
+  "answer": "it pumps more blood to working muscles",
+  "explanation": "Exercise increases the body’s need for oxygen and energy."
+}

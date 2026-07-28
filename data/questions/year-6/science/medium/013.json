@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-6",
+  "gradeLabel": "Year 6",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "What is the difference between rotation and revolution?",
+  "answer": "rotation is spinning on an axis and revolution is orbiting another object",
+  "explanation": "Earth rotates daily and revolves around the Sun yearly."
+}

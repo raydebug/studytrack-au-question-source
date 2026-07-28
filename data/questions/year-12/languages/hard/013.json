@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-12",
+  "gradeLabel": "Year 12",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why can literary translation lose cultural nuance even when the plot stays accurate?",
+  "answer": "some meanings depend on references, values and style that do not transfer directly",
+  "explanation": "Literary translation must balance accuracy, tone and cultural depth."
+}

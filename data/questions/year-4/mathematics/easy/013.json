@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-4",
+  "gradeLabel": "Year 4",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What is the area of a rectangle that is 7 cm long and 3 cm wide?",
+  "answer": "21 square centimetres",
+  "explanation": "Area is length times width, so 7 x 3 = 21."
+}

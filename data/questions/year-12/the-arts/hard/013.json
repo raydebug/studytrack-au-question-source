@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-12",
+  "gradeLabel": "Year 12",
+  "subject": "the-arts",
+  "subjectLabel": "The Arts",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why might critics discuss auteur theory when analysing a film director?",
+  "answer": "it treats the director as a major creative force shaping the film’s style and meaning",
+  "explanation": "Auteur theory looks for a distinctive personal vision across works."
+}

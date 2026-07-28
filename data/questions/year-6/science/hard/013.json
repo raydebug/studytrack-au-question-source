@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-6",
+  "gradeLabel": "Year 6",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why can a mixture of sand and water be separated with filtration?",
+  "answer": "the solid sand is trapped by the filter",
+  "explanation": "Filtration separates an insoluble solid from a liquid."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-2",
+  "gradeLabel": "Year 2",
+  "subject": "english",
+  "subjectLabel": "English",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Choose a word to complete the sentence: \"We ___ to school yesterday.\"",
+  "answer": "walked",
+  "explanation": "\"Walked\" matches the past-time clue \"yesterday\"."
+}

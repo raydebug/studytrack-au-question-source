@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-8",
+  "gradeLabel": "Year 8",
+  "subject": "health-pe",
+  "subjectLabel": "Health and Physical Education",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "What is one strategy for resisting negative peer pressure?",
+  "answer": "plan and practise what to say beforehand",
+  "explanation": "Preparation makes it easier to respond confidently."
+}

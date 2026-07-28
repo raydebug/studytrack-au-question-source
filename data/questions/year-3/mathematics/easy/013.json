@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-3",
+  "gradeLabel": "Year 3",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What is the perimeter of a rectangle with sides 6 cm and 4 cm?",
+  "answer": "20 cm",
+  "explanation": "Perimeter is 6 + 4 + 6 + 4, which equals 20 cm."
+}

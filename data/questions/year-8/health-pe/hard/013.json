@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-8",
+  "gradeLabel": "Year 8",
+  "subject": "health-pe",
+  "subjectLabel": "Health and Physical Education",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why is the overload principle important in training?",
+  "answer": "the body must be challenged beyond its usual level to improve",
+  "explanation": "Progress occurs when training demand is increased appropriately."
+}

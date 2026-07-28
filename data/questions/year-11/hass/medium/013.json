@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "createdAt": "2026-07-28",
+  "grade": "year-11",
+  "gradeLabel": "Year 11",
+  "subject": "hass",
+  "subjectLabel": "Humanities and Social Sciences",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "What is comparative advantage?",
+  "answer": "being able to produce something at a lower opportunity cost",
+  "explanation": "Comparative advantage explains why trade can benefit both sides."
+}
