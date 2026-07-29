@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-1",
+  "gradeLabel": "Year 1",
+  "subject": "technologies",
+  "subjectLabel": "Technologies",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "How can a simple sequence of instructions help a robot move?",
+  "answer": "the robot follows each step in order",
+  "explanation": "A good technology decision is made because the robot follows each step in order."
+}

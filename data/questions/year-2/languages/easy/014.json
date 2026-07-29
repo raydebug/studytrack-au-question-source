@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-2",
+  "gradeLabel": "Year 2",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What does \"ni hao\" usually mean in Mandarin?",
+  "answer": "hello",
+  "explanation": "It is a common greeting meaning \"hello\"."
+}

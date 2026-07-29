@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-4",
+  "gradeLabel": "Year 4",
+  "subject": "technologies",
+  "subjectLabel": "Technologies",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why is data collected in tables before it is analysed?",
+  "answer": "tables make information organised and easier to compare",
+  "explanation": "The process works better because tables make information organised and easier to compare."
+}

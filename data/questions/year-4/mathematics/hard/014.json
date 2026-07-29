@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-4",
+  "gradeLabel": "Year 4",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "A shop sells 6 packs of pencils with 12 pencils in each pack. How many pencils are sold?",
+  "answer": "72",
+  "explanation": "Multiply 6 by 12 to get 72 pencils."
+}

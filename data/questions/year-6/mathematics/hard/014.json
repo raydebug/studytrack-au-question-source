@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-6",
+  "gradeLabel": "Year 6",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "A train travels 240 km in 3 hours at a steady speed. What is its speed?",
+  "answer": "80 km/h",
+  "explanation": "Speed = distance ÷ time = 240 ÷ 3 = 80 km/h."
+}

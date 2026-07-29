@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-9",
+  "gradeLabel": "Year 9",
+  "subject": "technologies",
+  "subjectLabel": "Technologies",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "How does normalisation help a relational database?",
+  "answer": "it reduces duplication and improves data integrity",
+  "explanation": "This matters because it reduces duplication and improves data integrity."
+}

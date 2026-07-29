@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-10",
+  "gradeLabel": "Year 10",
+  "subject": "hass",
+  "subjectLabel": "Humanities and Social Sciences",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why is corroboration important when studying historical accounts?",
+  "answer": "it checks whether claims are supported by multiple sources",
+  "explanation": "The key reason is it checks whether claims are supported by multiple sources."
+}

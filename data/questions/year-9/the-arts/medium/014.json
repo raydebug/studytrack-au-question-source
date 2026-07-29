@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-9",
+  "gradeLabel": "Year 9",
+  "subject": "the-arts",
+  "subjectLabel": "The Arts",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why do composers repeat and vary a theme?",
+  "answer": "to create unity while keeping the music interesting",
+  "explanation": "The creative choice matters because to create unity while keeping the music interesting."
+}

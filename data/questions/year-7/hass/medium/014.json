@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-7",
+  "gradeLabel": "Year 7",
+  "subject": "hass",
+  "subjectLabel": "Humanities and Social Sciences",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why is separation of powers important in government?",
+  "answer": "it prevents too much power being held by one group",
+  "explanation": "The key reason is it prevents too much power being held by one group."
+}

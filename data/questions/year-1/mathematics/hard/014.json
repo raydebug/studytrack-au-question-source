@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-1",
+  "gradeLabel": "Year 1",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "There are 3 baskets with 4 oranges in each basket. How many oranges are there altogether?",
+  "answer": "12",
+  "explanation": "3 groups of 4 is 3 x 4 = 12."
+}

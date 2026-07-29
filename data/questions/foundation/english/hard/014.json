@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "foundation",
+  "gradeLabel": "Foundation",
+  "subject": "english",
+  "subjectLabel": "English",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Rewrite this sentence correctly: \"i like frogs\"",
+  "answer": "I like frogs.",
+  "explanation": "The sentence needs the correct full stop use so it starts and ends properly."
+}

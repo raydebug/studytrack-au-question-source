@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-10",
+  "gradeLabel": "Year 10",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Solve x^2 = 49 for positive x.",
+  "answer": "7",
+  "explanation": "The positive number whose square is 49 is 7."
+}

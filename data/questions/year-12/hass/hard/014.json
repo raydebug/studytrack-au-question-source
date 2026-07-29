@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-12",
+  "gradeLabel": "Year 12",
+  "subject": "hass",
+  "subjectLabel": "Humanities and Social Sciences",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why is historiography important when evaluating interpretations of the past?",
+  "answer": "it examines how and why historical interpretations are constructed",
+  "explanation": "A higher-level HASS response recognises that it examines how and why historical interpretations are constructed."
+}

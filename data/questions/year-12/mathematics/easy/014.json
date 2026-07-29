@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-12",
+  "gradeLabel": "Year 12",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "If f(x) = 2x + 1, what is f(4)?",
+  "answer": "9",
+  "explanation": "Substitute x = 4 into 2x + 1."
+}

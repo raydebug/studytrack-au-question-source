@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-3",
+  "gradeLabel": "Year 3",
+  "subject": "technologies",
+  "subjectLabel": "Technologies",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why is user feedback important when improving a design?",
+  "answer": "it shows what users need and what problems remain",
+  "explanation": "A strong answer explains that it shows what users need and what problems remain."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-6",
+  "gradeLabel": "Year 6",
+  "subject": "hass",
+  "subjectLabel": "Humanities and Social Sciences",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why do businesses and consumers depend on each other?",
+  "answer": "businesses sell goods and consumers buy them",
+  "explanation": "The relationship exists because businesses sell goods and consumers buy them."
+}

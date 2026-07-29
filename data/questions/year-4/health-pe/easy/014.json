@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-4",
+  "gradeLabel": "Year 4",
+  "subject": "health-pe",
+  "subjectLabel": "Health and Physical Education",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "Why does the body need healthy food?",
+  "answer": "for energy, growth and repair",
+  "explanation": "This is a suitable health or movement example."
+}

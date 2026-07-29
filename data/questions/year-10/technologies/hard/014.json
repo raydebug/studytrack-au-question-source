@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-10",
+  "gradeLabel": "Year 10",
+  "subject": "technologies",
+  "subjectLabel": "Technologies",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why should automated systems still be tested with edge cases?",
+  "answer": "unexpected inputs can reveal hidden faults",
+  "explanation": "This matters because unexpected inputs can reveal hidden faults."
+}

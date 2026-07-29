@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-4",
+  "gradeLabel": "Year 4",
+  "subject": "english",
+  "subjectLabel": "English",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What does the word \"enormous\" mean in this sentence: \"Mia enormous to her friend in class.\"?",
+  "answer": "very large",
+  "explanation": "\"enormous\" shows a specific action or description. Here it means very large."
+}

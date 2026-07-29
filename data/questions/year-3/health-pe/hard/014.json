@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-3",
+  "gradeLabel": "Year 3",
+  "subject": "health-pe",
+  "subjectLabel": "Health and Physical Education",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why is resilience helpful when learning a new physical skill?",
+  "answer": "it helps you keep trying after mistakes",
+  "explanation": "A strong answer explains that it helps you keep trying after mistakes."
+}

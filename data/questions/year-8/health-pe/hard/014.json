@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-8",
+  "gradeLabel": "Year 8",
+  "subject": "health-pe",
+  "subjectLabel": "Health and Physical Education",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why is progressive overload used in fitness training?",
+  "answer": "it gradually increases challenge so the body improves",
+  "explanation": "This strategy matters because it gradually increases challenge so the body improves."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-12",
+  "gradeLabel": "Year 12",
+  "subject": "the-arts",
+  "subjectLabel": "The Arts",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why might a filmmaker use a non-linear narrative structure?",
+  "answer": "to reveal information gradually or create thematic complexity",
+  "explanation": "The choice is effective because to reveal information gradually or create thematic complexity."
+}

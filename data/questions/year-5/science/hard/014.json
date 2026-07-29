@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-5",
+  "gradeLabel": "Year 5",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "How does the Earth's rotation cause day and night?",
+  "answer": "different parts of Earth face toward or away from the Sun",
+  "explanation": "A strong science answer focuses on the main cause: different parts of Earth face toward or away from the Sun."
+}

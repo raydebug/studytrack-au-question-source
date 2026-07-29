@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-4",
+  "gradeLabel": "Year 4",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "When learning a new word, what is its meaning in English called?",
+  "answer": "its translation",
+  "explanation": "This is a suitable languages answer."
+}

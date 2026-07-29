@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-3",
+  "gradeLabel": "Year 3",
+  "subject": "the-arts",
+  "subjectLabel": "The Arts",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why do artists use warm and cool colours differently?",
+  "answer": "they create different moods and focus",
+  "explanation": "The effect happens because they create different moods and focus."
+}

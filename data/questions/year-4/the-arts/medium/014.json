@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-4",
+  "gradeLabel": "Year 4",
+  "subject": "the-arts",
+  "subjectLabel": "The Arts",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "How can changing tempo affect a piece of music?",
+  "answer": "it changes the energy and feeling",
+  "explanation": "The effect happens because it changes the energy and feeling."
+}

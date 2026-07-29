@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-8",
+  "gradeLabel": "Year 8",
+  "subject": "english",
+  "subjectLabel": "English",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why does acknowledging a counterargument often strengthen an essay?",
+  "answer": "it shows the writer has considered other views before responding",
+  "explanation": "The wording suggests that it shows the writer has considered other views before responding."
+}

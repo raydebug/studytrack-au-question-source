@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-4",
+  "gradeLabel": "Year 4",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why is word order important in another language?",
+  "answer": "changing word order can change the meaning",
+  "explanation": "The language feature matters because changing word order can change the meaning."
+}

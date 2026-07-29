@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-2",
+  "gradeLabel": "Year 2",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "There are 12 apples and 5 are eaten. How many are left?",
+  "answer": "7",
+  "explanation": "Take away 5 from 12 to get 7."
+}

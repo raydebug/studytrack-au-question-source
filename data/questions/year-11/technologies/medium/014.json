@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-11",
+  "gradeLabel": "Year 11",
+  "subject": "technologies",
+  "subjectLabel": "Technologies",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why is indexing useful in a large database?",
+  "answer": "it can speed up searching for records",
+  "explanation": "The technique is used because it can speed up searching for records."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-2",
+  "gradeLabel": "Year 2",
+  "subject": "the-arts",
+  "subjectLabel": "The Arts",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why can repeating a shape make a visual pattern?",
+  "answer": "repetition creates a regular visual effect",
+  "explanation": "The choice works because repetition creates a regular visual effect."
+}

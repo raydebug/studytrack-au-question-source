@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-9",
+  "gradeLabel": "Year 9",
+  "subject": "the-arts",
+  "subjectLabel": "The Arts",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What is the purpose of a storyboard in media arts?",
+  "answer": "it plans the sequence of shots or scenes",
+  "explanation": "This is the standard meaning of the arts term."
+}

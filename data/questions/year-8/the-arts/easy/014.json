@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-8",
+  "gradeLabel": "Year 8",
+  "subject": "the-arts",
+  "subjectLabel": "The Arts",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What does stage blocking describe in drama?",
+  "answer": "where performers move and stand on stage",
+  "explanation": "This is the standard meaning of the arts term."
+}

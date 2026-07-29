@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-1",
+  "gradeLabel": "Year 1",
+  "subject": "english",
+  "subjectLabel": "English",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Complete the sentence with a verb: \"The bird ____ every day.\"",
+  "answer": "flies",
+  "explanation": "A verb is an action word. \"flies\" makes the sentence complete and meaningful."
+}

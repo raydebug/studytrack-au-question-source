@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-8",
+  "gradeLabel": "Year 8",
+  "subject": "technologies",
+  "subjectLabel": "Technologies",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why is user-centred design important when building a digital product?",
+  "answer": "products work better when they match user needs and behaviour",
+  "explanation": "This matters because products work better when they match user needs and behaviour."
+}

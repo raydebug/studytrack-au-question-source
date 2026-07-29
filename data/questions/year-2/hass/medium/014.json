@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-2",
+  "gradeLabel": "Year 2",
+  "subject": "hass",
+  "subjectLabel": "Humanities and Social Sciences",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why is it useful to learn about the past?",
+  "answer": "to understand how life has changed",
+  "explanation": "The reason is to understand how life has changed."
+}

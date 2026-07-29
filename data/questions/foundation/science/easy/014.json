@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "foundation",
+  "gradeLabel": "Foundation",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "Which body part do you use to see?",
+  "answer": "eyes",
+  "explanation": "We use our eyes for that sense."
+}

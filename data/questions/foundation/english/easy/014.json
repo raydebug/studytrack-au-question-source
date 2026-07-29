@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "foundation",
+  "gradeLabel": "Foundation",
+  "subject": "english",
+  "subjectLabel": "English",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What letter does the word \"apple\" start with?",
+  "answer": "a",
+  "explanation": "The word \"apple\" begins with the /a/ sound, so it starts with a."
+}

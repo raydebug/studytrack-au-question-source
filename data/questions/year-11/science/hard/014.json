@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-11",
+  "gradeLabel": "Year 11",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why does a larger concentration gradient usually increase diffusion rate?",
+  "answer": "particles move more rapidly from high to low concentration when the difference is greater",
+  "explanation": "This reflects the particle model: particles move more rapidly from high to low concentration when the difference is greater."
+}

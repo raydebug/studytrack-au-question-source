@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-2",
+  "gradeLabel": "Year 2",
+  "subject": "technologies",
+  "subjectLabel": "Technologies",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why is testing a design useful?",
+  "answer": "it shows what works and what needs fixing",
+  "explanation": "The reason is it shows what works and what needs fixing."
+}

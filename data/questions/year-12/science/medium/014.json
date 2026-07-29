@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-12",
+  "gradeLabel": "Year 12",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why can a catalyst speed up a reaction without being used up?",
+  "answer": "it lowers the activation energy and is regenerated",
+  "explanation": "The rate change occurs because it lowers the activation energy and is regenerated."
+}

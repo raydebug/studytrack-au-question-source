@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-9",
+  "gradeLabel": "Year 9",
+  "subject": "health-pe",
+  "subjectLabel": "Health and Physical Education",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What does CPR stand for?",
+  "answer": "cardiopulmonary resuscitation",
+  "explanation": "This is a core health or PE fact."
+}

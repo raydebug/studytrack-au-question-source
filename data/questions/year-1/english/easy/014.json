@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-1",
+  "gradeLabel": "Year 1",
+  "subject": "english",
+  "subjectLabel": "English",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What letter does the word \"bus\" start with?",
+  "answer": "b",
+  "explanation": "The word \"bus\" begins with the /b/ sound, so it starts with b."
+}

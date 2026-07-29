@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-7",
+  "gradeLabel": "Year 7",
+  "subject": "english",
+  "subjectLabel": "English",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "A writer describes a city as \"bright on the surface but hollow underneath.\" What idea is being conveyed?",
+  "answer": "the city looks successful but has deeper problems",
+  "explanation": "The wording suggests that the city looks successful but has deeper problems."
+}

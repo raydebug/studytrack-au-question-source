@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-1",
+  "gradeLabel": "Year 1",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "Which body part do you use to hear?",
+  "answer": "ears",
+  "explanation": "We use our ears for that sense."
+}

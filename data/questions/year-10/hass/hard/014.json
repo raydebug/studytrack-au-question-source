@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-10",
+  "gradeLabel": "Year 10",
+  "subject": "hass",
+  "subjectLabel": "Humanities and Social Sciences",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why should historians consider contestability when interpreting the past?",
+  "answer": "evidence can be interpreted differently and new evidence may emerge",
+  "explanation": "This matters because evidence can be interpreted differently and new evidence may emerge."
+}

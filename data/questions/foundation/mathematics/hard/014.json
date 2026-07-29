@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "foundation",
+  "gradeLabel": "Foundation",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "There are 2 baskets with 3 oranges in each basket. How many oranges are there altogether?",
+  "answer": "6",
+  "explanation": "2 groups of 3 is 2 x 3 = 6."
+}

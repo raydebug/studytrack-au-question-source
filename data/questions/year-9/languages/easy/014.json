@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-9",
+  "gradeLabel": "Year 9",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "Why do dictionaries often show gender or part of speech for a word?",
+  "answer": "to help the word be used correctly",
+  "explanation": "This is the correct languages term."
+}

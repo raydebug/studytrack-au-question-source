@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-10",
+  "gradeLabel": "Year 10",
+  "subject": "technologies",
+  "subjectLabel": "Technologies",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What is one purpose of a spreadsheet formula?",
+  "answer": "it calculates values automatically",
+  "explanation": "This is a standard Technologies concept."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "foundation",
+  "gradeLabel": "Foundation",
+  "subject": "health-pe",
+  "subjectLabel": "Health and Physical Education",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why is it important to take turns in a game?",
+  "answer": "it helps everyone play fairly",
+  "explanation": "The main reason is it helps everyone play fairly."
+}

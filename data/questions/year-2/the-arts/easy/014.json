@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-2",
+  "gradeLabel": "Year 2",
+  "subject": "the-arts",
+  "subjectLabel": "The Arts",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What shape has three sides?",
+  "answer": "triangle",
+  "explanation": "This is a basic arts element or concept."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-5",
+  "gradeLabel": "Year 5",
+  "subject": "english",
+  "subjectLabel": "English",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "What language feature is used in this sentence: \"The moon smiled over the campsite.\"?",
+  "answer": "personification",
+  "explanation": "The sentence uses personification to create a stronger image for the reader."
+}

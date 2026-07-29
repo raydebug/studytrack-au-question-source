@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "foundation",
+  "gradeLabel": "Foundation",
+  "subject": "technologies",
+  "subjectLabel": "Technologies",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What device can you use to take a photo?",
+  "answer": "a camera or tablet",
+  "explanation": "This is a common digital or design tool."
+}

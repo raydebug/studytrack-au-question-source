@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "foundation",
+  "gradeLabel": "Foundation",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Is a koala a living thing or a non-living thing?",
+  "answer": "living thing",
+  "explanation": "This matches what living things or materials need and how they change."
+}

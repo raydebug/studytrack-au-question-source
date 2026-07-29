@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-1",
+  "gradeLabel": "Year 1",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What does \"bonjour\" usually mean in French?",
+  "answer": "hello",
+  "explanation": "It is a common greeting meaning \"hello\"."
+}

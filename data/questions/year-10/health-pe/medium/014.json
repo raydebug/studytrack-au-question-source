@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-10",
+  "gradeLabel": "Year 10",
+  "subject": "health-pe",
+  "subjectLabel": "Health and Physical Education",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why do athletes monitor intensity during endurance training?",
+  "answer": "to work at the right level for the training goal",
+  "explanation": "The outcome occurs because to work at the right level for the training goal."
+}

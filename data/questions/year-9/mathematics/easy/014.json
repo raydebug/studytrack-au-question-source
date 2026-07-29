@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-9",
+  "gradeLabel": "Year 9",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What is 15% of 240?",
+  "answer": "36",
+  "explanation": "10% of 240 is 24 and 5% is 12, so total is 36."
+}

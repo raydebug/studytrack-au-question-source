@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-12",
+  "gradeLabel": "Year 12",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why can a translator choose a phrase that is not word-for-word identical to the original?",
+  "answer": "it may better preserve meaning, tone or cultural sense",
+  "explanation": "The choice is justified because it may better preserve meaning, tone or cultural sense."
+}

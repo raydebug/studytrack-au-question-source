@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "foundation",
+  "gradeLabel": "Foundation",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why is the Sun important for life on Earth?",
+  "answer": "it gives light and warmth",
+  "explanation": "The answer explains the simple cause in the natural world."
+}

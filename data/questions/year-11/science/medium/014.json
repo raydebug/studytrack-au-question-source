@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-11",
+  "gradeLabel": "Year 11",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why does increasing enzyme temperature too far reduce activity?",
+  "answer": "the enzyme can denature and change shape",
+  "explanation": "The rate change occurs because the enzyme can denature and change shape."
+}

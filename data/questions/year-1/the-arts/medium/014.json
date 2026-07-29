@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-1",
+  "gradeLabel": "Year 1",
+  "subject": "the-arts",
+  "subjectLabel": "The Arts",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why might a performer use a loud voice on stage?",
+  "answer": "so the audience can hear and understand clearly",
+  "explanation": "The choice works because so the audience can hear and understand clearly."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-12",
+  "gradeLabel": "Year 12",
+  "subject": "hass",
+  "subjectLabel": "Humanities and Social Sciences",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What is a referendum?",
+  "answer": "a public vote on a specific proposal or constitutional change",
+  "explanation": "This is the accepted civics definition."
+}

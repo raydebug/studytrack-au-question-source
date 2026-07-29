@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-10",
+  "gradeLabel": "Year 10",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What is the name of the process plants use to make food?",
+  "answer": "photosynthesis",
+  "explanation": "This is a key science fact for the topic."
+}

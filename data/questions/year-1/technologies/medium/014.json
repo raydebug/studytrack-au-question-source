@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-1",
+  "gradeLabel": "Year 1",
+  "subject": "technologies",
+  "subjectLabel": "Technologies",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why should you use a strong password or keep a password secret?",
+  "answer": "it helps keep information safe",
+  "explanation": "The reason is it helps keep information safe."
+}

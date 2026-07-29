@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-2",
+  "gradeLabel": "Year 2",
+  "subject": "health-pe",
+  "subjectLabel": "Health and Physical Education",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why should you speak to a trusted adult if something online feels unsafe?",
+  "answer": "a trusted adult can help keep you safe",
+  "explanation": "A safe choice is best because a trusted adult can help keep you safe."
+}

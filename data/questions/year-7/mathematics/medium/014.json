@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-7",
+  "gradeLabel": "Year 7",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "What is the area of a triangle with base 10 cm and height 7 cm?",
+  "answer": "35 cm^2",
+  "explanation": "Area = 1/2 x base x height = 1/2 x 10 x 7 = 35 cm^2."
+}

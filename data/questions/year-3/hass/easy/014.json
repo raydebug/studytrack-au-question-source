@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-3",
+  "gradeLabel": "Year 3",
+  "subject": "hass",
+  "subjectLabel": "Humanities and Social Sciences",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What is a continent?",
+  "answer": "a very large area of land made up of countries",
+  "explanation": "This is the direct meaning or example for the HASS term."
+}

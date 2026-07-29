@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "foundation",
+  "gradeLabel": "Foundation",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why is it helpful to use actions when learning new words in another language?",
+  "answer": "actions help connect the word to meaning",
+  "explanation": "The learning strategy helps because actions help connect the word to meaning."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-6",
+  "gradeLabel": "Year 6",
+  "subject": "technologies",
+  "subjectLabel": "Technologies",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What is one input device for a computer?",
+  "answer": "a keyboard, mouse or microphone",
+  "explanation": "This is the basic meaning used in Technologies."
+}

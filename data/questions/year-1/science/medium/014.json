@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-1",
+  "gradeLabel": "Year 1",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "What do plants need to grow: sunlight or a television?",
+  "answer": "sunlight",
+  "explanation": "This matches what living things or materials need and how they change."
+}

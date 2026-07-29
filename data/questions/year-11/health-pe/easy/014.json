@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-11",
+  "gradeLabel": "Year 11",
+  "subject": "health-pe",
+  "subjectLabel": "Health and Physical Education",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What energy system is used most in a short maximal sprint?",
+  "answer": "the ATP-PC system",
+  "explanation": "This is the expected senior PE response."
+}

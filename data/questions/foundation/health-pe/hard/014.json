@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "foundation",
+  "gradeLabel": "Foundation",
+  "subject": "health-pe",
+  "subjectLabel": "Health and Physical Education",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "What should you do if a ball rolls onto the road?",
+  "answer": "stop and ask an adult for help",
+  "explanation": "A safe choice is best because stop and ask an adult for help."
+}

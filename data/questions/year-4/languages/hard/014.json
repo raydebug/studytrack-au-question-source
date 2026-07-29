@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-4",
+  "gradeLabel": "Year 4",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why should pronunciation be practised as well as spelling?",
+  "answer": "people need to understand the spoken word as well",
+  "explanation": "A stronger response explains that people need to understand the spoken word as well."
+}

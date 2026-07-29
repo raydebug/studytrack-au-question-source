@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-5",
+  "gradeLabel": "Year 5",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Write 2/5 as a decimal.",
+  "answer": "0.4",
+  "explanation": "Divide the numerator by the denominator: 2 ÷ 5 = 0.4."
+}

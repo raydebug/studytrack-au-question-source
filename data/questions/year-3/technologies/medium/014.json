@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-3",
+  "gradeLabel": "Year 3",
+  "subject": "technologies",
+  "subjectLabel": "Technologies",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why do designers make annotated sketches?",
+  "answer": "to explain ideas and important features clearly",
+  "explanation": "The process works better because to explain ideas and important features clearly."
+}

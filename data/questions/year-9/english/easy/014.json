@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-9",
+  "gradeLabel": "Year 9",
+  "subject": "english",
+  "subjectLabel": "English",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What is the main effect of a rhetorical question in an argument?",
+  "answer": "it makes the audience stop and think",
+  "explanation": "This feature mainly works as it makes the audience stop and think."
+}

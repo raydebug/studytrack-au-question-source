@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-9",
+  "gradeLabel": "Year 9",
+  "subject": "technologies",
+  "subjectLabel": "Technologies",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What does HTML mainly do on a web page?",
+  "answer": "it structures the content",
+  "explanation": "This is a standard Technologies concept."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-9",
+  "gradeLabel": "Year 9",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why can removing a top predator affect an ecosystem?",
+  "answer": "it can disrupt the food web balance",
+  "explanation": "The change happens because it can disrupt the food web balance."
+}

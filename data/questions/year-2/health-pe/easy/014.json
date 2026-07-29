@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-2",
+  "gradeLabel": "Year 2",
+  "subject": "health-pe",
+  "subjectLabel": "Health and Physical Education",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What should you wear on your head on a sunny day outside?",
+  "answer": "a hat",
+  "explanation": "This helps keep the body healthy and safe."
+}

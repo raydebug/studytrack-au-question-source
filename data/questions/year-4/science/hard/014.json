@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-4",
+  "gradeLabel": "Year 4",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why are producers important in a food web?",
+  "answer": "they make food energy available to other organisms",
+  "explanation": "A strong science answer focuses on the main cause: they make food energy available to other organisms."
+}

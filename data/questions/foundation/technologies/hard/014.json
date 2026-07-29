@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "foundation",
+  "gradeLabel": "Foundation",
+  "subject": "technologies",
+  "subjectLabel": "Technologies",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why might a toy designer choose cardboard instead of glass?",
+  "answer": "cardboard is lighter and safer for children",
+  "explanation": "A good technology decision is made because cardboard is lighter and safer for children."
+}

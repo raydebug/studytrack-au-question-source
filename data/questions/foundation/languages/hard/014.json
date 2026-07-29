@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "foundation",
+  "gradeLabel": "Foundation",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why should we respect the culture linked to a language we learn?",
+  "answer": "language and culture belong together",
+  "explanation": "A thoughtful answer recognises that language and culture belong together."
+}

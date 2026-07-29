@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-11",
+  "gradeLabel": "Year 11",
+  "subject": "the-arts",
+  "subjectLabel": "The Arts",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What is one purpose of an artist statement?",
+  "answer": "to explain the ideas and choices behind the work",
+  "explanation": "This is the accepted senior arts term."
+}

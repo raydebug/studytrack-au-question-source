@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-3",
+  "gradeLabel": "Year 3",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What is evaporation?",
+  "answer": "liquid water changing into water vapour",
+  "explanation": "This is the basic scientific meaning of the term."
+}

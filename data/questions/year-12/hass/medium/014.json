@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-12",
+  "gradeLabel": "Year 12",
+  "subject": "hass",
+  "subjectLabel": "Humanities and Social Sciences",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why might competing historical interpretations both use evidence from the same event?",
+  "answer": "historians can weigh sources differently or ask different questions",
+  "explanation": "The impact exists because historians can weigh sources differently or ask different questions."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-11",
+  "gradeLabel": "Year 11",
+  "subject": "technologies",
+  "subjectLabel": "Technologies",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What does UI stand for in digital design?",
+  "answer": "user interface",
+  "explanation": "This is the accepted Technologies term."
+}

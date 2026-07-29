@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-10",
+  "gradeLabel": "Year 10",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "How does natural selection help a population survive changing conditions?",
+  "answer": "traits that improve survival become more common",
+  "explanation": "The change happens because traits that improve survival become more common."
+}

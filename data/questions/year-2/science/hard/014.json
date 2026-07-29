@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-2",
+  "gradeLabel": "Year 2",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why do shadows change when the Sun moves?",
+  "answer": "because the position of the light changes",
+  "explanation": "The answer explains the simple cause in the natural world."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-2",
+  "gradeLabel": "Year 2",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "There are 4 baskets with 5 oranges in each basket. How many oranges are there altogether?",
+  "answer": "20",
+  "explanation": "4 groups of 5 is 4 x 5 = 20."
+}

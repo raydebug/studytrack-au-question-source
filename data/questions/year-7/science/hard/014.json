@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-7",
+  "gradeLabel": "Year 7",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "A car speeds up from 10 m/s to 18 m/s. What has changed: velocity, mass or temperature?",
+  "answer": "velocity",
+  "explanation": "The best answer is velocity because it directly explains the phenomenon."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-6",
+  "gradeLabel": "Year 6",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What is 84 ÷ 7?",
+  "answer": "12",
+  "explanation": "84 divided by 7 equals 12."
+}

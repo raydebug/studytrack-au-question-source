@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-8",
+  "gradeLabel": "Year 8",
+  "subject": "hass",
+  "subjectLabel": "Humanities and Social Sciences",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why can inflation reduce purchasing power?",
+  "answer": "prices rise so the same money buys less",
+  "explanation": "The key reason is prices rise so the same money buys less."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-8",
+  "gradeLabel": "Year 8",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Simplify 3x + 2x - 4.",
+  "answer": "5x - 4",
+  "explanation": "Combine the like terms 3x and 2x to make 5x."
+}

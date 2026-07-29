@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-5",
+  "gradeLabel": "Year 5",
+  "subject": "english",
+  "subjectLabel": "English",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "A character keeps checking the clock before a race. What does this suggest about the character?",
+  "answer": "the character is nervous or excited",
+  "explanation": "The clue in the text helps the reader infer that the character is nervous or excited."
+}

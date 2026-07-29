@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-10",
+  "gradeLabel": "Year 10",
+  "subject": "english",
+  "subjectLabel": "English",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What does a topic sentence usually do in a paragraph?",
+  "answer": "it states the main idea of the paragraph",
+  "explanation": "This feature mainly works as it states the main idea of the paragraph."
+}

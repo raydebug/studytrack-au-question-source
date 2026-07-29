@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-6",
+  "gradeLabel": "Year 6",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why can a simple circuit stop working if a wire is loose?",
+  "answer": "the electrical path is broken",
+  "explanation": "The observation is explained by the electrical path is broken."
+}

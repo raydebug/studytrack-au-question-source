@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-8",
+  "gradeLabel": "Year 8",
+  "subject": "english",
+  "subjectLabel": "English",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "What is the effect of repeating a key phrase in a speech?",
+  "answer": "it emphasises the main idea",
+  "explanation": "The technique changes how meaning is conveyed by it emphasises the main idea."
+}

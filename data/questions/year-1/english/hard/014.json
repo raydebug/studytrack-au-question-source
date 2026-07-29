@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-1",
+  "gradeLabel": "Year 1",
+  "subject": "english",
+  "subjectLabel": "English",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Rewrite this sentence correctly: \"where is my hat\"",
+  "answer": "Where is my hat?",
+  "explanation": "The sentence needs the correct question mark use so it starts and ends properly."
+}

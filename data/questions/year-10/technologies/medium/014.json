@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-10",
+  "gradeLabel": "Year 10",
+  "subject": "technologies",
+  "subjectLabel": "Technologies",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why should databases use fields with clear data types?",
+  "answer": "it keeps stored information consistent and accurate",
+  "explanation": "The system is improved because it keeps stored information consistent and accurate."
+}

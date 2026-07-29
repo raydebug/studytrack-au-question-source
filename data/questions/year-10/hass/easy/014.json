@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-10",
+  "gradeLabel": "Year 10",
+  "subject": "hass",
+  "subjectLabel": "Humanities and Social Sciences",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What is a primary source in history?",
+  "answer": "evidence created at the time being studied",
+  "explanation": "This is the standard HASS definition."
+}

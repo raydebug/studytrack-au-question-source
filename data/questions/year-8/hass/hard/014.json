@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-8",
+  "gradeLabel": "Year 8",
+  "subject": "hass",
+  "subjectLabel": "Humanities and Social Sciences",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why might a government use taxation to fund public services?",
+  "answer": "tax revenue pays for services such as health, education and transport",
+  "explanation": "This matters because tax revenue pays for services such as health, education and transport."
+}

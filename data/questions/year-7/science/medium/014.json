@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-7",
+  "gradeLabel": "Year 7",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why does increasing the surface area of a solid usually increase reaction rate?",
+  "answer": "more particles are exposed for collisions",
+  "explanation": "The change happens because more particles are exposed for collisions."
+}

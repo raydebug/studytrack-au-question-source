@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-5",
+  "gradeLabel": "Year 5",
+  "subject": "technologies",
+  "subjectLabel": "Technologies",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What does it mean to evaluate a product?",
+  "answer": "to judge how well it works",
+  "explanation": "This is the basic meaning used in Technologies."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "foundation",
+  "gradeLabel": "Foundation",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What does \"hola\" usually mean in Spanish?",
+  "answer": "hello",
+  "explanation": "It is a common greeting meaning \"hello\"."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-11",
+  "gradeLabel": "Year 11",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "Differentiate y = 3x^2.",
+  "answer": "6x",
+  "explanation": "Use the power rule: d/dx of 3x^2 is 6x."
+}

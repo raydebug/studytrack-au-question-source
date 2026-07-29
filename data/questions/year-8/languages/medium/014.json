@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-8",
+  "gradeLabel": "Year 8",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why is cultural context important when interpreting a text in another language?",
+  "answer": "meaning depends on customs, values and shared references",
+  "explanation": "The issue arises because meaning depends on customs, values and shared references."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-2",
+  "gradeLabel": "Year 2",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Does ice melt faster in a warm place or a cold place?",
+  "answer": "a warm place",
+  "explanation": "This matches what living things or materials need and how they change."
+}

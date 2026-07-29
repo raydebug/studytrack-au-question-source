@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-3",
+  "gradeLabel": "Year 3",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "How could you make a fair test when comparing how quickly two ice cubes melt?",
+  "answer": "keep all conditions the same except one variable",
+  "explanation": "A strong science answer focuses on the main cause: keep all conditions the same except one variable."
+}

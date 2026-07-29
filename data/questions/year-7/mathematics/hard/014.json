@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-7",
+  "gradeLabel": "Year 7",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "A right triangle has legs 6 cm and 8 cm. What is the hypotenuse?",
+  "answer": "10 cm",
+  "explanation": "Use Pythagoras' theorem: sqrt(6^2 + 8^2) = sqrt(36 + 64) = sqrt(100) = 10 cm."
+}

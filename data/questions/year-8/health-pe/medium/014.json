@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-8",
+  "gradeLabel": "Year 8",
+  "subject": "health-pe",
+  "subjectLabel": "Health and Physical Education",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why is recovery important in a training program?",
+  "answer": "the body needs time to repair and adapt",
+  "explanation": "The outcome occurs because the body needs time to repair and adapt."
+}

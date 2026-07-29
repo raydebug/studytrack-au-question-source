@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-6",
+  "gradeLabel": "Year 6",
+  "subject": "technologies",
+  "subjectLabel": "Technologies",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why do digital systems use both hardware and software?",
+  "answer": "hardware does the physical work and software gives instructions",
+  "explanation": "The process works better because hardware does the physical work and software gives instructions."
+}

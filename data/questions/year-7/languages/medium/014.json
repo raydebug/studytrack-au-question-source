@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-7",
+  "gradeLabel": "Year 7",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why can literal translation sometimes cause misunderstanding?",
+  "answer": "the exact words may not carry the intended meaning",
+  "explanation": "The issue arises because the exact words may not carry the intended meaning."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-6",
+  "gradeLabel": "Year 6",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why can some changes in materials be hard to reverse?",
+  "answer": "a new substance may form or the original structure may change",
+  "explanation": "A strong science answer focuses on the main cause: a new substance may form or the original structure may change."
+}

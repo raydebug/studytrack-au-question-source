@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-11",
+  "gradeLabel": "Year 11",
+  "subject": "english",
+  "subjectLabel": "English",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What is the purpose of a thesis statement in an analytical essay? for Year 11.",
+  "answer": "to present the central argument",
+  "explanation": "The feature works primarily to present the central argument."
+}

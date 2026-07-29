@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-12",
+  "gradeLabel": "Year 12",
+  "subject": "the-arts",
+  "subjectLabel": "The Arts",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What does diegetic sound mean in film?",
+  "answer": "sound that exists within the world of the film",
+  "explanation": "This is the accepted senior arts term."
+}

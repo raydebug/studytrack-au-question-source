@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-6",
+  "gradeLabel": "Year 6",
+  "subject": "technologies",
+  "subjectLabel": "Technologies",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why should sustainability be considered when choosing materials for a product?",
+  "answer": "materials affect waste, cost and environmental impact",
+  "explanation": "A strong answer explains that materials affect waste, cost and environmental impact."
+}

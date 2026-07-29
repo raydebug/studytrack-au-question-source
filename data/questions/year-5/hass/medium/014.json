@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-5",
+  "gradeLabel": "Year 5",
+  "subject": "hass",
+  "subjectLabel": "Humanities and Social Sciences",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why might people migrate from one country to another?",
+  "answer": "for safety, work, family or opportunity",
+  "explanation": "The relationship exists because for safety, work, family or opportunity."
+}

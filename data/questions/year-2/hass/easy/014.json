@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-2",
+  "gradeLabel": "Year 2",
+  "subject": "hass",
+  "subjectLabel": "Humanities and Social Sciences",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What do we call the country we live in?",
+  "answer": "Australia",
+  "explanation": "This is a common part of family, school or community life."
+}

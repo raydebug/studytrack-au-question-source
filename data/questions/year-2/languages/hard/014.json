@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-2",
+  "gradeLabel": "Year 2",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why can one idea be spoken differently in different languages?",
+  "answer": "languages use different words and structures",
+  "explanation": "A thoughtful answer recognises that languages use different words and structures."
+}

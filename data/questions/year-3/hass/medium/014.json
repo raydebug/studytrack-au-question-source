@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-3",
+  "gradeLabel": "Year 3",
+  "subject": "hass",
+  "subjectLabel": "Humanities and Social Sciences",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why do people settle near rivers?",
+  "answer": "rivers provide water, transport and fertile land",
+  "explanation": "The relationship exists because rivers provide water, transport and fertile land."
+}

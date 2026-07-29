@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-3",
+  "gradeLabel": "Year 3",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Write 3/4 as a decimal.",
+  "answer": "0.75",
+  "explanation": "Divide the numerator by the denominator: 3 ÷ 4 = 0.75."
+}

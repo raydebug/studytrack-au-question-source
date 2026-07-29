@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-4",
+  "gradeLabel": "Year 4",
+  "subject": "english",
+  "subjectLabel": "English",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "What language feature is used in this sentence: \"The classroom was a beehive of chatter.\"?",
+  "answer": "metaphor",
+  "explanation": "The sentence uses metaphor to create a stronger image for the reader."
+}

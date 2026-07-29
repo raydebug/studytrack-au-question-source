@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-8",
+  "gradeLabel": "Year 8",
+  "subject": "english",
+  "subjectLabel": "English",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "In the sentence \"The committee approved the plan after debate,\" what part of speech is \"committee\"?",
+  "answer": "noun",
+  "explanation": "This feature mainly works as noun."
+}

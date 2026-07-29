@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-4",
+  "gradeLabel": "Year 4",
+  "subject": "the-arts",
+  "subjectLabel": "The Arts",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why is rehearsal important before a performance?",
+  "answer": "it improves timing, confidence and coordination",
+  "explanation": "A strong explanation is that it improves timing, confidence and coordination."
+}

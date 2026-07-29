@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-6",
+  "gradeLabel": "Year 6",
+  "subject": "health-pe",
+  "subjectLabel": "Health and Physical Education",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "How can regular physical activity support mental health?",
+  "answer": "it can reduce stress and improve mood",
+  "explanation": "The effect happens because it can reduce stress and improve mood."
+}

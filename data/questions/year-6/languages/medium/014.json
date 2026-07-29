@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-6",
+  "gradeLabel": "Year 6",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why is it useful to notice patterns in verb endings or sentence structures?",
+  "answer": "patterns help learners predict and remember forms",
+  "explanation": "The language feature matters because patterns help learners predict and remember forms."
+}

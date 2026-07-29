@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-11",
+  "gradeLabel": "Year 11",
+  "subject": "english",
+  "subjectLabel": "English",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "How can intertextual references strengthen a text's meaning?",
+  "answer": "they connect the text to wider ideas and earlier works",
+  "explanation": "Critical analysis goes beyond summary because they connect the text to wider ideas and earlier works."
+}

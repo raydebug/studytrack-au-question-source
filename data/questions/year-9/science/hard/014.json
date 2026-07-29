@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-9",
+  "gradeLabel": "Year 9",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why must cell division be carefully regulated in multicellular organisms?",
+  "answer": "to prevent uncontrolled growth such as tumours",
+  "explanation": "The best answer is to prevent uncontrolled growth such as tumours because it directly explains the phenomenon."
+}

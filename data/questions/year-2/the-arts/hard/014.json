@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-2",
+  "gradeLabel": "Year 2",
+  "subject": "the-arts",
+  "subjectLabel": "The Arts",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "How can colour choices change the mood of an artwork?",
+  "answer": "different colours can make the work feel calm, bright or tense",
+  "explanation": "An arts response should explain that different colours can make the work feel calm, bright or tense."
+}

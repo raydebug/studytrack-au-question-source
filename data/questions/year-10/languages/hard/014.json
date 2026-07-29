@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-10",
+  "gradeLabel": "Year 10",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why is preserving tone important when translating dialogue?",
+  "answer": "tone affects character, mood and relationship",
+  "explanation": "A deeper answer recognises that tone affects character, mood and relationship."
+}

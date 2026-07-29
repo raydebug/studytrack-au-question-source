@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-12",
+  "gradeLabel": "Year 12",
+  "subject": "technologies",
+  "subjectLabel": "Technologies",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why should a software solution be tested against its requirements?",
+  "answer": "testing checks whether the solution meets the intended need",
+  "explanation": "The technique is used because testing checks whether the solution meets the intended need."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-10",
+  "gradeLabel": "Year 10",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "The first term of an arithmetic sequence is 5 and the common difference is 4. What is the 10th term?",
+  "answer": "41",
+  "explanation": "The 10th term is 5 + 9 x 4 = 41."
+}

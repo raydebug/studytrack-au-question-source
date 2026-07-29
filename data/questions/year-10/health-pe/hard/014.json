@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-10",
+  "gradeLabel": "Year 10",
+  "subject": "health-pe",
+  "subjectLabel": "Health and Physical Education",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why should risk assessment happen before an outdoor activity program?",
+  "answer": "it identifies hazards and reduces the chance of injury",
+  "explanation": "This strategy matters because it identifies hazards and reduces the chance of injury."
+}

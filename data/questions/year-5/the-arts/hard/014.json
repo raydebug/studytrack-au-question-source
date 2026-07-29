@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-5",
+  "gradeLabel": "Year 5",
+  "subject": "the-arts",
+  "subjectLabel": "The Arts",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "How can an audience's response help an artist improve?",
+  "answer": "feedback can show what was effective or unclear",
+  "explanation": "A strong explanation is that feedback can show what was effective or unclear."
+}

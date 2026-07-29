@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-3",
+  "gradeLabel": "Year 3",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "A rectangle is 9 cm long and 4 cm wide. What is its perimeter?",
+  "answer": "26 cm",
+  "explanation": "Perimeter = 9 + 4 + 9 + 4 = 26 cm."
+}

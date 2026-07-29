@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-1",
+  "gradeLabel": "Year 1",
+  "subject": "health-pe",
+  "subjectLabel": "Health and Physical Education",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why do we brush our teeth every day?",
+  "answer": "to keep teeth clean and healthy",
+  "explanation": "The main reason is to keep teeth clean and healthy."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-11",
+  "gradeLabel": "Year 11",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why is audience awareness important in intercultural communication?",
+  "answer": "different audiences may expect different levels of formality or explanation",
+  "explanation": "The choice is justified because different audiences may expect different levels of formality or explanation."
+}

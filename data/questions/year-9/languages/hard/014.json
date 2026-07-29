@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-9",
+  "gradeLabel": "Year 9",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "How can translation involve interpretation, not just substitution of words?",
+  "answer": "the translator must decide how best to convey meaning and nuance",
+  "explanation": "A deeper answer recognises that the translator must decide how best to convey meaning and nuance."
+}

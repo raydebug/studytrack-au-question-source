@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-5",
+  "gradeLabel": "Year 5",
+  "subject": "hass",
+  "subjectLabel": "Humanities and Social Sciences",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why is voting an important responsibility in a democracy?",
+  "answer": "it helps citizens choose representatives and influence decisions",
+  "explanation": "A strong explanation is that it helps citizens choose representatives and influence decisions."
+}

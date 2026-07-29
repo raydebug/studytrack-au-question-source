@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-7",
+  "gradeLabel": "Year 7",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What is a cognate?",
+  "answer": "a word that looks or sounds similar across languages and has a related meaning",
+  "explanation": "This is the correct languages term."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-3",
+  "gradeLabel": "Year 3",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why do shadows become shorter around the middle of the day?",
+  "answer": "the Sun is higher in the sky",
+  "explanation": "The observation is explained by the Sun is higher in the sky."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-6",
+  "gradeLabel": "Year 6",
+  "subject": "english",
+  "subjectLabel": "English",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What does the word \"fragile\" mean in this sentence: \"Mia fragile to her friend in class.\"?",
+  "answer": "easy to break",
+  "explanation": "\"fragile\" shows a specific action or description. Here it means easy to break."
+}

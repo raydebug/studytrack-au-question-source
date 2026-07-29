@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-1",
+  "gradeLabel": "Year 1",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why do people practise greeting words first when learning a new language?",
+  "answer": "greetings are used often in everyday conversation",
+  "explanation": "The learning strategy helps because greetings are used often in everyday conversation."
+}

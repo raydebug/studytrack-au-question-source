@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "foundation",
+  "gradeLabel": "Foundation",
+  "subject": "hass",
+  "subjectLabel": "Humanities and Social Sciences",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "Who helps children learn at school?",
+  "answer": "a teacher",
+  "explanation": "This is a common part of family, school or community life."
+}

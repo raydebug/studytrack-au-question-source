@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-7",
+  "gradeLabel": "Year 7",
+  "subject": "english",
+  "subjectLabel": "English",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "\"Everyone deserves a safe place to learn.\" Which persuasive appeal is strongest here?",
+  "answer": "emotional appeal",
+  "explanation": "This feature mainly works as emotional appeal."
+}

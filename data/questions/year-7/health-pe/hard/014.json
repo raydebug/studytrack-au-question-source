@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-7",
+  "gradeLabel": "Year 7",
+  "subject": "health-pe",
+  "subjectLabel": "Health and Physical Education",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "How can bystander action help prevent bullying?",
+  "answer": "it can interrupt harm and support the person being targeted",
+  "explanation": "This strategy matters because it can interrupt harm and support the person being targeted."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-11",
+  "gradeLabel": "Year 11",
+  "subject": "technologies",
+  "subjectLabel": "Technologies",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why is abstraction important when designing complex software systems?",
+  "answer": "it lets designers focus on essential features without every low-level detail",
+  "explanation": "A senior Technologies answer recognises that it lets designers focus on essential features without every low-level detail."
+}

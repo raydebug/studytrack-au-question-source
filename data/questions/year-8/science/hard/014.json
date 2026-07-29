@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-8",
+  "gradeLabel": "Year 8",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why does a higher voltage in a simple circuit often produce a brighter globe?",
+  "answer": "it can push more electrical energy through the circuit",
+  "explanation": "The best answer is it can push more electrical energy through the circuit because it directly explains the phenomenon."
+}

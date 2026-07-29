@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-9",
+  "gradeLabel": "Year 9",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why do some languages change verb forms to show time or person?",
+  "answer": "grammar encodes information about the action and subject",
+  "explanation": "The issue arises because grammar encodes information about the action and subject."
+}

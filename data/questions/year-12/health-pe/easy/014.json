@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-12",
+  "gradeLabel": "Year 12",
+  "subject": "health-pe",
+  "subjectLabel": "Health and Physical Education",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What is one immediate treatment for a soft tissue injury in sport?",
+  "answer": "rest, ice, compression and elevation",
+  "explanation": "This is the expected senior PE response."
+}

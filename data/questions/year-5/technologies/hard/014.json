@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-5",
+  "gradeLabel": "Year 5",
+  "subject": "technologies",
+  "subjectLabel": "Technologies",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why is data validation helpful in an online form?",
+  "answer": "it reduces mistakes and improves data quality",
+  "explanation": "A strong answer explains that it reduces mistakes and improves data quality."
+}

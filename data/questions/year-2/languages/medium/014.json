@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-2",
+  "gradeLabel": "Year 2",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why is listening carefully important when copying a new word?",
+  "answer": "it helps you hear and repeat the sounds correctly",
+  "explanation": "The learning strategy helps because it helps you hear and repeat the sounds correctly."
+}

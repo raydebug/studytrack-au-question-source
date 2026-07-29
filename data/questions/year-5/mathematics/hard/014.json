@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-5",
+  "gradeLabel": "Year 5",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "A recipe needs 3/4 cup of milk for one batch. How much milk is needed for 2 batches?",
+  "answer": "1 1/2 cups",
+  "explanation": "Double 3/4 to get 6/4, which is 1 1/2 cups."
+}

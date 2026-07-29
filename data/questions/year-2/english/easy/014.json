@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-2",
+  "gradeLabel": "Year 2",
+  "subject": "english",
+  "subjectLabel": "English",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What letter does the word \"sun\" start with?",
+  "answer": "s",
+  "explanation": "The word \"sun\" begins with the /s/ sound, so it starts with s."
+}

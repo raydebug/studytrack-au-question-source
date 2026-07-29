@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-11",
+  "gradeLabel": "Year 11",
+  "subject": "hass",
+  "subjectLabel": "Humanities and Social Sciences",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why can unemployment affect both households and the broader economy?",
+  "answer": "it reduces income and spending while raising economic pressure",
+  "explanation": "The impact exists because it reduces income and spending while raising economic pressure."
+}

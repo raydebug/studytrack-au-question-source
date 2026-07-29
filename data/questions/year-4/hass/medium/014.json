@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-4",
+  "gradeLabel": "Year 4",
+  "subject": "hass",
+  "subjectLabel": "Humanities and Social Sciences",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why do local councils make decisions about parks and rubbish collection?",
+  "answer": "those services are local community responsibilities",
+  "explanation": "The relationship exists because those services are local community responsibilities."
+}

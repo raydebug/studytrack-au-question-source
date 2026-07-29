@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-10",
+  "gradeLabel": "Year 10",
+  "subject": "the-arts",
+  "subjectLabel": "The Arts",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "How can costume help communicate character?",
+  "answer": "it gives visual clues about personality, role or context",
+  "explanation": "The creative choice matters because it gives visual clues about personality, role or context."
+}

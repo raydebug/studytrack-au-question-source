@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-8",
+  "gradeLabel": "Year 8",
+  "subject": "technologies",
+  "subjectLabel": "Technologies",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why is version control helpful in a team project?",
+  "answer": "it tracks changes and supports collaboration",
+  "explanation": "The system is improved because it tracks changes and supports collaboration."
+}

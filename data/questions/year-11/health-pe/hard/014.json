@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-11",
+  "gradeLabel": "Year 11",
+  "subject": "health-pe",
+  "subjectLabel": "Health and Physical Education",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "How can social determinants influence health outcomes?",
+  "answer": "factors like income, housing and education affect access to health supports",
+  "explanation": "A senior response recognises that factors like income, housing and education affect access to health supports."
+}

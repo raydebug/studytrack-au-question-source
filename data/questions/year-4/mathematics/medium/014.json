@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-4",
+  "gradeLabel": "Year 4",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Write 5/8 as a decimal.",
+  "answer": "0.625",
+  "explanation": "Divide the numerator by the denominator: 5 ÷ 8 = 0.625."
+}

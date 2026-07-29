@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-2",
+  "gradeLabel": "Year 2",
+  "subject": "technologies",
+  "subjectLabel": "Technologies",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why should personal information not be shared online without adult help?",
+  "answer": "it protects privacy and safety",
+  "explanation": "A good technology decision is made because it protects privacy and safety."
+}

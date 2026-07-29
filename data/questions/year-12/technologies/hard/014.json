@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-12",
+  "gradeLabel": "Year 12",
+  "subject": "technologies",
+  "subjectLabel": "Technologies",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "How can iterative development improve a digital product over time?",
+  "answer": "each cycle uses feedback and testing to refine the product",
+  "explanation": "A senior Technologies answer recognises that each cycle uses feedback and testing to refine the product."
+}

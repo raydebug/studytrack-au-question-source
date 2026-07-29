@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-12",
+  "gradeLabel": "Year 12",
+  "subject": "health-pe",
+  "subjectLabel": "Health and Physical Education",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why is specificity important in training design?",
+  "answer": "training should match the skills or fitness demands of the activity",
+  "explanation": "The principle applies because training should match the skills or fitness demands of the activity."
+}

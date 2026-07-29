@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-10",
+  "gradeLabel": "Year 10",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "What does the carbon cycle move between the atmosphere, biosphere and geosphere?",
+  "answer": "carbon",
+  "explanation": "The best answer is carbon because it directly explains the phenomenon."
+}

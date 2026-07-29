@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-12",
+  "gradeLabel": "Year 12",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why can preserving cultural nuance be difficult in literary translation?",
+  "answer": "connotations, references and tone may not match exactly across languages",
+  "explanation": "A senior languages response explains that connotations, references and tone may not match exactly across languages."
+}

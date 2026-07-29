@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-3",
+  "gradeLabel": "Year 3",
+  "subject": "hass",
+  "subjectLabel": "Humanities and Social Sciences",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why should historians compare more than one source about an event?",
+  "answer": "different sources can give different perspectives",
+  "explanation": "A strong explanation is that different sources can give different perspectives."
+}

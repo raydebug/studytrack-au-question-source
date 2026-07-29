@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-5",
+  "gradeLabel": "Year 5",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why is audience important when choosing formal or informal language?",
+  "answer": "different situations need different levels of politeness",
+  "explanation": "A stronger response explains that different situations need different levels of politeness."
+}

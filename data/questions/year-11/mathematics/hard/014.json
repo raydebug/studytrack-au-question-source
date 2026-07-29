@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-11",
+  "gradeLabel": "Year 11",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Evaluate the definite integral of 4 from x = 0 to x = 5.",
+  "answer": "20",
+  "explanation": "The area is a rectangle with height 4 and width 5, so 4 x 5 = 20."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-9",
+  "gradeLabel": "Year 9",
+  "subject": "technologies",
+  "subjectLabel": "Technologies",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why might an app use conditional statements?",
+  "answer": "the app needs to choose different actions based on conditions",
+  "explanation": "The system is improved because the app needs to choose different actions based on conditions."
+}

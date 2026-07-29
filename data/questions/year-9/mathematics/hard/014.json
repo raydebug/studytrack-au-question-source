@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-9",
+  "gradeLabel": "Year 9",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Solve 2(x - 3) = x + 5.",
+  "answer": "11",
+  "explanation": "Expand to get 2x - 6 = x + 5, so x = 11."
+}

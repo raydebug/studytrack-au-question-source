@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-12",
+  "gradeLabel": "Year 12",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why can equilibrium in a chemical system still involve ongoing particle movement?",
+  "answer": "equilibrium is dynamic, so forward and reverse processes still happen at equal rates",
+  "explanation": "This reflects the particle model: equilibrium is dynamic, so forward and reverse processes still happen at equal rates."
+}

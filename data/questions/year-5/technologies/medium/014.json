@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-5",
+  "gradeLabel": "Year 5",
+  "subject": "technologies",
+  "subjectLabel": "Technologies",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why should online sources be checked before using information?",
+  "answer": "some sources may be inaccurate or unsafe",
+  "explanation": "The process works better because some sources may be inaccurate or unsafe."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-1",
+  "gradeLabel": "Year 1",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "How can songs help children remember words in another language?",
+  "answer": "rhythm and repetition help memory",
+  "explanation": "A thoughtful answer recognises that rhythm and repetition help memory."
+}

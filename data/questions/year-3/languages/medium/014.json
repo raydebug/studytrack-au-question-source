@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-3",
+  "gradeLabel": "Year 3",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why can gestures help in a conversation with a new language learner?",
+  "answer": "they support meaning when words are not enough",
+  "explanation": "The language feature matters because they support meaning when words are not enough."
+}

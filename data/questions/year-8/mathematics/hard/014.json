@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-8",
+  "gradeLabel": "Year 8",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Factorise x^2 + 7x + 12.",
+  "answer": "(x + 3)(x + 4)",
+  "explanation": "Find two numbers that add to 7 and multiply to 12."
+}

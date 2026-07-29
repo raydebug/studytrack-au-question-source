@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-7",
+  "gradeLabel": "Year 7",
+  "subject": "technologies",
+  "subjectLabel": "Technologies",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "How can encryption protect information sent online?",
+  "answer": "it makes the data unreadable without the correct key",
+  "explanation": "This matters because it makes the data unreadable without the correct key."
+}

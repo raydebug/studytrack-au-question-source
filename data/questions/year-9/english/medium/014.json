@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "createdAt": "2026-07-29",
+  "grade": "year-9",
+  "gradeLabel": "Year 9",
+  "subject": "english",
+  "subjectLabel": "English",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why might a writer shift from formal to informal language in a feature article?",
+  "answer": "to connect more personally with the audience",
+  "explanation": "The technique changes how meaning is conveyed by to connect more personally with the audience."
+}
