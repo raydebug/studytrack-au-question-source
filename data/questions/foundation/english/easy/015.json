@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "foundation",
+  "gradeLabel": "Foundation",
+  "subject": "english",
+  "subjectLabel": "English",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "Circle the word that rhymes with \"cat\": hat, sun, dog.",
+  "answer": "hat",
+  "explanation": "\"Hat\" has the same ending sound as \"cat\"."
+}

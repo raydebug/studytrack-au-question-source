@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-1",
+  "gradeLabel": "Year 1",
+  "subject": "the-arts",
+  "subjectLabel": "The Arts",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why do performers practise the same piece more than once?",
+  "answer": "to improve accuracy, confidence, and expression",
+  "explanation": "Practice helps performers refine their work."
+}

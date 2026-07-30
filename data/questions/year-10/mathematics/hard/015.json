@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-10",
+  "gradeLabel": "Year 10",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Solve simultaneously: x + y = 10 and x - y = 4.",
+  "answer": "x = 7, y = 3",
+  "explanation": "Add the equations to get 2x = 14, then substitute to find y."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-6",
+  "gradeLabel": "Year 6",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Simplify the ratio 18:24.",
+  "answer": "3:4",
+  "explanation": "Divide both parts of the ratio by 6."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-11",
+  "gradeLabel": "Year 11",
+  "subject": "hass",
+  "subjectLabel": "Humanities and Social Sciences",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "How can ideological conflict influence international relations?",
+  "answer": "it can shape alliances, tensions, and policy decisions",
+  "explanation": "Beliefs about politics and society often affect global interactions."
+}

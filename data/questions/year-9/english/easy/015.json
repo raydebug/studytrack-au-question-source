@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-9",
+  "gradeLabel": "Year 9",
+  "subject": "english",
+  "subjectLabel": "English",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What does it mean to evaluate a source in research?",
+  "answer": "to judge how credible and useful it is",
+  "explanation": "Evaluation checks a source’s reliability and relevance."
+}

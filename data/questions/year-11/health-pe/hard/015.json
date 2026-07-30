@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-11",
+  "gradeLabel": "Year 11",
+  "subject": "health-pe",
+  "subjectLabel": "Health and Physical Education",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "How can stigma reduce help-seeking for mental health concerns?",
+  "answer": "people may fear judgement and delay getting support",
+  "explanation": "Reducing stigma makes support more accessible."
+}

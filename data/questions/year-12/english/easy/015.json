@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-12",
+  "gradeLabel": "Year 12",
+  "subject": "english",
+  "subjectLabel": "English",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What is the function of a thesis statement in an extended response?",
+  "answer": "to present the central argument that guides the essay",
+  "explanation": "A thesis gives the essay direction and a line of argument."
+}

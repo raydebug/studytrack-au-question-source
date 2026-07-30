@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-1",
+  "gradeLabel": "Year 1",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "What pushes a toy boat down a stream: moving water or darkness?",
+  "answer": "moving water",
+  "explanation": "A force from the moving water can push the boat."
+}

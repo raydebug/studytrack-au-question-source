@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-3",
+  "gradeLabel": "Year 3",
+  "subject": "technologies",
+  "subjectLabel": "Technologies",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "How does repeating code with a loop help a program?",
+  "answer": "it avoids writing the same instructions many times",
+  "explanation": "Loops make code shorter and more efficient."
+}

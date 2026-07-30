@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-4",
+  "gradeLabel": "Year 4",
+  "subject": "the-arts",
+  "subjectLabel": "The Arts",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What is a warm colour: blue or red?",
+  "answer": "red",
+  "explanation": "Red is a warm colour."
+}

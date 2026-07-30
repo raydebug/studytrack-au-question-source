@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-12",
+  "gradeLabel": "Year 12",
+  "subject": "technologies",
+  "subjectLabel": "Technologies",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "How can testing with edge cases improve software reliability?",
+  "answer": "it reveals failures that may not appear in typical situations",
+  "explanation": "Edge-case testing helps ensure the system behaves well under unusual conditions."
+}

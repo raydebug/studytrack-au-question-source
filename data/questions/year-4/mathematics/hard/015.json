@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-4",
+  "gradeLabel": "Year 4",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "A book costs $18.50. How much do 3 books cost?",
+  "answer": "$55.50",
+  "explanation": "Multiply 18.50 by 3 to get 55.50."
+}

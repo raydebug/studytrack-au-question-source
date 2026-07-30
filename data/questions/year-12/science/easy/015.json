@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-12",
+  "gradeLabel": "Year 12",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What does DNA replication achieve before cell division?",
+  "answer": "it copies the genetic information",
+  "explanation": "Replication ensures each new cell receives a full set of DNA."
+}

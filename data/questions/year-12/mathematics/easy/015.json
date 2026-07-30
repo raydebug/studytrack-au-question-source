@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-12",
+  "gradeLabel": "Year 12",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "Find the midpoint of the points (4, -2) and (10, 6).",
+  "answer": "(7, 2)",
+  "explanation": "Average the x-values and the y-values."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-7",
+  "gradeLabel": "Year 7",
+  "subject": "hass",
+  "subjectLabel": "Humanities and Social Sciences",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "How can scarcity influence economic choices?",
+  "answer": "limited resources force people and businesses to prioritise what to produce or buy",
+  "explanation": "Scarcity means wants are unlimited but resources are not."
+}

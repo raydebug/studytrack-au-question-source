@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-7",
+  "gradeLabel": "Year 7",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why can gestures mean different things in different cultures?",
+  "answer": "body language is shaped by cultural conventions",
+  "explanation": "Intercultural communication involves more than vocabulary."
+}

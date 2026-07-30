@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "foundation",
+  "gradeLabel": "Foundation",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What polite word can you say when you meet someone: hello or goodbye?",
+  "answer": "hello",
+  "explanation": "\"Hello\" is a common greeting when meeting someone."
+}

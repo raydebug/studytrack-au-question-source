@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-2",
+  "gradeLabel": "Year 2",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "A rectangle has length 6 cm and width 3 cm. What is its perimeter?",
+  "answer": "18 cm",
+  "explanation": "Perimeter is 6 + 3 + 6 + 3 = 18 cm."
+}

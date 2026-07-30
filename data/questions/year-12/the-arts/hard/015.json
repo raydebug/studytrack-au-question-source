@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-12",
+  "gradeLabel": "Year 12",
+  "subject": "the-arts",
+  "subjectLabel": "The Arts",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "How can a critical response balance personal interpretation with evidence from the artwork?",
+  "answer": "it should explain a viewpoint while referring to specific artistic choices",
+  "explanation": "Strong criticism is both interpretive and evidence-based."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "foundation",
+  "gradeLabel": "Foundation",
+  "subject": "technologies",
+  "subjectLabel": "Technologies",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why do we follow steps when giving a robot a simple command?",
+  "answer": "robots need instructions in the correct order",
+  "explanation": "Digital systems follow a sequence of instructions."
+}

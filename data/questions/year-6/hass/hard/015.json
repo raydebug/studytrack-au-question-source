@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-6",
+  "gradeLabel": "Year 6",
+  "subject": "hass",
+  "subjectLabel": "Humanities and Social Sciences",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why should historians compare multiple sources about the same event?",
+  "answer": "sources can have different perspectives or biases",
+  "explanation": "Comparing evidence helps historians build more reliable interpretations."
+}

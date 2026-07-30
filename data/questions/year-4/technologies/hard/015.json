@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-4",
+  "gradeLabel": "Year 4",
+  "subject": "technologies",
+  "subjectLabel": "Technologies",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why does decomposition help solve digital problems?",
+  "answer": "it breaks a big task into smaller manageable parts",
+  "explanation": "Decomposition is a key computational thinking strategy."
+}

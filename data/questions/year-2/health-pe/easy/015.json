@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-2",
+  "gradeLabel": "Year 2",
+  "subject": "health-pe",
+  "subjectLabel": "Health and Physical Education",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "Which habit helps your teeth stay healthy: brushing twice a day or eating lollies all night?",
+  "answer": "brushing twice a day",
+  "explanation": "Regular brushing helps protect teeth."
+}

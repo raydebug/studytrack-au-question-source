@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "foundation",
+  "gradeLabel": "Foundation",
+  "subject": "health-pe",
+  "subjectLabel": "Health and Physical Education",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What should you do before eating lunch: wash your hands or play in the mud?",
+  "answer": "wash your hands",
+  "explanation": "Clean hands help stop germs from spreading."
+}

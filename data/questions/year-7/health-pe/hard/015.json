@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-7",
+  "gradeLabel": "Year 7",
+  "subject": "health-pe",
+  "subjectLabel": "Health and Physical Education",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "How can tactics improve performance in invasion games?",
+  "answer": "they help a team create space and make better decisions",
+  "explanation": "Tactics turn skills into coordinated game play."
+}

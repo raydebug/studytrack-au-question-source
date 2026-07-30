@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "foundation",
+  "gradeLabel": "Foundation",
+  "subject": "the-arts",
+  "subjectLabel": "The Arts",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why might an actor use a big facial expression in a performance for young children?",
+  "answer": "to make the feeling clear to the audience",
+  "explanation": "Clear expression helps the audience understand character and mood."
+}

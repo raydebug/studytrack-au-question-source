@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-8",
+  "gradeLabel": "Year 8",
+  "subject": "health-pe",
+  "subjectLabel": "Health and Physical Education",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why should a training program include rest days?",
+  "answer": "recovery helps muscles repair and reduces overtraining",
+  "explanation": "Fitness improves through training plus recovery."
+}

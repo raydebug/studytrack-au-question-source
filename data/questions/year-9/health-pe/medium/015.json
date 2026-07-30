@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-9",
+  "gradeLabel": "Year 9",
+  "subject": "health-pe",
+  "subjectLabel": "Health and Physical Education",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "How can stereotypes affect participation in sport or activity?",
+  "answer": "they may discourage people from joining or feeling included",
+  "explanation": "Inclusive environments challenge limiting assumptions."
+}

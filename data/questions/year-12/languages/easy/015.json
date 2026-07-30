@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-12",
+  "gradeLabel": "Year 12",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What is pragmatics in language study?",
+  "answer": "how meaning changes according to context and social use",
+  "explanation": "Pragmatics looks at more than dictionary definitions."
+}

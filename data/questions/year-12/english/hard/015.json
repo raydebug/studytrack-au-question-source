@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-12",
+  "gradeLabel": "Year 12",
+  "subject": "english",
+  "subjectLabel": "English",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "How can ambiguity in the ending of a text strengthen a reader’s interpretation?",
+  "answer": "it invites multiple defensible readings and deeper analysis",
+  "explanation": "Ambiguity can make readers consider themes and evidence more carefully."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-4",
+  "gradeLabel": "Year 4",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why is intonation important when speaking?",
+  "answer": "it helps show meaning, emotion, or whether something is a question",
+  "explanation": "How you say words matters as well as which words you choose."
+}

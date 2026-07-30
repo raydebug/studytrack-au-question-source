@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-1",
+  "gradeLabel": "Year 1",
+  "subject": "hass",
+  "subjectLabel": "Humanities and Social Sciences",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "Who usually helps keep a town safe in emergencies: a firefighter or a baker?",
+  "answer": "a firefighter",
+  "explanation": "Firefighters help people during fires and other emergencies."
+}

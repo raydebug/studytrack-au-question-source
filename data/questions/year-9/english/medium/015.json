@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-9",
+  "gradeLabel": "Year 9",
+  "subject": "english",
+  "subjectLabel": "English",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Which appeal targets the audience’s emotions: ethos, pathos, or logos?",
+  "answer": "pathos",
+  "explanation": "Pathos is persuasive language aimed at feelings."
+}

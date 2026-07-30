@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-8",
+  "gradeLabel": "Year 8",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What is an idiom? Give a brief answer.",
+  "answer": "an expression whose meaning is not obvious from the individual words",
+  "explanation": "Idioms need to be understood as a whole phrase."
+}

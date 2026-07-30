@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-9",
+  "gradeLabel": "Year 9",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "How can analysing authentic texts improve language learning?",
+  "answer": "it shows how real speakers use language in context",
+  "explanation": "Authentic materials reveal natural grammar, vocabulary, and cultural cues."
+}

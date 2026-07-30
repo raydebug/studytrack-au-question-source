@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-2",
+  "gradeLabel": "Year 2",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why should you copy accents or special marks when writing some languages?",
+  "answer": "they can change pronunciation or meaning",
+  "explanation": "Diacritics are part of correct spelling in many languages."
+}

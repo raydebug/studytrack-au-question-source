@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-4",
+  "gradeLabel": "Year 4",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why are food chains usually drawn with arrows?",
+  "answer": "the arrows show the direction of energy transfer",
+  "explanation": "Energy moves from one organism to another in a food chain."
+}

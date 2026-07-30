@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-10",
+  "gradeLabel": "Year 10",
+  "subject": "technologies",
+  "subjectLabel": "Technologies",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why is pseudocode useful before programming a complex solution?",
+  "answer": "it lets you plan logic clearly without worrying about exact syntax",
+  "explanation": "Pseudocode helps refine thinking before coding."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-6",
+  "gradeLabel": "Year 6",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why should you learn common sentence patterns, not just single words?",
+  "answer": "communication needs words arranged in meaningful ways",
+  "explanation": "Grammar patterns help learners build their own sentences."
+}

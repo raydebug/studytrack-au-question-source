@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-8",
+  "gradeLabel": "Year 8",
+  "subject": "english",
+  "subjectLabel": "English",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "What is one effect of dramatic irony in a play?",
+  "answer": "the audience knows something a character does not, creating tension",
+  "explanation": "Dramatic irony keeps the audience alert to possible consequences."
+}

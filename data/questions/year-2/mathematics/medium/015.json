@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-2",
+  "gradeLabel": "Year 2",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Which number is odd: 18, 21, 24?",
+  "answer": "21",
+  "explanation": "Odd numbers cannot be shared equally into pairs; 21 is odd."
+}

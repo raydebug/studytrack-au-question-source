@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-10",
+  "gradeLabel": "Year 10",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What is the pH of a neutral solution at room temperature? Give a brief answer.",
+  "answer": "7",
+  "explanation": "A neutral solution has a pH of 7."
+}

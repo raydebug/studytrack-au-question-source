@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-8",
+  "gradeLabel": "Year 8",
+  "subject": "technologies",
+  "subjectLabel": "Technologies",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "How can data validation improve a digital solution?",
+  "answer": "it checks that entered data is sensible and correctly formatted",
+  "explanation": "Validation helps reduce errors before data is processed."
+}

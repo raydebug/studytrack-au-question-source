@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-8",
+  "gradeLabel": "Year 8",
+  "subject": "the-arts",
+  "subjectLabel": "The Arts",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What is symbolism in an artwork or performance?",
+  "answer": "using an object, image, or action to represent a larger idea",
+  "explanation": "Symbols carry meanings beyond their literal form."
+}

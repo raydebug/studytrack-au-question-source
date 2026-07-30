@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-6",
+  "gradeLabel": "Year 6",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "How can comparing English with another language improve language learning?",
+  "answer": "it highlights similarities and differences in grammar, vocabulary, and culture",
+  "explanation": "Comparison helps learners notice how languages work."
+}

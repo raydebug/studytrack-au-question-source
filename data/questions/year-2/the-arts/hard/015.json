@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-2",
+  "gradeLabel": "Year 2",
+  "subject": "the-arts",
+  "subjectLabel": "The Arts",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why might a dancer use different levels, such as high and low, in a sequence?",
+  "answer": "to make the movement more interesting and expressive",
+  "explanation": "Changing levels adds variety and meaning."
+}

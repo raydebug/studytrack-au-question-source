@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-7",
+  "gradeLabel": "Year 7",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why does increasing particle movement usually raise temperature?",
+  "answer": "temperature reflects the average kinetic energy of particles",
+  "explanation": "Faster-moving particles mean greater average kinetic energy."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-5",
+  "gradeLabel": "Year 5",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What happens to the Moon’s appearance during its phases?",
+  "answer": "the lit part we can see changes",
+  "explanation": "The Moon’s phases depend on how much of its sunlit side faces Earth."
+}

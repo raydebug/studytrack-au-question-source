@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-2",
+  "gradeLabel": "Year 2",
+  "subject": "english",
+  "subjectLabel": "English",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Change this into the past tense: \"We walk to school.\"",
+  "answer": "We walked to school.",
+  "explanation": "The past tense of \"walk\" is \"walked\"."
+}

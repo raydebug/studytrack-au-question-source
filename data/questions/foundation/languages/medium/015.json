@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "foundation",
+  "gradeLabel": "Foundation",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why is it helpful to listen carefully to how a new word sounds?",
+  "answer": "it helps you say the word more accurately",
+  "explanation": "Languages include sounds that need careful listening and practice."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-10",
+  "gradeLabel": "Year 10",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why is acceleration considered a vector quantity?",
+  "answer": "it has both magnitude and direction",
+  "explanation": "Vectors describe how much and which way a change occurs."
+}

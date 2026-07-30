@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "foundation",
+  "gradeLabel": "Foundation",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "Which sense do you use to hear a bell: sight, hearing, or smell?",
+  "answer": "hearing",
+  "explanation": "Ears help us hear sounds."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-2",
+  "gradeLabel": "Year 2",
+  "subject": "the-arts",
+  "subjectLabel": "The Arts",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "Which material could be used to make a collage: paper scraps or soap bubbles?",
+  "answer": "paper scraps",
+  "explanation": "Collage artworks are made by arranging and attaching materials such as paper."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "foundation",
+  "gradeLabel": "Foundation",
+  "subject": "technologies",
+  "subjectLabel": "Technologies",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "What should you do before using a tablet at school: listen to the teacher or press random buttons?",
+  "answer": "listen to the teacher",
+  "explanation": "Safe and responsible technology use starts with instructions."
+}

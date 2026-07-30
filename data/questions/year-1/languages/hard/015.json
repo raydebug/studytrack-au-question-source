@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-1",
+  "gradeLabel": "Year 1",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why might songs help you remember words in another language?",
+  "answer": "rhythm and repetition make the words easier to remember",
+  "explanation": "Music supports memory and pronunciation practice."
+}

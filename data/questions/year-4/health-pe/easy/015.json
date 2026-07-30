@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-4",
+  "gradeLabel": "Year 4",
+  "subject": "health-pe",
+  "subjectLabel": "Health and Physical Education",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What does a balanced meal usually include besides carbohydrates?",
+  "answer": "foods from other groups such as vegetables or protein",
+  "explanation": "Balanced eating includes a range of food groups."
+}

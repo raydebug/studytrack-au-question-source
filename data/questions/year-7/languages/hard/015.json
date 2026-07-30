@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-7",
+  "gradeLabel": "Year 7",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why is literal translation sometimes misleading?",
+  "answer": "it can ignore idioms, grammar, or cultural meaning",
+  "explanation": "Accurate translation often requires adapting the expression, not copying each word."
+}

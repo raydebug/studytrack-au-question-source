@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-11",
+  "gradeLabel": "Year 11",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "What does the slope of a velocity-time graph represent?",
+  "answer": "acceleration",
+  "explanation": "The slope shows how quickly velocity changes over time."
+}

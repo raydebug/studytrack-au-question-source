@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-3",
+  "gradeLabel": "Year 3",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why might the same idea need different wording in another language instead of a word-for-word translation?",
+  "answer": "languages organise meaning differently",
+  "explanation": "Good translation keeps the meaning natural, not just the individual words."
+}

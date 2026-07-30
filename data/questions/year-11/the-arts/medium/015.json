@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-11",
+  "gradeLabel": "Year 11",
+  "subject": "the-arts",
+  "subjectLabel": "The Arts",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why is context important in arts criticism?",
+  "answer": "the time, place, and culture influence how a work is made and understood",
+  "explanation": "Critical analysis considers more than just surface features."
+}

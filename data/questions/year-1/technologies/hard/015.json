@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-1",
+  "gradeLabel": "Year 1",
+  "subject": "technologies",
+  "subjectLabel": "Technologies",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "How can a labelled drawing help in a design task?",
+  "answer": "it shows what the idea includes and how parts fit together",
+  "explanation": "Design drawings communicate ideas clearly before making."
+}

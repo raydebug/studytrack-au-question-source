@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-5",
+  "gradeLabel": "Year 5",
+  "subject": "technologies",
+  "subjectLabel": "Technologies",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What is one feature of a well-designed user interface?",
+  "answer": "it is easy to understand and use",
+  "explanation": "Good interfaces help users complete tasks clearly."
+}

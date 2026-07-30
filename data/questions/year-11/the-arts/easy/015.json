@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-11",
+  "gradeLabel": "Year 11",
+  "subject": "the-arts",
+  "subjectLabel": "The Arts",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What is one purpose of a rehearsal process?",
+  "answer": "to refine interpretation and technical execution",
+  "explanation": "Rehearsal develops both meaning and precision."
+}

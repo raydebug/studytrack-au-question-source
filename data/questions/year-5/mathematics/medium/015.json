@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-5",
+  "gradeLabel": "Year 5",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Convert 0.375 to a fraction in simplest form.",
+  "answer": "3/8",
+  "explanation": "0.375 = 375/1000, which simplifies to 3/8."
+}

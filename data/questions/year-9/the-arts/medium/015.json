@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-9",
+  "gradeLabel": "Year 9",
+  "subject": "the-arts",
+  "subjectLabel": "The Arts",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why might an artist deliberately break a convention?",
+  "answer": "to challenge expectations or communicate a new idea",
+  "explanation": "Creative choices can question tradition rather than follow it."
+}

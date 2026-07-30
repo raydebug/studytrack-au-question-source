@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-6",
+  "gradeLabel": "Year 6",
+  "subject": "the-arts",
+  "subjectLabel": "The Arts",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why do musicians rehearse balance in an ensemble?",
+  "answer": "so no single part overpowers the others unless intended",
+  "explanation": "Balance helps audiences hear how the parts work together."
+}

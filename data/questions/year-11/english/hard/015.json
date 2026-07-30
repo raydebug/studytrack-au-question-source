@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-11",
+  "gradeLabel": "Year 11",
+  "subject": "english",
+  "subjectLabel": "English",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "How can an unreliable narrator reshape the reader’s understanding of truth in a text?",
+  "answer": "the reader must question events and piece together what is believable",
+  "explanation": "An unreliable narrator makes perspective itself part of the meaning."
+}

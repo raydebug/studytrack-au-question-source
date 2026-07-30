@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-5",
+  "gradeLabel": "Year 5",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why might a language use formal and informal ways to address people?",
+  "answer": "different relationships require different levels of respect",
+  "explanation": "Register changes depending on context and audience."
+}

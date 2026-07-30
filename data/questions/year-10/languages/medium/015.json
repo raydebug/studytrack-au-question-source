@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-10",
+  "gradeLabel": "Year 10",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why might a translator choose not to translate a cultural term exactly?",
+  "answer": "keeping or adapting it may preserve the original meaning better",
+  "explanation": "Some ideas do not have perfect equivalents across cultures."
+}

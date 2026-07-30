@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-7",
+  "gradeLabel": "Year 7",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "What is the area of a parallelogram with base 9 cm and height 5 cm?",
+  "answer": "45 cm^2",
+  "explanation": "Area of a parallelogram is base x height."
+}

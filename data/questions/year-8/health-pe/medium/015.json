@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-8",
+  "gradeLabel": "Year 8",
+  "subject": "health-pe",
+  "subjectLabel": "Health and Physical Education",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "What is one reason energy drinks may be risky for young people?",
+  "answer": "they can contain high amounts of caffeine and sugar",
+  "explanation": "Too much caffeine can affect sleep and heart rate."
+}

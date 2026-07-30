@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-1",
+  "gradeLabel": "Year 1",
+  "subject": "english",
+  "subjectLabel": "English",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "Which word names an action: jump, blue, table?",
+  "answer": "jump",
+  "explanation": "\"Jump\" tells what someone can do, so it is an action word."
+}

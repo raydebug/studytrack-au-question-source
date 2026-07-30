@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-12",
+  "gradeLabel": "Year 12",
+  "subject": "technologies",
+  "subjectLabel": "Technologies",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why is version control valuable in a collaborative software project?",
+  "answer": "it tracks changes and helps team members work without overwriting each other",
+  "explanation": "Version control supports coordination, history, and recovery."
+}

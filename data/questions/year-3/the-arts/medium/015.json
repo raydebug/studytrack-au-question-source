@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-3",
+  "gradeLabel": "Year 3",
+  "subject": "the-arts",
+  "subjectLabel": "The Arts",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "How can repeated patterns help in a visual artwork?",
+  "answer": "they create rhythm and unity",
+  "explanation": "Repeating shapes or colours can make an artwork feel connected."
+}

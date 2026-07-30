@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-2",
+  "gradeLabel": "Year 2",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "If a language has words for colours, what does the word \"blue\" most likely name?",
+  "answer": "a colour",
+  "explanation": "Words are grouped by meaning categories such as colours, numbers, or greetings."
+}

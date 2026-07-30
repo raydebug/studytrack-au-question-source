@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-4",
+  "gradeLabel": "Year 4",
+  "subject": "technologies",
+  "subjectLabel": "Technologies",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why should data be organised in a table or spreadsheet?",
+  "answer": "it is easier to read, compare, and analyse",
+  "explanation": "Structured data is more useful than scattered data."
+}

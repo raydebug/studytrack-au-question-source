@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "foundation",
+  "gradeLabel": "Foundation",
+  "subject": "english",
+  "subjectLabel": "English",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Write one describing word for a big elephant.",
+  "answer": "big",
+  "explanation": "A describing word tells us more about a noun; \"big\" fits elephant."
+}

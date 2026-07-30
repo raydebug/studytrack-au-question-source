@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-5",
+  "gradeLabel": "Year 5",
+  "subject": "technologies",
+  "subjectLabel": "Technologies",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "How can collecting user feedback improve a product?",
+  "answer": "it shows what works, what is confusing, and what should change",
+  "explanation": "User feedback helps designers refine solutions."
+}

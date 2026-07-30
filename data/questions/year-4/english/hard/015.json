@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-4",
+  "gradeLabel": "Year 4",
+  "subject": "english",
+  "subjectLabel": "English",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Which sentence is the stronger topic sentence for a paragraph about koalas: \"Koalas live in Australia.\" or \"Koalas have special features that help them live in eucalyptus forests.\"",
+  "answer": "Koalas have special features that help them live in eucalyptus forests.",
+  "explanation": "A strong topic sentence previews the focus of the whole paragraph."
+}

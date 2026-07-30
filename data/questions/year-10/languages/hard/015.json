@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-10",
+  "gradeLabel": "Year 10",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "How can grammatical gender affect sentence construction in some languages?",
+  "answer": "it can change articles, adjectives, or pronouns linked to nouns",
+  "explanation": "Grammar systems vary across languages and shape expression."
+}

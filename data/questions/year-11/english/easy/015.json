@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-11",
+  "gradeLabel": "Year 11",
+  "subject": "english",
+  "subjectLabel": "English",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What is one purpose of an allusion in literature?",
+  "answer": "to connect the text to another idea, event, or work",
+  "explanation": "An allusion adds meaning by referencing something the audience may recognise."
+}

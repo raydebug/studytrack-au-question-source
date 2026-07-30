@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-11",
+  "gradeLabel": "Year 11",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "How can language choices reveal identity in a text?",
+  "answer": "vocabulary, dialect, and style can signal belonging, values, or perspective",
+  "explanation": "Language is part of how people represent themselves and their communities."
+}

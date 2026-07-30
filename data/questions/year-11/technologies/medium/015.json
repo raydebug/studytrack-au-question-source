@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-11",
+  "gradeLabel": "Year 11",
+  "subject": "technologies",
+  "subjectLabel": "Technologies",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why should interface designers consider accessibility?",
+  "answer": "different users need different ways to access and use a system",
+  "explanation": "Accessible design broadens usability and reduces barriers."
+}

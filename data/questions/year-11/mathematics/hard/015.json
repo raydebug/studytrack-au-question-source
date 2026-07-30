@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-11",
+  "gradeLabel": "Year 11",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Differentiate y = 5x^3.",
+  "answer": "dy/dx = 15x^2",
+  "explanation": "Use the power rule: 3 x 5 = 15 and reduce the exponent by 1."
+}

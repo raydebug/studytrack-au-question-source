@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-3",
+  "gradeLabel": "Year 3",
+  "subject": "health-pe",
+  "subjectLabel": "Health and Physical Education",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "What is a strategy for managing a strong emotion such as anger?",
+  "answer": "take deep breaths before responding",
+  "explanation": "A calming strategy can help a person make safer choices."
+}

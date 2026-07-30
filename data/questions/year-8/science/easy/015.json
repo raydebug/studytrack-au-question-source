@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-8",
+  "gradeLabel": "Year 8",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What do chloroplasts do in plant cells?",
+  "answer": "they carry out photosynthesis",
+  "explanation": "Chloroplasts contain chlorophyll and help make food from sunlight."
+}

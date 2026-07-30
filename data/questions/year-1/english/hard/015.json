@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-1",
+  "gradeLabel": "Year 1",
+  "subject": "english",
+  "subjectLabel": "English",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Choose the better ending for a story about a lost puppy: \"It rained.\" or \"The puppy followed the bell home.\"",
+  "answer": "The puppy followed the bell home.",
+  "explanation": "A good ending connects to the problem in the story and resolves it."
+}

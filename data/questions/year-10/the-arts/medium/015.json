@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-10",
+  "gradeLabel": "Year 10",
+  "subject": "the-arts",
+  "subjectLabel": "The Arts",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why does motif matter in music or visual storytelling?",
+  "answer": "repeated motifs help unify the work and reinforce ideas",
+  "explanation": "A motif becomes meaningful through recurrence."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-10",
+  "gradeLabel": "Year 10",
+  "subject": "health-pe",
+  "subjectLabel": "Health and Physical Education",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "How can a bystander respond safely to bullying?",
+  "answer": "support the target, avoid escalating the situation, and report it to a trusted adult or authority",
+  "explanation": "Safe action focuses on support and appropriate reporting."
+}

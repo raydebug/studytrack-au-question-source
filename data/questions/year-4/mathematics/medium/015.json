@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-4",
+  "gradeLabel": "Year 4",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "What is 2.5 + 1.75?",
+  "answer": "4.25",
+  "explanation": "Add the decimals carefully: 2.50 + 1.75 = 4.25."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-5",
+  "gradeLabel": "Year 5",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why is context important when choosing the best translation of a word?",
+  "answer": "one word can have different meanings in different situations",
+  "explanation": "Context helps learners choose accurate language."
+}

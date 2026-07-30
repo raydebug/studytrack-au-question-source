@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-2",
+  "gradeLabel": "Year 2",
+  "subject": "technologies",
+  "subjectLabel": "Technologies",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "Which tool is best for typing words: keyboard or paintbrush?",
+  "answer": "keyboard",
+  "explanation": "A keyboard is used for typing into a digital device."
+}

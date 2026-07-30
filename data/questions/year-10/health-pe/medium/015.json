@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-10",
+  "gradeLabel": "Year 10",
+  "subject": "health-pe",
+  "subjectLabel": "Health and Physical Education",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why can sleep deprivation reduce sporting performance?",
+  "answer": "it affects reaction time, concentration, and recovery",
+  "explanation": "Performance depends on both skill and adequate rest."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "foundation",
+  "gradeLabel": "Foundation",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why do people use gestures as well as words when learning a new language?",
+  "answer": "gestures help show meaning",
+  "explanation": "Body language can support understanding when words are new."
+}

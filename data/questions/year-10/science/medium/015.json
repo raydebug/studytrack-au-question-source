@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-10",
+  "gradeLabel": "Year 10",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "How does increasing surface area usually affect reaction rate?",
+  "answer": "it increases the reaction rate",
+  "explanation": "More exposed particles can collide more often."
+}

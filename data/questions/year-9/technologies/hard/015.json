@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-9",
+  "gradeLabel": "Year 9",
+  "subject": "technologies",
+  "subjectLabel": "Technologies",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "How can an iterative design process improve a prototype?",
+  "answer": "each cycle of testing and revision makes the design stronger",
+  "explanation": "Iteration supports continuous improvement rather than one final guess."
+}

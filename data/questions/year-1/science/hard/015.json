@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-1",
+  "gradeLabel": "Year 1",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why do shadows change position during the day?",
+  "answer": "the Sun appears to move across the sky",
+  "explanation": "As the Sun’s position changes, the shadow changes too."
+}

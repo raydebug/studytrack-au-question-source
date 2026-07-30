@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-6",
+  "gradeLabel": "Year 6",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why can changing one species in a food web affect many others?",
+  "answer": "species are interconnected through feeding relationships",
+  "explanation": "A food web links many organisms, so one change can ripple through the system."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-9",
+  "gradeLabel": "Year 9",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why can natural selection lead to adaptation over many generations?",
+  "answer": "individuals with helpful traits are more likely to survive and reproduce",
+  "explanation": "Beneficial traits become more common over time through differential reproduction."
+}

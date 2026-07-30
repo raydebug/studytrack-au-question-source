@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-8",
+  "gradeLabel": "Year 8",
+  "subject": "english",
+  "subjectLabel": "English",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "Which connotation is more positive: slim or skinny?",
+  "answer": "slim",
+  "explanation": "Both refer to being thin, but \"slim\" usually has a more positive connotation."
+}

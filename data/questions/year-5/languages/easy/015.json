@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-5",
+  "gradeLabel": "Year 5",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What is a bilingual dictionary used for? Give a brief answer.",
+  "answer": "to find meanings between two languages",
+  "explanation": "Bilingual dictionaries help learners check vocabulary."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-11",
+  "gradeLabel": "Year 11",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What is the purpose of a language register shift in a formal speech?",
+  "answer": "to match the expectations of the audience and situation",
+  "explanation": "Effective speakers adjust language to context."
+}

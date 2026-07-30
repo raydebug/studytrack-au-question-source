@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "foundation",
+  "gradeLabel": "Foundation",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Lina has 7 blocks and gives away 3. How many blocks are left?",
+  "answer": "4",
+  "explanation": "Taking 3 away from 7 leaves 4."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-7",
+  "gradeLabel": "Year 7",
+  "subject": "the-arts",
+  "subjectLabel": "The Arts",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "How can rhythm influence the mood of a dance piece?",
+  "answer": "faster or more irregular rhythms can change the energy and feeling",
+  "explanation": "Rhythm shapes movement quality and audience response."
+}

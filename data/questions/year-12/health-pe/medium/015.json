@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-12",
+  "gradeLabel": "Year 12",
+  "subject": "health-pe",
+  "subjectLabel": "Health and Physical Education",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why is recovery nutrition important after intense exercise?",
+  "answer": "it helps restore energy and repair muscles",
+  "explanation": "Food and fluids after activity support adaptation and recovery."
+}

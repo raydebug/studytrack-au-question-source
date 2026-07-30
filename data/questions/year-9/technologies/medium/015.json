@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-9",
+  "gradeLabel": "Year 9",
+  "subject": "technologies",
+  "subjectLabel": "Technologies",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why is modular design useful in coding projects?",
+  "answer": "separate parts can be built, tested, and reused more easily",
+  "explanation": "Modular systems are easier to manage and maintain."
+}

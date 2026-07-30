@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-9",
+  "gradeLabel": "Year 9",
+  "subject": "the-arts",
+  "subjectLabel": "The Arts",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "How can audience context change the interpretation of a performance?",
+  "answer": "different audiences bring different experiences and values",
+  "explanation": "Meaning is shaped by both the artwork and the audience."
+}

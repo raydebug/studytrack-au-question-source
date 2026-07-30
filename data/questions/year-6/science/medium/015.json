@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-6",
+  "gradeLabel": "Year 6",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why do we say the Earth rotates rather than revolves each day?",
+  "answer": "rotation means spinning on its axis",
+  "explanation": "Earth spins once on its axis each day; revolution is orbiting the Sun."
+}

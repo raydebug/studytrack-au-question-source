@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-3",
+  "gradeLabel": "Year 3",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "A bag has 48 marbles. One quarter are blue. How many blue marbles are there?",
+  "answer": "12",
+  "explanation": "One quarter of 48 is 48 ÷ 4 = 12."
+}

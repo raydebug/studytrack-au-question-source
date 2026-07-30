@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-12",
+  "gradeLabel": "Year 12",
+  "subject": "english",
+  "subjectLabel": "English",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why is synthesis important when using multiple critical sources?",
+  "answer": "it combines ideas to build a coherent argument rather than listing views separately",
+  "explanation": "Synthesis shows how sources connect within the writer’s own analysis."
+}

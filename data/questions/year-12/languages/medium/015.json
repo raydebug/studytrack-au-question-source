@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-12",
+  "gradeLabel": "Year 12",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why is cultural nuance important in advanced translation?",
+  "answer": "small differences in tone or convention can change how a message is received",
+  "explanation": "Accurate translation includes social meaning as well as literal content."
+}

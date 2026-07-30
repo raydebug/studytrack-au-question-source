@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-10",
+  "gradeLabel": "Year 10",
+  "subject": "hass",
+  "subjectLabel": "Humanities and Social Sciences",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why might historians disagree about the significance of the same event?",
+  "answer": "they may prioritise different evidence, perspectives, or criteria",
+  "explanation": "Historical significance is interpreted, not automatic."
+}

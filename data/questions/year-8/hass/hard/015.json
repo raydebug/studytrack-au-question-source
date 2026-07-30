@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-8",
+  "gradeLabel": "Year 8",
+  "subject": "hass",
+  "subjectLabel": "Humanities and Social Sciences",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "How can a source reflect the values of the society that produced it?",
+  "answer": "its language and focus can show what that society considered important",
+  "explanation": "Historical sources are shaped by context as well as content."
+}

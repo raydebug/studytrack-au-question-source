@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-9",
+  "gradeLabel": "Year 9",
+  "subject": "hass",
+  "subjectLabel": "Humanities and Social Sciences",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why is evaluating evidence central to historical argument?",
+  "answer": "strong arguments depend on credible evidence and interpretation",
+  "explanation": "History is not just retelling facts; it is reasoning from evidence."
+}

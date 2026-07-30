@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-1",
+  "gradeLabel": "Year 1",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "Which word is usually used to greet someone in the morning: good morning or good night?",
+  "answer": "good morning",
+  "explanation": "\"Good morning\" is used earlier in the day."
+}

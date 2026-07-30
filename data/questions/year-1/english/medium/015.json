@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-1",
+  "gradeLabel": "Year 1",
+  "subject": "english",
+  "subjectLabel": "English",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Rewrite this sentence with a capital letter: \"sam has a kite.\"",
+  "answer": "Sam has a kite.",
+  "explanation": "Sentences start with a capital letter for the first word and for names."
+}

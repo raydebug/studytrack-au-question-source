@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-8",
+  "gradeLabel": "Year 8",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Find the mean of 6, 9, 11, and 14.",
+  "answer": "10",
+  "explanation": "The total is 40 and 40 ÷ 4 = 10."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-5",
+  "gradeLabel": "Year 5",
+  "subject": "hass",
+  "subjectLabel": "Humanities and Social Sciences",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why is the secret ballot important in Australian elections?",
+  "answer": "it protects voters from pressure and keeps their choice private",
+  "explanation": "Privacy supports free and fair voting."
+}

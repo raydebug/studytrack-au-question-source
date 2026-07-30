@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-8",
+  "gradeLabel": "Year 8",
+  "subject": "the-arts",
+  "subjectLabel": "The Arts",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "How can composition affect the meaning of a photograph?",
+  "answer": "placement, framing, and focus influence what the viewer notices and how it feels",
+  "explanation": "Composition shapes interpretation as much as subject matter."
+}

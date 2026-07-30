@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-2",
+  "gradeLabel": "Year 2",
+  "subject": "hass",
+  "subjectLabel": "Humanities and Social Sciences",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "How can caring for a local park help the community?",
+  "answer": "it keeps the area safe, useful, and enjoyable for everyone",
+  "explanation": "Shared places benefit when community members look after them."
+}

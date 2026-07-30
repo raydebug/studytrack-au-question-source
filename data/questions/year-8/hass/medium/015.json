@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-8",
+  "gradeLabel": "Year 8",
+  "subject": "hass",
+  "subjectLabel": "Humanities and Social Sciences",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why might a society establish laws after a conflict or dispute?",
+  "answer": "to create order and set clear expectations",
+  "explanation": "Legal systems help manage conflict and maintain stability."
+}

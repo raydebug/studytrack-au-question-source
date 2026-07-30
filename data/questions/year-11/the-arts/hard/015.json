@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-11",
+  "gradeLabel": "Year 11",
+  "subject": "the-arts",
+  "subjectLabel": "The Arts",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "How can intertextual references enrich an artwork?",
+  "answer": "they add layers of meaning by connecting to other works or traditions",
+  "explanation": "Intertextuality rewards informed audiences and broadens interpretation."
+}

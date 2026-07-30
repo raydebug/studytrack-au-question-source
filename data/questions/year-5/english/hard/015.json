@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-5",
+  "gradeLabel": "Year 5",
+  "subject": "english",
+  "subjectLabel": "English",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Explain why a report should use headings and subheadings.",
+  "answer": "they organise information so readers can find key ideas quickly",
+  "explanation": "Headings structure information and improve clarity for the reader."
+}

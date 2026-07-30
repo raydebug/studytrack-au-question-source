@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-6",
+  "gradeLabel": "Year 6",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What is the role of a producer in an ecosystem?",
+  "answer": "it makes its own food, usually through photosynthesis",
+  "explanation": "Producers are the starting point for most food chains."
+}

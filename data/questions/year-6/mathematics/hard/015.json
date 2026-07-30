@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-6",
+  "gradeLabel": "Year 6",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "A train travels 180 km in 3 hours. What is its average speed?",
+  "answer": "60 km/h",
+  "explanation": "Average speed is distance divided by time: 180 ÷ 3 = 60."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-6",
+  "gradeLabel": "Year 6",
+  "subject": "technologies",
+  "subjectLabel": "Technologies",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why are criteria for success useful in a design project?",
+  "answer": "they provide clear standards for judging the solution",
+  "explanation": "Criteria help evaluate whether a design met the brief."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-11",
+  "gradeLabel": "Year 11",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why do bilingual speakers sometimes avoid exact translation?",
+  "answer": "a paraphrase may communicate the intended meaning more naturally",
+  "explanation": "Meaning matters more than one-to-one word matching."
+}

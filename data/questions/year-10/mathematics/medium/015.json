@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-10",
+  "gradeLabel": "Year 10",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Find the circumference of a circle with radius 4 cm in terms of pi.",
+  "answer": "8pi cm",
+  "explanation": "Circumference is 2πr, so 2 x π x 4 = 8π."
+}

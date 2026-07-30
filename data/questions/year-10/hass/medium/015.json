@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-10",
+  "gradeLabel": "Year 10",
+  "subject": "hass",
+  "subjectLabel": "Humanities and Social Sciences",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "How can comparative advantage shape trade patterns?",
+  "answer": "countries often specialise in producing what they can make relatively more efficiently",
+  "explanation": "Comparative advantage helps explain why trade can benefit both sides."
+}

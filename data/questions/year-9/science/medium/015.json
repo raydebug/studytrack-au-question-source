@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-9",
+  "gradeLabel": "Year 9",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why does increasing resistance reduce current in a circuit when voltage stays the same?",
+  "answer": "Ohm’s law shows current decreases as resistance increases",
+  "explanation": "For a fixed voltage, current and resistance are inversely related."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-2",
+  "gradeLabel": "Year 2",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "How can pictures help when learning vocabulary in another language?",
+  "answer": "they connect the new word directly to its meaning",
+  "explanation": "Visual cues reduce the need to translate every word."
+}

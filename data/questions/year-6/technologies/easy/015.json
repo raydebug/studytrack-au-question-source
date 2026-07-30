@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-6",
+  "gradeLabel": "Year 6",
+  "subject": "technologies",
+  "subjectLabel": "Technologies",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What does a sensor do in a digital system?",
+  "answer": "it detects information from the environment",
+  "explanation": "Sensors gather input such as light, temperature, or movement."
+}

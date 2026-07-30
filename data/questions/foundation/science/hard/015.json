@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "foundation",
+  "gradeLabel": "Foundation",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why does ice melt when you leave it in the sun?",
+  "answer": "the sun warms it and changes it from solid to liquid",
+  "explanation": "Heat can change ice from a solid into liquid water."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-8",
+  "gradeLabel": "Year 8",
+  "subject": "the-arts",
+  "subjectLabel": "The Arts",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why do directors use lighting changes on stage?",
+  "answer": "to guide attention and help create mood or time shifts",
+  "explanation": "Lighting is both practical and expressive."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-3",
+  "gradeLabel": "Year 3",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "What is the main job of roots in a plant?",
+  "answer": "to take in water and hold the plant in place",
+  "explanation": "Roots absorb water and help anchor the plant."
+}

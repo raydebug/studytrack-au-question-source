@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-1",
+  "gradeLabel": "Year 1",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "A clock shows 3 o'clock. What time will it be in 2 hours?",
+  "answer": "5 o'clock",
+  "explanation": "Two hours after 3 o'clock is 5 o'clock."
+}

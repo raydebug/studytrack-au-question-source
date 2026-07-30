@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-7",
+  "gradeLabel": "Year 7",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "What is one advantage of using classification keys in biology?",
+  "answer": "they help identify organisms using observable features",
+  "explanation": "Classification keys guide users through a sequence of distinguishing traits."
+}

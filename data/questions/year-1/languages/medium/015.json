@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-1",
+  "gradeLabel": "Year 1",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "What is a cognate?",
+  "answer": "a word that looks or sounds similar in two languages and has a similar meaning",
+  "explanation": "Cognates can help learners make useful connections."
+}

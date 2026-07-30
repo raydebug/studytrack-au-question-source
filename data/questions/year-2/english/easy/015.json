@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-2",
+  "gradeLabel": "Year 2",
+  "subject": "english",
+  "subjectLabel": "English",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "Which word is a noun: beach, quickly, under?",
+  "answer": "beach",
+  "explanation": "A noun names a person, place, or thing; \"beach\" names a place."
+}

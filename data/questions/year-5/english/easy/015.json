@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-5",
+  "gradeLabel": "Year 5",
+  "subject": "english",
+  "subjectLabel": "English",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "Which word has the prefix that means \"not\": uncertain, preview, return?",
+  "answer": "uncertain",
+  "explanation": "The prefix \"un-\" often means \"not\"."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-2",
+  "gradeLabel": "Year 2",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "What part of a living thing’s life cycle comes after a seed starts to grow?",
+  "answer": "a seedling",
+  "explanation": "A seed becomes a seedling when growth begins."
+}

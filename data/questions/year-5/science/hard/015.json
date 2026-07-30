@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-5",
+  "gradeLabel": "Year 5",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "How does a change in force affect an object’s motion?",
+  "answer": "it can change the object’s speed or direction",
+  "explanation": "Forces cause accelerations such as speeding up, slowing down, or turning."
+}

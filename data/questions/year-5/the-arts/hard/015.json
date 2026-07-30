@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-5",
+  "gradeLabel": "Year 5",
+  "subject": "the-arts",
+  "subjectLabel": "The Arts",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why can silence be powerful in a dramatic performance?",
+  "answer": "it can build tension or focus the audience’s attention",
+  "explanation": "Silence is a deliberate performance choice, not just an absence of sound."
+}

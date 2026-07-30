@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-4",
+  "gradeLabel": "Year 4",
+  "subject": "the-arts",
+  "subjectLabel": "The Arts",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "How can costume choices help an audience understand a character?",
+  "answer": "costume can suggest personality, setting, or status",
+  "explanation": "Design elements communicate meaning before a character even speaks."
+}

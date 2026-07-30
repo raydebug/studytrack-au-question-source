@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-3",
+  "gradeLabel": "Year 3",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why might an evaporating puddle disappear faster on a hot windy day?",
+  "answer": "heat and moving air increase evaporation",
+  "explanation": "Warmer conditions and wind help water particles leave the liquid more quickly."
+}

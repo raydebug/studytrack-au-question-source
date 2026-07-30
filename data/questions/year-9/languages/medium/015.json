@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-9",
+  "gradeLabel": "Year 9",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why can direct translation of humour be difficult?",
+  "answer": "jokes often depend on sound, culture, or wordplay",
+  "explanation": "Humour is closely tied to context."
+}

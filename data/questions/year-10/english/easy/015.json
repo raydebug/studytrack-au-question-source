@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-10",
+  "gradeLabel": "Year 10",
+  "subject": "english",
+  "subjectLabel": "English",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What is the purpose of an abstract in an analytical essay?",
+  "answer": "to briefly summarise the argument and findings",
+  "explanation": "An abstract gives a concise overview of the whole piece."
+}

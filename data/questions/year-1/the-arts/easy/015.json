@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-1",
+  "gradeLabel": "Year 1",
+  "subject": "the-arts",
+  "subjectLabel": "The Arts",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What line type can show movement in a drawing: wavy or invisible?",
+  "answer": "wavy",
+  "explanation": "Wavy lines can suggest movement or energy."
+}

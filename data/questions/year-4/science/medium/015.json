@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-4",
+  "gradeLabel": "Year 4",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "What type of simple machine is a playground seesaw?",
+  "answer": "a lever",
+  "explanation": "A seesaw pivots around a fulcrum, so it is a lever."
+}

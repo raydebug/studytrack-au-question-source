@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-12",
+  "gradeLabel": "Year 12",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "If sin(theta) = 3/5 in a right triangle, what is cos(theta)?",
+  "answer": "4/5",
+  "explanation": "Use a 3-4-5 triangle relationship."
+}

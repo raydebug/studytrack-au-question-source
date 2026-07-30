@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-12",
+  "gradeLabel": "Year 12",
+  "subject": "health-pe",
+  "subjectLabel": "Health and Physical Education",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What does informed consent mean in a health context?",
+  "answer": "a person understands the information and agrees voluntarily",
+  "explanation": "Consent should be informed, voluntary, and clear."
+}

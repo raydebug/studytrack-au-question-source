@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-11",
+  "gradeLabel": "Year 11",
+  "subject": "english",
+  "subjectLabel": "English",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why does a close analysis paragraph need both quotation and interpretation?",
+  "answer": "evidence proves the point and interpretation explains its significance",
+  "explanation": "Analysis is incomplete if it includes quotation without explaining how it supports the claim."
+}

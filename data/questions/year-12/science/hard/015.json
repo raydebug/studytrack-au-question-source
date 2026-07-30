@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-12",
+  "gradeLabel": "Year 12",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why are repeated trials important when evaluating experimental reliability?",
+  "answer": "they reduce the impact of random error and show whether results are consistent",
+  "explanation": "Reliable results should be reproducible across multiple trials."
+}

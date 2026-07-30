@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-4",
+  "gradeLabel": "Year 4",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "What is one reason to learn simple classroom phrases in another language?",
+  "answer": "to use the language for real communication",
+  "explanation": "Useful phrases help learners practise in everyday situations."
+}

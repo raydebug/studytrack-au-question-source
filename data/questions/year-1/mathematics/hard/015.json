@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-1",
+  "gradeLabel": "Year 1",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "There are 12 apples shared equally into 3 bowls. How many apples go in each bowl?",
+  "answer": "4",
+  "explanation": "Twelve divided by three equals four."
+}

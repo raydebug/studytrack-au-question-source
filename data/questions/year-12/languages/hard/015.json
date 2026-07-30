@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-12",
+  "gradeLabel": "Year 12",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "How can multilingualism shape perspective and communication choices?",
+  "answer": "using multiple languages can broaden identity, audience awareness, and ways of expressing meaning",
+  "explanation": "Language repertoire influences how people think about context and communication."
+}

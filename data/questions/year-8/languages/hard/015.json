@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-8",
+  "gradeLabel": "Year 8",
+  "subject": "languages",
+  "subjectLabel": "Languages",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "How can code-switching be useful for multilingual speakers?",
+  "answer": "it lets them shift language to suit context, identity, or meaning",
+  "explanation": "Code-switching can be a skilled communicative choice."
+}

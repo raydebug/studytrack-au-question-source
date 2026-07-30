@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "foundation",
+  "gradeLabel": "Foundation",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "Count the dots: 3 dots and 2 more dots. How many dots altogether?",
+  "answer": "5",
+  "explanation": "Adding 3 and 2 gives 5."
+}

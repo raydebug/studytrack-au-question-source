@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-8",
+  "gradeLabel": "Year 8",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why is sedimentary rock more likely than igneous rock to contain fossils?",
+  "answer": "it forms from layers of sediment that can bury remains gently",
+  "explanation": "Fossils are more likely to survive in sediment than in molten rock."
+}

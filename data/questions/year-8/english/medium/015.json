@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-8",
+  "gradeLabel": "Year 8",
+  "subject": "english",
+  "subjectLabel": "English",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "Why might a novelist use short sentences during an action scene?",
+  "answer": "to increase pace and tension",
+  "explanation": "Short sentences can make events feel faster and more urgent."
+}

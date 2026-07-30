@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-2",
+  "gradeLabel": "Year 2",
+  "subject": "english",
+  "subjectLabel": "English",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "What clue in a story best helps you infer that a character feels nervous?",
+  "answer": "shaking hands and a quiet voice",
+  "explanation": "Body language and speech clues help readers infer feelings."
+}

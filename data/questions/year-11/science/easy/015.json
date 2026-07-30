@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-11",
+  "gradeLabel": "Year 11",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "easy",
+  "difficultyLabel": "Easy",
+  "prompt": "Why are homologous structures useful evidence in evolution?",
+  "answer": "they suggest organisms share a common ancestor",
+  "explanation": "Similar underlying structures can indicate evolutionary relationships."
+}

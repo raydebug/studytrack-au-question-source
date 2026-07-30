@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-2",
+  "gradeLabel": "Year 2",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "Why are smooth ramps often easier for moving objects than rough ramps?",
+  "answer": "there is less friction",
+  "explanation": "Less friction means less force is needed to move the object."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-8",
+  "gradeLabel": "Year 8",
+  "subject": "science",
+  "subjectLabel": "Science",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "How does energy transfer differ between conduction and convection?",
+  "answer": "conduction transfers heat through direct contact, while convection transfers it through moving fluids",
+  "explanation": "The two processes both transfer heat but by different mechanisms."
+}

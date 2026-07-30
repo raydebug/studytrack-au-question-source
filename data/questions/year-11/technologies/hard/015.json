@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-11",
+  "gradeLabel": "Year 11",
+  "subject": "technologies",
+  "subjectLabel": "Technologies",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "How can normalisation improve a database design?",
+  "answer": "it reduces unnecessary duplication and improves consistency",
+  "explanation": "Normalisation structures data to avoid repeated or conflicting entries."
+}

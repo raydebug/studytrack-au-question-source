@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-3",
+  "gradeLabel": "Year 3",
+  "subject": "hass",
+  "subjectLabel": "Humanities and Social Sciences",
+  "difficulty": "hard",
+  "difficultyLabel": "Hard",
+  "prompt": "How can a diary entry help historians understand the past?",
+  "answer": "it gives a first-hand account of someone’s experiences",
+  "explanation": "Primary sources provide direct evidence from the time."
+}

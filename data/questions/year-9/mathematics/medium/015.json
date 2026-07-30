@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "createdAt": "2026-07-30",
+  "grade": "year-9",
+  "gradeLabel": "Year 9",
+  "subject": "mathematics",
+  "subjectLabel": "Mathematics",
+  "difficulty": "medium",
+  "difficultyLabel": "Medium",
+  "prompt": "What is the gradient of the line through (1, 2) and (5, 10)?",
+  "answer": "2",
+  "explanation": "Gradient = (10 - 2) ÷ (5 - 1) = 8 ÷ 4 = 2."
+}
