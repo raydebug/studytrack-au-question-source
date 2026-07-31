@@ -1,0 +1,1 @@
+{"id":"016","createdAt":"2026-07-31","grade":"year-9","gradeLabel":"Year 9","subject":"mathematics","subjectLabel":"Mathematics","difficulty":"medium","difficultyLabel":"Medium","prompt":"Expand: (x + 3)(x + 2).","answer":"x^2 + 5x + 6","explanation":"Multiply each term: x·x, x·2, 3·x and 3·2."}

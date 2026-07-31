@@ -1,0 +1,1 @@
+{"id":"016","createdAt":"2026-07-31","grade":"year-8","gradeLabel":"Year 8","subject":"mathematics","subjectLabel":"Mathematics","difficulty":"medium","difficultyLabel":"Medium","prompt":"A triangle has angles of 48° and 67°. What is the third angle?","answer":"65°","explanation":"Angles in a triangle add to 180°, so 180 - 48 - 67 = 65."}

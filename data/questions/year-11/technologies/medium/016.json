@@ -1,0 +1,1 @@
+{"id":"016","createdAt":"2026-07-31","grade":"year-11","gradeLabel":"Year 11","subject":"technologies","subjectLabel":"Technologies","difficulty":"medium","difficultyLabel":"Medium","prompt":"Why is version control useful in software development?","answer":"it tracks changes and supports collaboration","explanation":"Version control helps teams review, restore and merge work."}

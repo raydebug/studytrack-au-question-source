@@ -1,0 +1,1 @@
+{"id":"016","createdAt":"2026-07-31","grade":"year-12","gradeLabel":"Year 12","subject":"technologies","subjectLabel":"Technologies","difficulty":"medium","difficultyLabel":"Medium","prompt":"Why is maintainability important in software systems?","answer":"easier systems cost less to update and fix","explanation":"Maintainable code is clearer to test, modify and extend."}

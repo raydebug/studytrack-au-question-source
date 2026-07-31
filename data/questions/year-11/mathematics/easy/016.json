@@ -1,0 +1,1 @@
+{"id":"016","createdAt":"2026-07-31","grade":"year-11","gradeLabel":"Year 11","subject":"mathematics","subjectLabel":"Mathematics","difficulty":"easy","difficultyLabel":"Easy","prompt":"Simplify: 4x^2 ÷ 2x.","answer":"2x","explanation":"Divide coefficients and subtract powers of x: 4/2 = 2 and x^2 ÷ x = x."}

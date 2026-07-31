@@ -1,0 +1,1 @@
+{"id":"016","createdAt":"2026-07-31","grade":"year-10","gradeLabel":"Year 10","subject":"mathematics","subjectLabel":"Mathematics","difficulty":"medium","difficultyLabel":"Medium","prompt":"What is the gradient of the line through (2, 3) and (6, 11)?","answer":"2","explanation":"Gradient is rise over run: (11 - 3) / (6 - 2) = 8 / 4 = 2."}
