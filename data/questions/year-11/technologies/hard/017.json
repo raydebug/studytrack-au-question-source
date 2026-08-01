@@ -1,0 +1,1 @@
+{"id":"017","createdAt":"2026-08-01","grade":"year-11","gradeLabel":"Year 11","subject":"technologies","subjectLabel":"Technologies","difficulty":"hard","difficultyLabel":"Hard","prompt":"A system is fast but frequently unavailable. Which quality attribute is weak?","answer":"reliability","explanation":"If users cannot depend on the system being available, reliability is poor."}

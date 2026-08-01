@@ -1,0 +1,1 @@
+{"id":"017","createdAt":"2026-08-01","grade":"year-3","gradeLabel":"Year 3","subject":"technologies","subjectLabel":"Technologies","difficulty":"hard","difficultyLabel":"Hard","prompt":"A program should move a robot forward, then turn left, then stop. What must happen first?","answer":"move forward","explanation":"The first instruction in the sequence is to move forward."}

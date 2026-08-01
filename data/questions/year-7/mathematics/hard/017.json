@@ -1,0 +1,1 @@
+{"id":"017","createdAt":"2026-08-01","grade":"year-7","gradeLabel":"Year 7","subject":"mathematics","subjectLabel":"Mathematics","difficulty":"hard","difficultyLabel":"Hard","prompt":"A triangle has angles of 35° and 65°. What is the third angle?","answer":"80°","explanation":"Angles in a triangle add to 180°, so 180 - 35 - 65 = 80."}

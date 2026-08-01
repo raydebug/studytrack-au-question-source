@@ -1,0 +1,1 @@
+{"id":"017","createdAt":"2026-08-01","grade":"year-12","gradeLabel":"Year 12","subject":"mathematics","subjectLabel":"Mathematics","difficulty":"easy","difficultyLabel":"Easy","prompt":"Differentiate x^2.","answer":"2x","explanation":"Using the power rule, the derivative of x^2 is 2x."}

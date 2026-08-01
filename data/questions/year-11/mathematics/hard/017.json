@@ -1,0 +1,1 @@
+{"id":"017","createdAt":"2026-08-01","grade":"year-11","gradeLabel":"Year 11","subject":"mathematics","subjectLabel":"Mathematics","difficulty":"hard","difficultyLabel":"Hard","prompt":"Solve 2^x = 32.","answer":"x = 5","explanation":"Since 32 equals 2^5, x must be 5."}

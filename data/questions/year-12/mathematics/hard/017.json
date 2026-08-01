@@ -1,0 +1,1 @@
+{"id":"017","createdAt":"2026-08-01","grade":"year-12","gradeLabel":"Year 12","subject":"mathematics","subjectLabel":"Mathematics","difficulty":"hard","difficultyLabel":"Hard","prompt":"Find the derivative of 3x^3.","answer":"9x^2","explanation":"Multiply the coefficient by the power and reduce the power by one: 3 x 3x^2 = 9x^2."}

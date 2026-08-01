@@ -1,0 +1,1 @@
+{"id":"017","createdAt":"2026-08-01","grade":"year-11","gradeLabel":"Year 11","subject":"mathematics","subjectLabel":"Mathematics","difficulty":"medium","difficultyLabel":"Medium","prompt":"If f(x) = 2x + 1, what is f(6)?","answer":"13","explanation":"Substitute x = 6 into the function: 2(6) + 1 = 13."}

@@ -1,0 +1,1 @@
+{"id":"017","createdAt":"2026-08-01","grade":"year-10","gradeLabel":"Year 10","subject":"mathematics","subjectLabel":"Mathematics","difficulty":"medium","difficultyLabel":"Medium","prompt":"Solve x^2 = 49.","answer":"x = 7 or x = -7","explanation":"Both 7 and -7 give 49 when squared."}
