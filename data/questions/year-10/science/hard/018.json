@@ -1,0 +1,1 @@
+{"id":"018","createdAt":"2026-08-02","grade":"year-10","gradeLabel":"Year 10","subject":"science","subjectLabel":"Science","difficulty":"hard","difficultyLabel":"Hard","prompt":"Why does increasing voltage increase current in a resistor if resistance stays constant?","answer":"because current equals voltage divided by resistance","explanation":"Ohm's law states I = V/R."}

@@ -1,0 +1,1 @@
+{"id":"018","createdAt":"2026-08-02","grade":"year-11","gradeLabel":"Year 11","subject":"mathematics","subjectLabel":"Mathematics","difficulty":"easy","difficultyLabel":"Easy","prompt":"Expand (x + 4)(x + 1).","answer":"x^2 + 5x + 4","explanation":"Multiply each term: x^2 + x + 4x + 4 = x^2 + 5x + 4."}
