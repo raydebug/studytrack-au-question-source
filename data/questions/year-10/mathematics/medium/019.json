@@ -1,0 +1,1 @@
+{"id":"019","createdAt":"2026-08-03","grade":"year-10","gradeLabel":"Year 10","subject":"mathematics","subjectLabel":"Mathematics","difficulty":"medium","difficultyLabel":"Medium","prompt":"Find the midpoint of the points (2,4) and (6,8).","answer":"(4,6)","explanation":"Average the x-coordinates and y-coordinates: (2+6)/2 = 4 and (4+8)/2 = 6."}

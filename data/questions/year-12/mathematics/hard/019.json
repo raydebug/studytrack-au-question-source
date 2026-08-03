@@ -1,0 +1,1 @@
+{"id":"019","createdAt":"2026-08-03","grade":"year-12","gradeLabel":"Year 12","subject":"mathematics","subjectLabel":"Mathematics","difficulty":"hard","difficultyLabel":"Hard","prompt":"Integrate 6x with respect to x.","answer":"3x^2 + C","explanation":"The antiderivative of 6x is 3x^2, plus the constant of integration C."}

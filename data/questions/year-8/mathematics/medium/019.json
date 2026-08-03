@@ -1,0 +1,1 @@
+{"id":"019","createdAt":"2026-08-03","grade":"year-8","gradeLabel":"Year 8","subject":"mathematics","subjectLabel":"Mathematics","difficulty":"medium","difficultyLabel":"Medium","prompt":"Find the area of a triangle with base 10 cm and height 6 cm.","answer":"30 cm^2","explanation":"Area of a triangle is 1/2 x base x height, so 1/2 x 10 x 6 = 30."}

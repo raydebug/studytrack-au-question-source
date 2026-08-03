@@ -1,0 +1,1 @@
+{"id":"019","createdAt":"2026-08-03","grade":"year-8","gradeLabel":"Year 8","subject":"mathematics","subjectLabel":"Mathematics","difficulty":"hard","difficultyLabel":"Hard","prompt":"If a line has gradient 3 and y-intercept -2, what is its equation?","answer":"y = 3x - 2","explanation":"In slope-intercept form, y = mx + b, so the equation is y = 3x - 2."}

@@ -1,0 +1,1 @@
+{"id":"019","createdAt":"2026-08-03","grade":"year-12","gradeLabel":"Year 12","subject":"mathematics","subjectLabel":"Mathematics","difficulty":"medium","difficultyLabel":"Medium","prompt":"If f(x) = 2x + 1, find f(4).","answer":"9","explanation":"Substitute x = 4 to get 2(4) + 1 = 9."}

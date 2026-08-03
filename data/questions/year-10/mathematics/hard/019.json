@@ -1,0 +1,1 @@
+{"id":"019","createdAt":"2026-08-03","grade":"year-10","gradeLabel":"Year 10","subject":"mathematics","subjectLabel":"Mathematics","difficulty":"hard","difficultyLabel":"Hard","prompt":"Solve 2x^2 - 8 = 0.","answer":"x = 2 or x = -2","explanation":"Add 8 and divide by 2 to get x^2 = 4, so x = 2 or x = -2."}

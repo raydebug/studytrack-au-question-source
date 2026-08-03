@@ -1,0 +1,1 @@
+{"id":"019","createdAt":"2026-08-03","grade":"year-9","gradeLabel":"Year 9","subject":"mathematics","subjectLabel":"Mathematics","difficulty":"medium","difficultyLabel":"Medium","prompt":"Factorise x^2 + 7x + 12.","answer":"(x + 3)(x + 4)","explanation":"Two numbers that multiply to 12 and add to 7 are 3 and 4."}

@@ -1,0 +1,1 @@
+{"id":"019","createdAt":"2026-08-03","grade":"year-5","gradeLabel":"Year 5","subject":"mathematics","subjectLabel":"Mathematics","difficulty":"hard","difficultyLabel":"Hard","prompt":"A number is divisible by 3 and 5. Name one number between 20 and 40.","answer":"30","explanation":"A number divisible by both 3 and 5 must be a multiple of 15. Between 20 and 40, 30 works."}

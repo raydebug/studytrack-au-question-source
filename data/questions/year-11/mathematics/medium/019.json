@@ -1,0 +1,1 @@
+{"id":"019","createdAt":"2026-08-03","grade":"year-11","gradeLabel":"Year 11","subject":"mathematics","subjectLabel":"Mathematics","difficulty":"medium","difficultyLabel":"Medium","prompt":"Solve 2^x = 16.","answer":"x = 4","explanation":"Because 16 equals 2^4, x must be 4."}
