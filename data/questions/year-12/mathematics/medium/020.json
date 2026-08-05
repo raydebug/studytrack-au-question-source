@@ -1,0 +1,1 @@
+{"id":"020","createdAt":"2026-08-05","grade":"year-12","gradeLabel":"Year 12","subject":"mathematics","subjectLabel":"Mathematics","difficulty":"medium","difficultyLabel":"Medium","prompt":"Solve 2e^x = 10.","answer":"x = ln 5","explanation":"Divide by 2 to get e^x = 5, then take the natural logarithm of both sides."}

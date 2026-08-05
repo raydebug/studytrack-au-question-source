@@ -1,0 +1,1 @@
+{"id":"020","createdAt":"2026-08-05","grade":"year-11","gradeLabel":"Year 11","subject":"mathematics","subjectLabel":"Mathematics","difficulty":"easy","difficultyLabel":"Easy","prompt":"Differentiate 4x^3.","answer":"12x^2","explanation":"Using the power rule, 3 becomes the coefficient multiplier and the exponent decreases by 1."}

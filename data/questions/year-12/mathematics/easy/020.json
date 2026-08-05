@@ -1,0 +1,1 @@
+{"id":"020","createdAt":"2026-08-05","grade":"year-12","gradeLabel":"Year 12","subject":"mathematics","subjectLabel":"Mathematics","difficulty":"easy","difficultyLabel":"Easy","prompt":"Differentiate x^4 - 3x.","answer":"4x^3 - 3","explanation":"Apply the power rule to x^4 and note that the derivative of -3x is -3."}

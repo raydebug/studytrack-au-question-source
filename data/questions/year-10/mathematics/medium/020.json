@@ -1,0 +1,1 @@
+{"id":"020","createdAt":"2026-08-05","grade":"year-10","gradeLabel":"Year 10","subject":"mathematics","subjectLabel":"Mathematics","difficulty":"medium","difficultyLabel":"Medium","prompt":"Find the midpoint of the points (4, 2) and (10, 8).","answer":"(7, 5)","explanation":"Average the x-coordinates and the y-coordinates separately."}

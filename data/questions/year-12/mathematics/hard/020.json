@@ -1,0 +1,1 @@
+{"id":"020","createdAt":"2026-08-05","grade":"year-12","gradeLabel":"Year 12","subject":"mathematics","subjectLabel":"Mathematics","difficulty":"hard","difficultyLabel":"Hard","prompt":"Find the gradient of y = x^3 - 2x at x = 2.","answer":"10","explanation":"Differentiate to get 3x^2 - 2, then substitute x = 2 to get 12 - 2 = 10."}

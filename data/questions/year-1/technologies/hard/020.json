@@ -1,0 +1,1 @@
+{"id":"020","createdAt":"2026-08-05","grade":"year-1","gradeLabel":"Year 1","subject":"technologies","subjectLabel":"Technologies","difficulty":"hard","difficultyLabel":"Hard","prompt":"Why must instructions for a robot be in the correct order?","answer":"the robot follows steps exactly","explanation":"If the order is wrong, the robot may do the wrong action."}

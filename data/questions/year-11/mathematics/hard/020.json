@@ -1,0 +1,1 @@
+{"id":"020","createdAt":"2026-08-05","grade":"year-11","gradeLabel":"Year 11","subject":"mathematics","subjectLabel":"Mathematics","difficulty":"hard","difficultyLabel":"Hard","prompt":"A function is defined by f(x) = 2x^2 - 3. Find f(-4).","answer":"29","explanation":"Substitute -4, square it to get 16, multiply by 2 to get 32, then subtract 3."}

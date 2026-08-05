@@ -1,0 +1,1 @@
+{"id":"020","createdAt":"2026-08-05","grade":"year-7","gradeLabel":"Year 7","subject":"mathematics","subjectLabel":"Mathematics","difficulty":"hard","difficultyLabel":"Hard","prompt":"A triangle has side lengths 5 cm, 12 cm, and 13 cm. Is it a right triangle?","answer":"yes","explanation":"Because 5 squared plus 12 squared equals 13 squared, it is right-angled."}

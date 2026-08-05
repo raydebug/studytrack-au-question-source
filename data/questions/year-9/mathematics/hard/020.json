@@ -1,0 +1,1 @@
+{"id":"020","createdAt":"2026-08-05","grade":"year-9","gradeLabel":"Year 9","subject":"mathematics","subjectLabel":"Mathematics","difficulty":"hard","difficultyLabel":"Hard","prompt":"A right triangle has shorter sides of 8 cm and 15 cm. What is the hypotenuse?","answer":"17 cm","explanation":"Using Pythagoras, 8 squared plus 15 squared equals 17 squared."}

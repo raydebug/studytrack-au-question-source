@@ -1,0 +1,1 @@
+{"id":"020","createdAt":"2026-08-05","grade":"year-3","gradeLabel":"Year 3","subject":"technologies","subjectLabel":"Technologies","difficulty":"hard","difficultyLabel":"Hard","prompt":"Why do programmers test a game after adding new code?","answer":"to check for bugs and see if it works as expected","explanation":"Testing helps identify mistakes and improve the program."}

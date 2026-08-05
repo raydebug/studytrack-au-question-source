@@ -1,0 +1,1 @@
+{"id":"020","createdAt":"2026-08-05","grade":"year-2","gradeLabel":"Year 2","subject":"technologies","subjectLabel":"Technologies","difficulty":"hard","difficultyLabel":"Hard","prompt":"Why should a sequence in a program be exact?","answer":"because computers follow each step exactly","explanation":"A small mistake in the order can change the result."}

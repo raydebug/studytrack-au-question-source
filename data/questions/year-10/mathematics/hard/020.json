@@ -1,0 +1,1 @@
+{"id":"020","createdAt":"2026-08-05","grade":"year-10","gradeLabel":"Year 10","subject":"mathematics","subjectLabel":"Mathematics","difficulty":"hard","difficultyLabel":"Hard","prompt":"Solve x^2 - 9x + 14 = 0.","answer":"x = 2 or x = 7","explanation":"The quadratic factorises to (x - 2)(x - 7) = 0."}

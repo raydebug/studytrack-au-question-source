@@ -1,0 +1,1 @@
+{"id":"020","createdAt":"2026-08-05","grade":"year-8","gradeLabel":"Year 8","subject":"mathematics","subjectLabel":"Mathematics","difficulty":"hard","difficultyLabel":"Hard","prompt":"If a line has gradient -2 and passes through the point (0, 5), what is its equation?","answer":"y = -2x + 5","explanation":"The gradient is the coefficient of x and the y-intercept is 5."}
